@@ -4,10 +4,12 @@ on:
     paths-ignore:
       - 'README.md'
       - '*.md'
+      - 'v*'
     branches: [ main ]
   schedule:
-    - cron: 0 */12 * * *
+    - cron: 0 8,20 * * *
   workflow_dispatch:
+     types: [started]
 
 env:
   TZ: Asia/Shanghai
@@ -40,9 +42,9 @@ jobs:
           else
             echo "status=success" >> $GITHUB_OUTPUT
             git add .
-            git config --local user.email "xjianglin@gmail.com"
-            git config --local user.name "hululu1068"
-            git commit -m "CI Updated at $(date +'%Y-%m-%d %H:%M:%S')" -a
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Actio"
+            git commit -m "更新时间于 $(date +'%Y-%m-%d %H:%M:%S')（北京时间）" -a
           fi
 
       - name: GitHub Push
@@ -53,7 +55,7 @@ jobs:
           branch: ${{github.ref}}
 
       - name: Mirror Refresh
-        run: sleep 10 && curl 'https://purge.jsdelivr.net/gh/${{github.repository}}/rule'
+        run: sleep 10 && curl 'https://fastly.jsdelivr.net/gh/${{github.repository}}/rule'
 
 
       - name: Delete Workflow Runs
