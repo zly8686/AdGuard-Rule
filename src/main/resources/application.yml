@@ -28,8 +28,10 @@ application:
       - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #adguard base
       #自用添加↓
-      - 'https://anti-ad.net/easylist.txt' #name: anti-AD
+      #- 'https://anti-ad.net/easylist.txt' #name: anti-AD
       #- 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #name: StevenBlack/hosts规则
+      - 'https://raw.githubusercontent.com/smed79/easylist-hosts/main/hosts' #name: smed79
+      - 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt' #name: 1007
       - 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt' #name: AdGuard CNAME 伪装跟踪器列表
       - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' #name: AdGuard DNS filter
       - 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/CN.txt' #name: AdditionalFiltersCN
@@ -54,11 +56,11 @@ application:
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #name: 秋风广告规则,针对Android广告
       #KoolProxy规则
       #- 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/koolproxy.txt' #name:静态白名单规则
-      - 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/daily.txt' #name:每日规则
-      #- 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/adg.txt' #name:AdGuard规则
-      #- 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/adgk.txt' #name:Banben规则
-      #- 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/yhosts.txt' #name:Yhosts规则
-      - 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/steven.txt' #name:StevenBlack规则
+      #- 'https://raw.githubusercontent.com/ilxp/koolproxy/main/rules/daily.txt' #name:每日规则
+      - 'https://raw.githubusercontent.com/ilxp/koolproxy/main/rules/adg.txt' #name:AdGuard规则
+      #- 'https://raw.githubusercontent.com/ilxp/koolproxy/main/rules/adgk.txt' #name:Banben规则
+      #- 'https://raw.githubusercontent.com/ilxp/koolproxy/main/rules/yhosts.txt' #name:Yhosts规则
+      - 'https://raw.githubusercontent.com/ilxp/koolproxy/main/rules/steven.txt' #name:StevenBlack规则
       #uBlock内置规则
       - 'https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/filters.txt' #name: uBlock filters
       - 'https://ublockorigin.pages.dev/filters/badware.txt' #name: uBlock filters – Badware risks
@@ -73,20 +75,20 @@ application:
   output:
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
-      all.txt:    #输出文件名
-        - DOMAIN  #域名规则，仅完整域名
-        - REGEX   #正则规则，包含正则的域名规则，AdGH支持
-        - MODIFY  #修饰规则，添加了一些修饰符号的规则，AdG支持
-        - HOSTS   #Hosts规则
+#      all.txt:    #输出文件名
+#        - DOMAIN  #域名规则，仅完整域名
+#        - REGEX   #正则规则，包含正则的域名规则，AdGH支持
+#        - MODIFY  #修饰规则，添加了一些修饰符号的规则，AdG支持
+#        - HOSTS   #Hosts规则
       adgh.txt:
         - DOMAIN
         - REGEX
 #        - HOSTS
-      hosts.txt:
-        - HOSTS
-      regex.txt:
-        - REGEX
-      domain.txt:
-        - DOMAIN
-      modify.txt:
-        - MODIFY
+#      hosts.txt:
+#        - HOSTS
+#      regex.txt:
+#        - REGEX
+#      domain.txt:
+#        - DOMAIN
+#      modify.txt:
+#        - MODIFY

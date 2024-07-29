@@ -1,138 +1,160 @@
-!-------------白名单---------------
-
-#图床
+# [网易验证]
+@@||cstaticdun.126.net^
+# [QQ音乐PC端登录]
+@@||c.y.qq.com^
+# [小爱音箱配网]
+@@||tracker.ai.xiaomi.com^
+# [阿里验证]
+@@||acs.m.taobao.com^
+# [淘宝特卖网]
+@@||gma.alicdn.com^
+# [小米主题]
+@@||zhuti.xiaomi.com^
+# [腾讯视频图片资源]
+@@||puui.qpic.cn^
+# [腾讯网图片资源]
+@@||inews.gtimg.com^
+# [小黑盒验证]
+@@||fp-it.fengkongcloud.com^
+# [部分微信小程序登录]
+@@||cnlogin.cainiao.com^
+# [百度智能云]
+@@||console.bce.baidu.com^$domain=console.bce.baidu.com
+@@||login.bce.baidu.com^$domain=login.bce.baidu.com
+# [腾讯系 头像]
+@@||qlogo.cn^
+# [B站弹幕]
+@@||broadcastlv.chat.bilibili.com^
+# [JD试用商品详情]
+@@||wl.jd.com^
+# [微信验证]
+@@||shminorshort.weixin.qq.com^
+@@||support.weixin.qq.com^
+# [Bootcdn]
+@@||cdn.bootcdn.net^
+# [图床]
 @@||pic.imgdb.cn
-
-#微信支付
-@@||payapp.weixin.qq.com^$important
-
-#夸克网盘
-@@||pan.quark.cn^$important
-@@||drive.quark.cn^$important
-
-#夸克首页
-@@||myquark.cn^$important
-
-#小米骚扰拦截 数据库更新
-@@||api.sec.miui.com^$important
-
-#小米推送(mipush)
-@@||cn.app.chat.xiaomi.net^$important
-
-#个推
-@@||sdk.open.talk.gepush.com^$important
-
-#公共CDN
-@@||bootcdn.net^$important
-
-!-------------黑名单--------------------
-
-||log.uu.163.com^$important
-||ksmobile.com^$important
-
-!-----------------待定-----------------
-
-#美团推送(大众点评)
-@@||dpmtpush.dianping.com^$important
-
-#阿里推送(未知用途)
-@@||mpush-api.aliyun.com^$important
-
+# [微信支付]
+@@||payapp.weixin.qq.com^
+# [小米骚扰拦截 数据库更新]
+@@||api.sec.miui.com^
+# [小米推送(mipush)]
+@@||cn.app.chat.xiaomi.net^
+# [个推]
+#@@||sdk.open.talk.gepush.com^
+# [公共CDN]
+@@||bootcdn.net^
+# [360]
+@@||360.cn^
+@@||down.360safe.com^
+# [酷安]
+@@||316.coolapk1s.com^
+@@||api.coolapk.com^
+@@||avatar.coolapk.com^
+@@||umengjmacs.m.taobao.com^
+# [抖音网页]
+@@||lf3-cdn-tos.bytegoofy.com^
+@@||lf6-cdn-tos.bytegoofy.com^
+@@||lf1-cdn-tos.bytegoofy.com^
+# [京东]
+@@||m.jingxi.com^
+@@||gia.jd.com^
+# [笔趣阁]
+@@||www.bqgyy.com^
+# [qq]
+@@||c.pc.qq.com^
+# [饿了么小程序]
+@@||waimai-guide.ele.me^
+# [163]
+@@||nstool.netease.com^
+#放行log文件,减少重复请求造成的发热]
+@@||log-api.pangolin-sdk-toutiao-b.com^
+@@||log-api.pangolin-sdk-toutiao.com^
+@@||https://portal.ikuai8-wifi.com^$important
+@@||10.*.*.*^$important
+@@||192.168.9.*^$important
+@@||192.168.90.*^$important
+@@||luyou.gocloud.cn^$important
+@@||vanward.com^$important
+@@||https://*.vanward.com^$important
+@@||mercuryclouds.com.cn^$important
+@@||https://*.mercuryclouds.com.cn^$important
+@@||tplinkcloud.com.cn^$important
+@@||update.huorong.cn^$important
+@@||captive.apple.com^$client=10.20.20.*
+@@||smart-vanward.oss-cn-shenzhen.aliyuncs.com^$important
+@@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
+@@||71edge.com^$important
+@@||smartmidea.net^$important
+@@||midea.cn^$important
+@@||midea.com^$important
+@@||meijuresources.oss-cn-hangzhou.aliyuncs.com^$important
+@@||bmcx.com^
+@@||ip.taobao.com^
+@@||miwifi.com^$important
+@@||metrics1-drcn.dt.dbankcloud.cn^$important
+@@||vanwardsmart.com^$important
+@@||https://*vanwardsmart.com^$important
+@@||chinavanward.com^$important
+@@||https://*chinavanward.com^$important
+@@||wanhe.com^$important
+@@||https://*wanhe.com^$important
+@@||deliver.kuwo.cn^$important'
+@@||ele.me^$important
+@@||dns.weixin.qq.com.cn^$important
+/^.+\.(arpa|lan|wifi|dnscrypt)$/$dnsrewrite=NXDOMAIN
+/^[^.]+$/$dnsrewrite=NXDOMAIN
+/js/ads
+/banners/pr_advertising_ads_banner
+.ru/ads/
+unpkg.com/aladug/*.js
+/index.html?channelCode=
+.com/js/g.js
+:8008/*/*?is_not=
+.cn:8005/cc/*?is_not=
+*/api/ad/*
+*/js/mts66.js
+*/Distribute/Distribute_g/butterfly/*
+*/js/mts.js
+/://666(7|8)[0-9]{2}.xyz\//$image,third-party
+/\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
+/\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
+/\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
+/\/theme\/js\/[a-z0-9]{5,}\.js\?v=/$domain=novipnoad.com
+/\/\w{8}\/\w{10}\./$script,~third-
+/^(\S+\.)?advert/$denyallow=alibabacorp.com|alibabadns.com|sm.cn|tanx.com|alibaba-inc.com|tmall.com|taobao.com
+/^(\S+\.)?affiliat(es?[0-9a-z]*?|ion[0-9\-a-z]*?|ly[0-9a-z\-]*?)\./
+/^(\S+\.)?s?metrics\./
+/^(\S+\.)?afgr[\d]{1,2}\.com$/
+/^(\S+\.)?analytics(\-|\.)/
+/^(\S+\.)?counter(\-|\.)/
+/^(\S+\.)?pixels?\./
+/^(\S+\.)?syma[a-z]\.cn$/
+/^(\S+\.)?widgets?\./
+/^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
+/^(\S+\.)?track(ing)?\./
+/^(\S+\.)?tongji\./
+/^(\S+\.)?toolbar\./
+/^(\S+\.)?adservice\.google\./
+/^(\S+\.)?d[\d]+\.sina(img)?(\.com)?\.cn/
+/^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
+/^(\S+\.)?delivery([\d]{2}|dom|modo).com$/
+/^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
+/^(\S+\.)?11599[\da-z]{2,20}\.com$/
+/^(\S+\.)?61677[\da-z]{0,20}\.com$/
+/^(\S+\.)?[0-9a-f]{15,}\.com$/
+/^(\S+\.)?[0-9a-z]{16,}\.xyz$/
+/^(\S+\.)?ad[0-9]{3,}m.com$/
+/^(\S+\.)?aj[0-9]{4,}.online$/
+/^(\S+\.)?xpj[0-9]\.net$/
+/^(\S+\.)?ylx-[0-9].com$/
+/^(\S+\.)?777\-?partners?\.(net|com)$/
+/^(\S+\.)?voyage-prive\.[a-z]+(\.uk)?$/
+/^(\S+\.)?e7[0-9]{2,4}\.(net|com)?$/
+/^(\S+\.)?g[1-4][0-9]{8,9}\.com?$/
+/^(\S+\.)?hg[0-9]{4,5}\.com?$/
+/^(\S+\.)?333[1-9]{2}[0-9]{2}\.com?$/
+/^(\S+\.)?5551[0-9]{3}\.com?$/
 #小米浏览器 地址栏应用广告
 ||exp.sug.browser.miui.com^$important
 ||sentry.d.xiaomi.net^$important
-
-#夸克
-@@||quark.cn^$important
-
-#涉及部分UC系登陆、扫码验证等
-@@||uc.cn^$important
-
-# ------------AdGuard Home放行-------------------
-@@||www.google-analytics.com^$important
-@@||clients6.google.com^$important
-@@||clients4.google.com^$important
-@@||clients2.google.com^$important
-@@||fonts.gstatic.com^$important
-@@||www.googleadservices.com^$important
-@@||wm.makeding.com^$important
-@@||cpv2.mairuan.com^$important
-@@||edge.activity.windows.com^$important
-@@||o.actio.systems^$important
-@@||studcat.infra.systems^$important
-@@||www.crossoverchina.com^$important
-@@||c.duomai.com^$important
-@@||browser.events.data.msn.com^$important
-@@||mediation.adnxs.com^$important
-@@||disneyplus.bn5x.net^$important
-@@||lf1-ttcdn-tos.pstatp.com^$important
-@@||mx.technolutions.net^$important
-@@||chrome-infra-packages.appspot.com^$important
-@@||cps.kaola.com^$important
-@@||s.click.taobao.com^$important
-@@||acs.m.taobao.com^$important
-@@||s.click.tmall.com^$important
-@@||www1.appcleanermac.com^$important
-@@||widget.mibbit.com^$important
-@@||ad.doubleclick.net^$important
-@@||cros-updates-serving.appspot.com^$important
-@@||ptmi.gitv.tv^$important
-@@||puui.qpic.cn^$important
-@@||ingest.sentry.io^$important
-@@||zm.sm-tc.cn^$important
-@@||ctrip.com^$important
-@@||ms.vipstatic.com^$important
-@@||amp-api-edge.apps.apple.com^$important
-@@||aweme.snssdk.com^$important
-@@||ggpht.com^$important
-@@||pan.quark.cn^$important
-@@||t.co^$important
-@@||scs.openspeech.cn^$important
-@@||www.ntdtv.com^$important
-@@||jump.luna.58.com^$important
-@@||pingjs.qq.com^$important
-@@||aegis.qq.com^$important
-@@||oth.eve.mdt.qq.com^$important
-@@||sdk.e.qq.com^$important
-@@||ii.gdt.qq.com^$important
-@@||mdt.qq.com^$important
-@@||pgdt.gtimg.cn^$important
-@@||dldir3.qq.com^$important
-@@||gdt.qq.com^$important
-@@||gdtimg.com^$important
-@@||ios.bugly.qq.com^$important
-@@||tangram.e.qq.com^$important
-@@||appsupport.qq.com^$important
-@@||hao123.com^$important
-@@||synology.com^$important
-@@||lanzous.com^$important
-@@||download.parallels.com^$important
-@@||get.sogou.com^$important
-@@||go.oracle.com^$important
-@@||oracle-mail.com^$important
-@@||t.eloqua.com^$important
-@@||mtalk.google.com^$important
-@@||www.googletagmanager.com^$important
-@@||ouo.io^$important
-@@||www.hao123.com^$important
-@@||m.hao123.com^$important
-@@||mini.hao123.com^$important
-@@||ar.hao123.com^$important
-@@||jumpluna.58.com^$important
-@@||collector.githubapp.com^$important
-@@||securemvt.apple.com.cn^$important
-@@||iadsdk.apple.com^$important
-@@||hm.baidu.com^$important
-@@||e.baidu.com^$important
-@@||d2.yiche.com^$important
-@@||ip.ws.126.net^$important
-@@||eclick.baidu.com^$important
-@@||cm.bilibili.com^$important
-@@||cm.dmp.sina.cn^$important
-@@||cm.jd.com^$important
-@@||s.deepl.com^$important
-@@||360.cn^$important
-@@||www.bilibili.com^$important
-@@||wgo.mmstat.com^$important
-@@||app-monitor.ele.me^$important
-@@||hdslb.com
