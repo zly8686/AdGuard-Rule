@@ -30,14 +30,15 @@ application:
       #自用添加↓
       #- 'https://anti-ad.net/easylist.txt' #name: anti-AD
       #- 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #name: StevenBlack/hosts规则
-      - 'https://raw.githubusercontent.com/smed79/easylist-hosts/main/hosts' #name: smed79
-      - 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt' #name: 1007
+      #- 'https://raw.githubusercontent.com/smed79/easylist-hosts/main/hosts' #name: smed79
+      #- 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt' #name: 1007
       - 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt' #name: AdGuard CNAME 伪装跟踪器列表
       - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' #name: AdGuard DNS filter
       - 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/CN.txt' #name: AdditionalFiltersCN
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #name: ADgk 移动广告规则
       - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt' #name: 乘风 广告过滤规则
       - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt' #name: 乘风 视频过滤规则
+      - 'https://ghproxy.net/https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt' #name: 乘风 小众视频过滤规则
       - 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt' #name: HalfLife_合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
       - 'https://adaway.org/hosts.txt' #name: AdAway 官方的去广告 Host 规则
       - 'https://easylist-downloads.adblockplus.org/antiadblockfilters.txt' #name: 去除禁止广告拦截提示规则
@@ -75,20 +76,20 @@ application:
   output:
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
-#      all.txt:    #输出文件名
-#        - DOMAIN  #域名规则，仅完整域名
-#        - REGEX   #正则规则，包含正则的域名规则，AdGH支持
-#        - MODIFY  #修饰规则，添加了一些修饰符号的规则，AdG支持
-#        - HOSTS   #Hosts规则
+      all.txt:    #输出文件名
+        - DOMAIN  #域名规则，仅完整域名
+        - REGEX   #正则规则，包含正则的域名规则，AdGH支持
+        - MODIFY  #修饰规则，添加了一些修饰符号的规则，AdG支持
+        - HOSTS   #Hosts规则
       adgh.txt:
         - DOMAIN
         - REGEX
 #        - HOSTS
-#      hosts.txt:
-#        - HOSTS
-#      regex.txt:
-#        - REGEX
-#      domain.txt:
-#        - DOMAIN
-#      modify.txt:
-#        - MODIFY
+      hosts.txt:
+        - HOSTS
+      regex.txt:
+        - REGEX
+      domain.txt:
+        - DOMAIN
+      modify.txt:
+        - MODIFY
