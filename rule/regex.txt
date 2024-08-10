@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-08-10 10:38:22（北京时间）
+# 更新时间于: 2024-08-10 22:17:51（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 ||yandex.avito.www.
@@ -20,7 +20,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -56,6 +55,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -101,28 +101,22 @@ advertisers.js|
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
 ||67.21.92.*.gif
-||bd*-ys.km.com^
 ||uc*.atobo.com^
 ||impservice*.youdao.com^
-||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||txhfgwgkwt*.asia^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||iwanshang*.asia^
 ||ya*.dwstatic.com^
-||d*.xinshipu.com^
 ||fpb*.51edu.com^
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
 ||107.167.22.*.gif
-||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
@@ -139,8 +133,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -173,7 +165,6 @@ analytics-*.aasaam.com
 ||flipflapflo.
 ||gonews*.net^
 ||real*traf.ru^
-||f-log-*.grammarly.io^
 ||wa.gmx.
 ||mon*-*.tiktokv.us^
 ||pxl-*.ozone.ru^
@@ -191,10 +182,10 @@ analytics-*.aasaam.com
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
 ||mcs-va-*.tiktokv.com^
-||events-api*.outfit7.com^
 ||linkexchange.
 ||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
+||sgtm.fairmont.
 ||marketplace-*.hyprmx.com^
 ||analytics.streamfab.
 ||log-collector.shopee.
@@ -229,7 +220,6 @@ analytics-*.aasaam.com
 ||cnt.tubeon.
 ||videoclik.
 ||poshalim.
-||events*.cre.ma^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -254,7 +244,6 @@ analytics-*.aasaam.com
 ||videoclick.
 ||stats-*.p2pnow.ru^
 ||admulti.
-||eum*.instana.io^
 ||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
@@ -366,6 +355,8 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 @@||192.168.90.*^$important
 @@||10.*.*.*^$important
 @@||192.168.9.*^$important
@@ -393,6 +384,7 @@ analytics-*.aasaam.com
 ||ajx*.online^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
+||f-log-*.grammarly.io^
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
@@ -404,10 +396,12 @@ analytics-*.aasaam.com
 ||apple-*.le.com^
 ||ads*.production-public.tubi.io^
 ||ads-*-nfl.yinzcam.com^
+||bd*-ys.km.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||ce-global-track-*.amazonaws.com^
+||d*.ruiwen.com^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||a*.chajiaotong.com^
@@ -418,8 +412,10 @@ analytics-*.aasaam.com
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
 ||c*hit.zerkalo.io^
+||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
+||at*.doubanio.com^
 ||api*.batmobil.net^
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
@@ -457,6 +453,7 @@ analytics-*.aasaam.com
 ||device-metrics-*.amazon.com^
 ||api*.batmobi.net^
 ||widgets.*.webengage.com^
+||adi*.cnool.net^
 ||zabdybod*.club^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
@@ -467,6 +464,7 @@ analytics-*.aasaam.com
 ||aj1*.online^
 ||zbc6hye*.xyz^
 ||aff*.kolektiva.net^
+||events*.cre.ma^
 ||promo-*.vercel.app^
 ||163487*.qmgmw.com^
 ||adx-*.dbankedge.cn^
@@ -485,6 +483,7 @@ analytics-*.aasaam.com
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
 ||adsfilebssdlbig.*.kugou.com^
+||bdlm*.hc360.com^
 ||ad*.nexage.com^
 ||aj1*.xyz^
 ||analytics*.carambo.la^
@@ -494,6 +493,7 @@ analytics-*.aasaam.com
 ||collector-*.px-cloud.net^
 ||iad-*.braze.com^
 ||collector-*.tvsquared.com^
+||d*.xinshipu.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
@@ -502,6 +502,7 @@ analytics-*.aasaam.com
 ||batchlogging*-eu.truecaller.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
+||eum*.instana.io^
 ||ads*-normal-lq.zijieapi.com^
 ||fads*s.com^
 ||ads-dmp-collect.*.karrotmarket.com^
