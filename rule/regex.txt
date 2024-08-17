@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-08-16 22:18:22（北京时间）
+# 更新时间于: 2024-08-17 10:36:31（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 ||yandex.avito.www.
@@ -33,6 +33,7 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
+搜狐网络科技.中国
 ||adx.
 ||adx-
 ||adsfs.
@@ -179,6 +180,7 @@ analytics-*.aasaam.com
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
 ||pixel*.adswizz.com
+||device-metrics-us*.amazon.com^
 ||banner*.kinogo.by^
 ||suite*.linximpulse.net^
 ||cnt.nuvid.
@@ -395,7 +397,6 @@ body {
 @@||192.168.90.*^$important
 @@||10.*.*.*^$important
 @@||192.168.9.*^$important
-搜狐网络科技.中国
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
@@ -436,7 +437,6 @@ body {
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||ce-global-track-*.amazonaws.com^
-||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||a*.chajiaotong.com^
 ||api*.bidmachine.io^
