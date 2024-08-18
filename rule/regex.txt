@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-08-17 22:18:44（北京时间）
+# 更新时间于: 2024-08-18 10:39:14（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 ||yandex.avito.www.
@@ -20,7 +20,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -56,6 +55,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -180,9 +180,7 @@ analytics-*.aasaam.com
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
 ||adservice.google.
-||counter*.stat.ovh^
 ||host*.carl-ras.dk^
-||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
@@ -214,6 +212,7 @@ analytics-*.aasaam.com
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
 ||pixel*.adswizz.com
+||device-metrics-us*.amazon.com^
 ||banner*.kinogo.by^
 ||suite*.linximpulse.net^
 ||cnt.nuvid.
@@ -395,6 +394,7 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||iad-*.braze.com^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
@@ -435,7 +435,6 @@ analytics-*.aasaam.com
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||ce-global-track-*.amazonaws.com^
-||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||a*.chajiaotong.com^
 ||api*.bidmachine.io^
@@ -521,7 +520,6 @@ analytics-*.aasaam.com
 ||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
-||iad-*.braze.com^
 ||collector-*.tvsquared.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
@@ -569,13 +567,15 @@ analytics-*.aasaam.com
 @@||brm-core-*.brsrvr.com
 @@|beta.affiliates.adsterra.com
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||counter*.stat.ovh^
+||centent.streamp1ay.
+||ads.livetv*.me^
+||142.91.159.
 ||cintent.streanplay.
 Banner468x60
