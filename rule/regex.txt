@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-08-26 22:19:39（北京时间）
+# 更新时间于: 2024-08-27 10:40:01（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 ||yandex.avito.www.
@@ -118,7 +118,6 @@ advertisers.js|
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
 ||107.167.22.*.gif
-||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -139,8 +138,35 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+                }
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+        ];
+<head>
+    Privacy Policy
+			Buy this domain.
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -239,7 +265,6 @@ analytics-*.aasaam.com
 ||popupclick.
 ||dw-informer-*.newsru.com^
 |piwik.
-||datacollector-*.dt.hicloud.com^
 ||piwik.*.vn^
 ||letssex.
 ||production-adserver-*.amazonaws.com^
@@ -247,7 +272,6 @@ analytics-*.aasaam.com
 ||mautic.*.vn^
 ||s*.adduplex.com^
 ||mon*-platform-*.tiktokv.com^
-||collector-*.tvsquared.com^
 ||adserver1.
 ||log-*.previewnetworks.com^
 ||backstory.ebay.
@@ -289,7 +313,6 @@ analytics-*.aasaam.com
 ||edgetrksvc.ebay.
 ||eclog*-*.cafe24.com^
 ||host*.polaroid.com^
-||datacollector-*.dt.dbankcloud.cn^
 ||s*.skencituer.com^
 ||underclick.
 ||imp-*.jampp.com^
@@ -350,7 +373,6 @@ analytics-*.aasaam.com
 ||log-*.zadn.vn^
 ||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
-||collect-v*.51.la^
 ||q*-publick.club^
 ||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
@@ -372,9 +394,10 @@ analytics-*.aasaam.com
 ||bms*.adjarabet.com^
 ||pixel-*.convertagain.net^
 ||collector.xhamster*.
-||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 @@||192.168.90.*^$important
 @@||10.*.*.*^$important
 @@||192.168.9.*^$important
@@ -401,6 +424,7 @@ analytics-*.aasaam.com
 ||www.xxmh*.com^
 ||ajx*.online^
 ||cas.*.criteo.com^
+||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
@@ -427,6 +451,7 @@ analytics-*.aasaam.com
 ||c*hit.zerkalo.io^
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
+||at*.doubanio.com^
 ||api*.batmobil.net^
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
@@ -486,6 +511,8 @@ analytics-*.aasaam.com
 ||js.*2023*.live^
 ||mobileoffers-*-download.com^
 ||zaqlovh*.xyz^
+||collect-v*.51.la^
+||datacollector-*.dt.hicloud.com^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
 ||adsfilebssdlbig.*.kugou.com^
@@ -496,6 +523,7 @@ analytics-*.aasaam.com
 ||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
+||collector-*.tvsquared.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
@@ -514,6 +542,7 @@ analytics-*.aasaam.com
 ||analytics*.prezly.com^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
+||collector*.ex.co^
 ||analytics.*.sky.com^
 @@|ftp.bmp.ovh
 @@||api-v*.trbo.com
