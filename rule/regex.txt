@@ -1,9 +1,8 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-09-25 10:54:38（北京时间）
+# 更新时间于: 2024-09-25 22:21:54（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
-||report.*.qq.com^
 ||yandex.avito.www.
 ||booklng.com-*
 ||yandex.avito.sber*
@@ -11,6 +10,7 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
+||report.*.qq.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -20,7 +20,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -33,7 +32,6 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-搜狐网络科技.中国
 ||adx.
 ||adx-
 ||adsfs.
@@ -56,6 +54,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -101,11 +100,13 @@ advertisers.js|
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
 ||67.21.92.*.gif
+||bd*-ys.km.com^
 ||uc*.atobo.com^
 ||impservice*.youdao.com^
 ||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
+||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||d*.xinshipu.com^
@@ -114,6 +115,7 @@ advertisers.js|
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
 ||107.167.22.*.gif
+||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -155,6 +157,7 @@ analytics-*.aasaam.com
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
 ||partner.superbahisaffiliates*.com^
+||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||telemetry*.transcend.io^
 ||cnt.vivatube.
@@ -215,6 +218,7 @@ analytics-*.aasaam.com
 ||hostingcloud.*.wasm^
 ||medialand.
 ||track.*.roku.com^
+||device-metrics-*.amazon.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
 ||get-me-wow.
@@ -230,6 +234,7 @@ analytics-*.aasaam.com
 ||popupclick.
 ||dw-informer-*.newsru.com^
 |piwik.
+||datacollector-*.dt.hicloud.com^
 ||piwik.*.vn^
 ||letssex.
 ||production-adserver-*.amazonaws.com^
@@ -279,6 +284,7 @@ analytics-*.aasaam.com
 ||edgetrksvc.ebay.
 ||eclog*-*.cafe24.com^
 ||host*.polaroid.com^
+||datacollector-*.dt.dbankcloud.cn^
 ||s*.skencituer.com^
 ||underclick.
 ||imp-*.jampp.com^
@@ -363,35 +369,7 @@ analytics-*.aasaam.com
 ||v*.sitecounter.site^
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-<head>
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
+搜狐网络科技.中国
 @@||192.168.90.*^$important
 @@||10.*.*.*^$important
 ||jpush.
@@ -409,7 +387,6 @@ body {
 ||analytics-rollout-*.amazonaws.com^
 ||api-*.hismarttv.com^
 ||admob-app-id-*.firebaseio.com^
-||datacollect*.abtasty.com^
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
@@ -420,7 +397,6 @@ body {
 ||www.xxmh*.com^
 ||ajx*.online^
 ||cas.*.criteo.com^
-||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
@@ -432,7 +408,6 @@ body {
 ||apple-*.le.com^
 ||ads*.production-public.tubi.io^
 ||ads-*-nfl.yinzcam.com^
-||bd*-ys.km.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
@@ -448,7 +423,6 @@ body {
 ||c*hit.zerkalo.io^
 ||display-ad-*.kgslb.com^
 ||ac*.pingguolv.com^
-||at*.doubanio.com^
 ||api*.batmobil.net^
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
@@ -483,7 +457,6 @@ body {
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||appanalysis*.banggood.com^
-||device-metrics-*.amazon.com^
 ||api*.batmobi.net^
 ||widgets.*.webengage.com^
 ||zabdybod*.club^
@@ -510,11 +483,9 @@ body {
 ||mobileoffers-*-download.com^
 ||zaqlovh*.xyz^
 ||collect-v*.51.la^
-||datacollector-*.dt.hicloud.com^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
 ||adsfilebssdlbig.*.kugou.com^
-||bdlm*.hc360.com^
 ||ad*.nexage.com^
 ||aj1*.xyz^
 ||analytics*.carambo.la^
@@ -568,3 +539,14 @@ body {
 @@|beta.partners.adsterra.com
 @@||brm-core-*.brsrvr.com
 @@|beta.affiliates.adsterra.com
+||ads*.opensubtitles.org^
+||gamenguide.com*adbk
+rgmechanicsgames.com*VPN.exe
+@@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
+||fapnado.*.php|
+||itechpost.com*adbk
+@@||cdn*.porn300.com^
+||cintent.streanplay.
+Banner468x60
