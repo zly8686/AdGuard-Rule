@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-10-12 22:18:30（北京时间）
+# 更新时间于: 2024-10-13 10:56:49（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 ||yandex.avito.www.
@@ -20,6 +20,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -32,7 +33,6 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-搜狐网络科技.中国
 ||adx.
 ||adx-
 ||adsfs.
@@ -55,7 +55,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -97,6 +96,7 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
+搜狐网络科技.中国
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -163,8 +163,6 @@ body {
             }
         return arguments;
 }
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -394,6 +392,8 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 @@||192.168.90.*^$important
 @@||10.*.*.*^$important
 ||jpush.
