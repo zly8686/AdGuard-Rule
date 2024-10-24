@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-10-23 22:20:32（北京时间）
+# 更新时间于: 2024-10-24 08:39:48（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 ||yandex.avito.www.
@@ -173,7 +173,9 @@ analytics-*.aasaam.com
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
 ||adservice.google.
+||counter*.stat.ovh^
 ||host*.carl-ras.dk^
+||ads.livetv*.me^
 ||allsportsflix.
 ||log*-normal-*.tiktokv.us^
 ||iphone-caviar.ru*entranceId
@@ -285,6 +287,7 @@ analytics-*.aasaam.com
 ||fxhpaoxqyajvmdg.
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
+||servo-report.keepstreams.*^
 ||tw*.netcore.co.in^
 ||mapi-log.qoo*.jp^
 ||rum*.a.trbcdn.net^
@@ -378,7 +381,6 @@ analytics-*.aasaam.com
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
 ||ms*.applvn.com^
-||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||tracking-*.trnox.com^
 ||www.fuze-hill*.xyz^
@@ -392,12 +394,11 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+@@||10.*.*.*^$important
+@@||192.168.*.*^$important
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-@@||192.168.90.*^$important
-@@||10.*.*.*^$important
-||jpush.
-@@||192.168.9.*^$important
+||iad-*.braze.com^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
@@ -573,15 +574,13 @@ analytics-*.aasaam.com
 @@||brm-core-*.brsrvr.com
 @@|beta.affiliates.adsterra.com
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||centent.streamp1ay.
-||ads.livetv*.me^
-||142.91.159.
 ||cintent.streanplay.
 Banner468x60
