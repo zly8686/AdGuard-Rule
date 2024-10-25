@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-10-25 10:55:38（北京时间）
+# 更新时间于: 2024-10-25 16:02:58（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 ||yandex.avito.www.
@@ -10,6 +10,8 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
+||report.*.qq.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -31,8 +33,6 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
-||report.*.qq.com^
-||onetrust.
 搜狐网络科技.中国
 ||adx.
 ||adx-
@@ -110,6 +110,8 @@ advertisers.js|
 ||ads*-normal-*.zijieapi.com^
 ||jtbo*.nqxvevk.cn^
 ||api*.bidmachine.io^
+||ad*.nexage.com^
+||aan.amazon.*^
 ||iad-*.braze.com^
 ||ms*.applvn.com^
 ||adserver.*.yahoodns.net^
@@ -137,13 +139,11 @@ advertisers.js|
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
 ||67.21.92.*.gif
-||bd*-ys.km.com^
 ||uc*.atobo.com^
 ||impservice*.youdao.com^
 ||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||d*.xinshipu.com^
@@ -323,7 +323,6 @@ analytics-*.aasaam.com
 ||1024wanzhai.
 ||under-click.
 ||log-*.epicdn.me^
-||metric*.rediff.com^
 ||tnc*.zijieapi.com^
 ||tracker.twenga.
 ||cdn*.swaxis.com^
@@ -411,6 +410,7 @@ analytics-*.aasaam.com
 ||ads*-adnow.com^
 ||batchlogging*-noneu.truecaller.com^
 ||apple-*.le.com^
+||bd*-ys.km.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||ce-global-track-*.amazonaws.com^
@@ -430,6 +430,7 @@ analytics-*.aasaam.com
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
 ||adcounter*.uptolike.ru^
+||metric*.rediff.com^
 ||ad*.ettoday.net^
 ||ads*-normal*.zijieapi.com^
 ||beacons*.gvt3.com^
@@ -487,12 +488,11 @@ analytics-*.aasaam.com
 ||fls-*.amazon.com^
 ||logger-*.dailymotion.com^
 ||adsfilebssdlbig.*.kugou.com^
-||ad*.nexage.com^
+||bdlm*.hc360.com^
 ||aj1*.xyz^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
-||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
