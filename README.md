@@ -25,8 +25,8 @@
 </div>
 <ul>
 
-- **[DNS拦截规则（Github）](https://raw.githubusercontent.com/zly8686/AdGuard-Rule/main/dns.txt)**
-- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/zly8686/AdGuard-Rule/main/dns.txt)**
+- **[DNS拦截规则（Github）](https://raw.githubusercontent.com/zly8686/AdGuard-Rule/main/adgh.txt)**
+- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/zly8686/AdGuard-Rule/main/adgh.txt)**
 
 </ul>
 </details>
