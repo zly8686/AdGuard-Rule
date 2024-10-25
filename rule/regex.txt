@@ -1,17 +1,10 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-10-26 06:49:42（北京时间）
+# 更新时间于: 2024-10-26 06:52:40（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
-||yandex.avito.www.
-||booklng.com-*
-||yandex.avito.sber*
-||booking.com-id*
-||avito.avito.www.avito.
-||avito.avito.avito.
-||yandex.pay.avito.
-||report.*.qq.com^
 ||onetrust.
+||report.*.qq.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -33,6 +26,13 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
+||yandex.avito.www.
+||booklng.com-*
+||yandex.avito.sber*
+||booking.com-id*
+||avito.avito.www.avito.
+||avito.avito.avito.
+||yandex.pay.avito.
 搜狐网络科技.中国
 ||adx.
 ||adx-
@@ -107,10 +107,14 @@ advertisers.js|
 @@||resolver*mi.com^$important
 @@||192.168.*.*^$important
 ||reachableads-av.*.amazonaws.com^
+||ads-*-nfl.yinzcam.com^
+||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
+||ads*.textra.me^
 ||adv0*.msa.cdn.mediaset.net^
 ||production-adserver-*.amazonaws.com^
 ||iad-*.appboy.com^
+||ads*-normal-*.zijieapi.com^
 ||jtbo*.nqxvevk.cn^
 ||api*.bidmachine.io^
 ||iad-*.braze.com^
@@ -125,12 +129,15 @@ advertisers.js|
 ||mediate-ios-*.hyprmx.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||mob*.novanewsapp.com^
+||ads*-normal-lq.zijieapi.com^
 ||tnc16-*.byteoversea.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
+||ads*.bojijulebu.com^
 ||events-*.op.hicloud.com^
 ||adx-*.dbankedge.cn^
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
+||adcs-*.myappsget.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -405,15 +412,12 @@ analytics-*.aasaam.com
 ||ads*-adnow.com^
 ||batchlogging*-noneu.truecaller.com^
 ||apple-*.le.com^
-||ads*.production-public.tubi.io^
-||ads-*-nfl.yinzcam.com^
 ||bd*-ys.km.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
-||ads*-normal-*.zijieapi.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
 ||ac*.786ip.com^
@@ -434,7 +438,6 @@ analytics-*.aasaam.com
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
 ||beacons*.gvt3.com^
-||ads*.bojijulebu.com^
 ||js.*2023*.xyz^
 ||ac*.faxingchina.com^
 ||flurry.agentportal.*.yahoodns.net^
@@ -444,8 +447,6 @@ analytics-*.aasaam.com
 ||dj1*.online^
 ||geoloc*.geovisite.ovh^
 ||ad.*.xiaomi.com^
-||adcs-*.myappsget.com^
-||ads*.textra.me^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||player-feedback*.glomex.*^
@@ -512,7 +513,6 @@ analytics-*.aasaam.com
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
 ||eum*.instana.io^
-||ads*-normal-lq.zijieapi.com^
 ||fads*s.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||log*-normal-lq.toutiaoapi.com^
