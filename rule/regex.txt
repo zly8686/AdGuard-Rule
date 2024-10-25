@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-10-25 16:02:58（北京时间）
+# 更新时间于: 2024-10-25 22:21:12（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 ||yandex.avito.www.
@@ -100,41 +100,29 @@ advertisers.js|
 @@||10.*.*.*^$important
 @@||192.168.*.*^$important
 ||reachableads-av.*.amazonaws.com^
-||ads-*-nfl.yinzcam.com^
-||ads*.production-public.tubi.io^
-||adx-*.op.dbankcloud.com.edgekey.net^
-||ads*.textra.me^
-||adv0*.msa.cdn.mediaset.net^
-||production-adserver-*.amazonaws.com^
-||iad-*.appboy.com^
-||ads*-normal-*.zijieapi.com^
-||jtbo*.nqxvevk.cn^
-||api*.bidmachine.io^
-||ad*.nexage.com^
-||aan.amazon.*^
-||iad-*.braze.com^
-||ms*.applvn.com^
-||adserver.*.yahoodns.net^
-||ifengad.*.ifeng.com^
-||v*-ad.video.yximgs.com^
 ||marketplace-*.hyprmx.com^
 ||api*.batmobil.net^
 ||adx-*.dbankcloud.
+||adx-*.op.dbankcloud.com.edgekey.net^
 ||api*.batmobi.net^
 ||mediate-ios-*.hyprmx.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||adv0*.msa.cdn.mediaset.net^
 ||mob*.novanewsapp.com^
-||ad-*.amazonaws.com^
-||ads*-normal-lq.zijieapi.com^
 ||tnc16-*.byteoversea.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
-||ad-*.appacc.dbankedge.cn^
-||ads*.bojijulebu.com^
+||production-adserver-*.amazonaws.com^
+||iad-*.appboy.com^
+||jtbo*.nqxvevk.cn^
+||api*.bidmachine.io^
 ||events-*.op.hicloud.com^
 ||adx-*.dbankedge.cn^
+||iad-*.braze.com^
+||ms*.applvn.com^
 ||banner.*.tccapis.com^
+||ifengad.*.ifeng.com^
 ||cdn-adn-*.rayjump.com^
-||adcs-*.myappsget.com^
+||v*-ad.video.yximgs.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -323,6 +311,7 @@ analytics-*.aasaam.com
 ||1024wanzhai.
 ||under-click.
 ||log-*.epicdn.me^
+||metric*.rediff.com^
 ||tnc*.zijieapi.com^
 ||tracker.twenga.
 ||cdn*.swaxis.com^
@@ -330,6 +319,7 @@ analytics-*.aasaam.com
 ||log*.zijieapi.com^
 ||log*.aliyuncs.com^
 ||icq-window.
+||geoloc*.geovisite.ovh^
 ||icqwindow.
 ||cnt.winporn.
 ||t*.zcvh.net^
@@ -348,10 +338,12 @@ analytics-*.aasaam.com
 ||maas-*.phunware.com^
 ||rotaban.
 ||hstats*.hepsiburada.com^
+||geoloc*.geo20120530.com^
 ||cnt.proporn.
 ||popuptraf.
 ||host*.rvshare.com^
 ||158.247.208.
+||geoloc*.geostats.ovh^
 ||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
 ||pixel.archive.
@@ -362,6 +354,7 @@ analytics-*.aasaam.com
 ||polaris*-normal-*.zijieapi.com^
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
+||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||tracking-*.trnox.com^
 ||www.fuze-hill*.xyz^
 ||parkdomainreal*.site^
@@ -410,16 +403,20 @@ analytics-*.aasaam.com
 ||ads*-adnow.com^
 ||batchlogging*-noneu.truecaller.com^
 ||apple-*.le.com^
+||ads*.production-public.tubi.io^
+||ads-*-nfl.yinzcam.com^
 ||bd*-ys.km.com^
 ||ads*.dfiles.eu^
 ||ads.*.yahoo.com^
 ||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
+||ads*-normal-*.zijieapi.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
 ||ac*.786ip.com^
 ||geotargetly-api-*.com^
+||adserver.*.yahoodns.net^
 ||fads*z.com^
 ||c*hit.zerkalo.io^
 ||events-api*.outfit7.com^
@@ -430,10 +427,11 @@ analytics-*.aasaam.com
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
 ||adcounter*.uptolike.ru^
-||metric*.rediff.com^
 ||ad*.ettoday.net^
+||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
 ||beacons*.gvt3.com^
+||ads*.bojijulebu.com^
 ||js.*2023*.xyz^
 ||ac*.faxingchina.com^
 ||flurry.agentportal.*.yahoodns.net^
@@ -441,8 +439,9 @@ analytics-*.aasaam.com
 ||api-*.bidmachine.io^
 ||analyzer*.fc2.com^
 ||dj1*.online^
-||geoloc*.geovisite.ovh^
 ||ad.*.xiaomi.com^
+||adcs-*.myappsget.com^
+||ads*.textra.me^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||player-feedback*.glomex.*^
@@ -465,16 +464,15 @@ analytics-*.aasaam.com
 ||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
-||geoloc*.geo20120530.com^
 ||fp-*it*.fengkongcloud.com^
 ||aj3*.bid^
+||ad-*.appacc.dbankedge.cn^
 ||aj1*.online^
 ||zbc6hye*.xyz^
 ||aff*.kolektiva.net^
 ||events*.cre.ma^
 ||promo-*.vercel.app^
 ||163487*.qmgmw.com^
-||geoloc*.geostats.ovh^
 ||tblog-*.kgslb.com^
 ||zahrvfbd*.xyz^
 ||sads*z.com^
@@ -489,14 +487,15 @@ analytics-*.aasaam.com
 ||logger-*.dailymotion.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||bdlm*.hc360.com^
+||ad*.nexage.com^
 ||aj1*.xyz^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
+||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
-||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
@@ -506,6 +505,7 @@ analytics-*.aasaam.com
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
 ||eum*.instana.io^
+||ads*-normal-lq.zijieapi.com^
 ||fads*s.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||log*-normal-lq.toutiaoapi.com^
