@@ -67,6 +67,7 @@ application:
     #  - 'https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/resource-abuse.txt' #name: uBlock filters – Resource abuse
     #  - 'https://gitcdn.link/cdn/uBlockOrigin/uAssetsCDN/main/filters/unbreak.txt' #name: uBlock filters – Unbreak
     #  - 'https://filters.adtidy.org/extension/ublock/filters/11.txt' #name: AdGuard Mobile Ads移动设备
+      - 'https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/hosts' #name: hostsvn
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
