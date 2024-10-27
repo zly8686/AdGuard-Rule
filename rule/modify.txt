@@ -1,69 +1,57 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-10-27 22:20:28（北京时间）
+# 更新时间于: 2024-10-28 05:02:33（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 #@@||sf3-ttcdn-tos.pstatp.com^$important
 #@@||reader.browser.miui.com^$important
-/.*ad.wtzw.com.*/
-/.*byteorge.*/
 #@@||news.l.qq.com^$important
+#@@||log-api.pangolin-sdk-toutiao.com^$important
+#@@||open.e.kuaishou.com^$important
+#@@||tmead.y.qq.com^$important
+#@@||log-api.pangolin-sdk-toutiao-b.com^$important
 #@@||dir.minigame.qq.com^$important
 #@@||ecmb.bdimg.com^$important
-/.*bytedance.*/
-||report.url.cn^$client='192.168.9.2'
-||update-lb-tgw.browser.qq.com^$client='192.168.9.2'
+#@@||tmeadcomm.y.qq.com^$important
 #@@||sfp.safe.baidu.com^$important
-@@||https://portal.ikuai8-wifi.com^$important
 #@@||game.html5.qq.com^$important
-/.*zijieapi.*/
-/^[^.]+$/$dnsrewrite=NXDOMAIN
 #@@||nadvideo2.baidu.com^$important
 #@@||api.twitter.com^$important
 #@@||ecma.bdimg.com^$important
 #@@||pingma.qq.com^$important
-/.*mgsdk-sign.*/
-/.*adsmind.*/
-/^.+\.(arpa|lan|wifi|dnscrypt)$/$dnsrewrite=NXDOMAIN
+#@@@@||dns.jd.com^$important
 #@@||uc.ucweb.com^$important
-||bsgslb.cn^$client='192.168.9.2'
 #@@||h.trace.qq.com^$important
-/.*tsyouto.*/
+#@@||gw.365you.com^$important
 #@@||dns.klewmedia.com^$important
 #@@||sofire.bdstatic.com^$important
 @@||ww*.lanzou$i.com
 #@@||www.twitter.com^$important
 #@@||android.bugly.qq.com^$important
 #@@||mobile.twitter.com^$important
-||dldir1.qq.com^$client='192.168.9.2'
-/.*ad-sign.*/
+#@@||api2.e.kuaishou.com^$important
 #@@||activity.browser.intl.miui.com^$important
 #@@||ios.bugly.qq.com^$important
-/.*adservice.*/
 #@@||xw.qq.com^$important
-/.*pangolin.*/
-/.*pglstatp.*/
+#@@||adsmind.gdtimg.com^$important
 #@@||twitter.com^$important
 #@@||mm3.365dmp.com^$important
-@@||https://*.mercuryclouds.com.cn^$important
-||wup.browser.qq.com^$client='192.168.9.2'
+#@@@@||dns.m.sm.cn^$important
 #@@||sofire.baidu.com^$important
-||updatecenter.qq.com^$client='192.168.9.2'
-||bdurl.net^$client='192.168.9.2'
-/.*bytegoofy.*/
+#@@||api-access.pangolin-sdk-toutiao-b.com^$important
 #@@||user1.game.qq.com^$important
-@@||https://*.vanward.com^$important
-/.*umeng.*/
-/.*bytegecko.*/
 #@@||360.cn^$important
-||update.browser.qq.com^$client='192.168.9.2'
+#@@@@||dns.ximalaya.com^$important
+#@@||api-access.pangolin-sdk-toutiao.com^$important
 #@@||news.ssp.qq.com^$important
 #@@||mm1.365dmp.com^$important
+#@@||api.e.kuaishou.com^$important
+#@@||e.kuaishou.com^$important
 #@@||btrace.qq.com^$important
-/.*panglelog.*/
+#@@||adstats.tencentmusic.com^$important
 #@@||nadvideo.baidu.com^$important
 #@@||sjarvis.taobao.com^$important
+#@@||is.snssdk.com^$important
 #@@||zconfig.alibabausercontent.com^$important
-/.*ibytedapm.*/
 ::1 localhost
 #
