@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2024-11-13 10:51:28（北京时间）
+# 更新时间于: 2024-11-13 22:20:48（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 @@||p*-ppx.byteimg.com^$important
@@ -12,4 +12,3 @@
 @@||register*mi.com^$important
 @@||resolver*mi.com^$important
 @@||192.168.*.*^$important
-||||immediate-bitwave.com^
