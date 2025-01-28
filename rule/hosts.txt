@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2025-01-27 22:20:39（北京时间）
+# 更新时间于: 2025-01-28 10:47:55（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 127.0.0.1 c.sayhi.360.cn
@@ -55,6 +55,7 @@
 127.0.0.1 push.pgl.qq.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 ggx.cmvideo.cn
+127.0.0.1 ad.dev.360.cn
 127.0.0.1 sdu.adwo.com
 127.0.0.1 adimg.mobile.sina.cn
 127.0.0.1 config.mobisage.cn
@@ -101,6 +102,7 @@
 127.0.0.1 cl2.webterren.com
 127.0.0.1 pub.funshion.com
 127.0.0.1 doubleclick.net
+127.0.0.1 ad.caiyunapp.com
 127.0.0.1 dfe.mic.mob.com
 127.0.0.1 log.qchannel03.cn
 127.0.0.1 app.appsflyer.com
@@ -193,6 +195,7 @@
 127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 m.adsymptotic.com
 127.0.0.1 iadmusicmatvideo.music.126.net
+127.0.0.1 ad.greedland.net
 127.0.0.1 pnrt-stsdk.vivo.com.cn
 127.0.0.1 ads.reader.yueyouxs.com
 127.0.0.1 jupiter.appads.com
@@ -335,6 +338,7 @@
 127.0.0.1 s22.cnzz.com
 127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
 127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
+127.0.0.1 a.vserv.mobi
 127.0.0.1 cdn-haokanapk.baidu.com
 127.0.0.1 ad.thsi.cn
 127.0.0.1 p1.adkwai.com
@@ -689,12 +693,14 @@
 127.0.0.1 ads.voiceads.cn
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 miniapp.qiluyidian.mobi
+127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 adui.tg.meitu.com
 127.0.0.1 acs.56.com
 127.0.0.1 engine.liandaomobi.com
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 wd.adcolony.com
 127.0.0.1 adsense.html5.qq.com
+127.0.0.1 ad.gtbrowser.com
 127.0.0.1 adx.rrt365.com
 127.0.0.1 api-gi.getui.com
 127.0.0.1 techweb.iv.adsame.com
@@ -1044,6 +1050,7 @@
 127.0.0.1 ads.saymedia.com
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 media.admob.com
+127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 ten.sngapm.qq.com
 127.0.0.1 sofire.baidu.com
 127.0.0.1 pv.sohu.com
@@ -1171,6 +1178,7 @@
 127.0.0.1 www.admaji.com
 127.0.0.1 s.jpush.cn
 127.0.0.1 pv.mediav.com
+127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 pdn.applovin.com
 127.0.0.1 aduu.cn
 127.0.0.1 wbapp.mobile.sina.cn
@@ -1475,6 +1483,7 @@
 127.0.0.1 badjs.weixinbridge.com
 127.0.0.1 yt-adv.bn.netease.com
 127.0.0.1 b-gtc.getui.com
+127.0.0.1 ad.adwo.com
 127.0.0.1 plugin.2easydroid.com
 127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 sdk.api.oaid.wocloud.cn
@@ -1617,6 +1626,7 @@
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 msite.baidu.com
 127.0.0.1 log-dmp.suishenyun.cn
+127.0.0.1 ad.duapps.com
 127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 msg.ptqy.gitv.tv
 127.0.0.1 ads-go.adroi.com.cn
@@ -26335,7 +26345,6 @@
 127.0.0.1 bounceads.net
 127.0.0.1 s45.cnzz.com
 127.0.0.1 track.info.thecardiologyadvisor.com
-127.0.0.1 a.vserv.mobi
 127.0.0.1 cdn2.adsdk.com
 127.0.0.1 www.parsads.com
 127.0.0.1 no-update.live
@@ -33913,7 +33922,6 @@
 127.0.0.1 www.ad4.thumbs.ero-advertising.com
 127.0.0.1 emisja.adsearch.pl
 127.0.0.1 ads.alphonso.tv
-127.0.0.1 ad.adwo.com
 127.0.0.1 js.adspro.it
 127.0.0.1 shake.f.360.cn
 127.0.0.1 ad7.com
@@ -35763,7 +35771,6 @@
 127.0.0.1 ads.impulsosocial.online
 127.0.0.1 nomad1cno.site
 127.0.0.1 analytics.floris.amsterdam
-127.0.0.1 ad.caiyunapp.com
 127.0.0.1 ready-for-download.com
 127.0.0.1 psd-ad.top
 127.0.0.1 ads.museum.or.jp
@@ -37287,7 +37294,6 @@
 127.0.0.1 bvbvbt.tentaklsistem.click
 127.0.0.1 api-metrics-canary.flurry.com
 127.0.0.1 tragediadziecko.click
-127.0.0.1 ad.duapps.com
 127.0.0.1 events.api.vungle.com
 127.0.0.1 ww2060.smartadserver.com
 127.0.0.1 ads.zhinengxiyifang.cn
@@ -37995,7 +38001,6 @@
 127.0.0.1 e44ec695b4068212c6f145e876adf91d.nutops.pl
 127.0.0.1 educationingtangentes.pro
 127.0.0.1 d3d02-uppps.click
-127.0.0.1 ad.gtbrowser.com
 127.0.0.1 sledztwoosiedlowe.click
 127.0.0.1 ouresdk.top
 127.0.0.1 adsrvr.org
@@ -39000,7 +39005,6 @@
 127.0.0.1 partner.hubinternational.com
 127.0.0.1 www.mamynadzieje.click
 127.0.0.1 a8cv.open-cage.com
-127.0.0.1 ad.dev.360.cn
 127.0.0.1 vs9.bj2cu.u3.ucweb.com
 127.0.0.1 ads2000.hw.net
 127.0.0.1 api.gif.duapps.com
@@ -40696,7 +40700,6 @@
 127.0.0.1 ads4homes.com
 127.0.0.1 cdn.adsfactor.net
 127.0.0.1 www.sferinonco.pro
-127.0.0.1 ad.greedland.net
 127.0.0.1 ww651.smartadserver.com
 127.0.0.1 www.jqwww.download
 127.0.0.1 click.kidslivesafe.com
@@ -43245,7 +43248,6 @@
 127.0.0.1 www.jole22.plsecret920azs-padi209a.jole22.pl
 127.0.0.1 fawhotoads.net
 127.0.0.1 lazada1.com
-127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 advertising-api-fe.amazon.com
 127.0.0.1 xameleonads.com
 127.0.0.1 ads2srv.com
@@ -44551,7 +44553,6 @@
 127.0.0.1 www.wspanialy-dzien.click
 127.0.0.1 eeb5a685d2.smart-cs.pro
 127.0.0.1 www.dm.tocdefd.com
-127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.flurry.com
 127.0.0.1 share.refer-clinique.com.tw
 127.0.0.1 open.trakks.com
@@ -45064,7 +45065,6 @@
 127.0.0.1 onecr.maskproj.click
 127.0.0.1 my.relevance-pre.enzymeadvisinggroup.com
 127.0.0.1 evergreenfan.pro
-127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 api.i9bet32.com
 127.0.0.1 ads.showtvnet.com
 127.0.0.1 unitarvolt.pro
