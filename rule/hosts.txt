@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2025-02-05 10:50:14（北京时间）
+# 更新时间于: 2025-02-05 22:20:27（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 127.0.0.1 c.sayhi.360.cn
@@ -35,6 +35,7 @@
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
 127.0.0.1 im2.smartadserver.com
 127.0.0.1 b-gtc.gepush.com
+127.0.0.1 a-ad.adwo.com
 127.0.0.1 juxiao.mediav.com
 127.0.0.1 owads.audioadx.com
 127.0.0.1 sambasys.adsame.com
@@ -55,6 +56,7 @@
 127.0.0.1 push.pgl.qq.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 ggx.cmvideo.cn
+127.0.0.1 ad.dev.360.cn
 127.0.0.1 sdu.adwo.com
 127.0.0.1 adimg.mobile.sina.cn
 127.0.0.1 config.mobisage.cn
@@ -71,6 +73,7 @@
 127.0.0.1 req.appads.com
 127.0.0.1 bill.agent.v-56.com
 127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 a.baidu.com
 127.0.0.1 au.w.inmobi.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.leadboltapps.net
@@ -101,6 +104,7 @@
 127.0.0.1 cl2.webterren.com
 127.0.0.1 pub.funshion.com
 127.0.0.1 doubleclick.net
+127.0.0.1 ad.caiyunapp.com
 127.0.0.1 dfe.mic.mob.com
 127.0.0.1 log.qchannel03.cn
 127.0.0.1 app.appsflyer.com
@@ -193,6 +197,7 @@
 127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 m.adsymptotic.com
 127.0.0.1 iadmusicmatvideo.music.126.net
+127.0.0.1 ad.greedland.net
 127.0.0.1 pnrt-stsdk.vivo.com.cn
 127.0.0.1 ads.reader.yueyouxs.com
 127.0.0.1 jupiter.appads.com
@@ -217,6 +222,7 @@
 127.0.0.1 watch.advertising.speed.cdn.vip.xunlei.com
 127.0.0.1 sambaclk.adsame.com
 127.0.0.1 proxy-mob-cld.alicdn.com
+127.0.0.1 58749.admaster.com.cn
 127.0.0.1 w.l.qq.com
 127.0.0.1 80vn.cn
 127.0.0.1 api-mcp.adsp.xunlei.com
@@ -335,6 +341,7 @@
 127.0.0.1 s22.cnzz.com
 127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
 127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
+127.0.0.1 a.vserv.mobi
 127.0.0.1 cdn-haokanapk.baidu.com
 127.0.0.1 ad.thsi.cn
 127.0.0.1 p1.adkwai.com
@@ -347,6 +354,7 @@
 127.0.0.1 toblog.ctobsnssdk.com
 127.0.0.1 lp.mp.mydas.mobi
 127.0.0.1 msg.qy.net
+127.0.0.1 ad.wang502.com
 127.0.0.1 res.aduu.cn
 127.0.0.1 letv.axp.admaster.com.cn
 127.0.0.1 adstore-1252524079.file.myqcloud.com
@@ -355,6 +363,7 @@
 127.0.0.1 adsfile.qq.com
 127.0.0.1 conde.adsame.com
 127.0.0.1 rs-staticart.ybcdn.net
+127.0.0.1 ad.netowl.jp
 127.0.0.1 p.appjiagu.com
 127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 oc.umeng.com
@@ -383,6 +392,7 @@
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 cdn-sdk-opt.getui.com
 127.0.0.1 letv.irs01.com
+127.0.0.1 ad.funp.com
 127.0.0.1 ad1.greedland.net
 127.0.0.1 adx-open-service.youku.com
 127.0.0.1 static.jebe.renren.com
@@ -418,6 +428,7 @@
 127.0.0.1 config-junion.jpush.cn
 127.0.0.1 log1.cmpassport.com
 127.0.0.1 pv.vipwm.cc
+127.0.0.1 ad.wretch.cc
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 fun.adx.admaster.com.cn
 127.0.0.1 androidads4-6.adcolony.com
@@ -425,6 +436,7 @@
 127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 ftpcontent.worldnow.com
 127.0.0.1 adshmct.qq.com
+127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 aa1.pub.funshion.com
 127.0.0.1 adx-tk.rayjump.com
 127.0.0.1 a.dounanhuahui.com
@@ -502,6 +514,7 @@
 127.0.0.1 m.j5s9b.cn
 127.0.0.1 post1.voiceads.cn
 127.0.0.1 ad.sinovision.net
+127.0.0.1 a.api.ad-locus.com
 127.0.0.1 umengjmacs.m.taobao.com
 127.0.0.1 ipv4.gdt.qq.com
 127.0.0.1 inline.admedia.com
@@ -559,6 +572,7 @@
 127.0.0.1 prt.stsdk.vivo.com.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 soup.v.qq.com
+127.0.0.1 aads.shuzilm.cn
 127.0.0.1 ads2.greystripe.com
 127.0.0.1 ssp.youxiaoad.com
 127.0.0.1 pangolin.snssdk.com
@@ -573,6 +587,7 @@
 127.0.0.1 api.share.mob.com
 127.0.0.1 bu1.duba.com
 127.0.0.1 adserver.yahoo.com
+127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 acs.agent.v-56.com
 127.0.0.1 adsame.com
 127.0.0.1 c.greystripe.com
@@ -597,6 +612,7 @@
 127.0.0.1 ad.bayescom.com
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 adcdn.tencentmusic.com
+127.0.0.1 ad.cacafly.com
 127.0.0.1 ysm.hauchi.com.tw
 127.0.0.1 b.qchannel03.cn
 127.0.0.1 topapi.cp12.wasu.tv
@@ -627,8 +643,10 @@
 127.0.0.1 golds.lp.mydas.mobi
 127.0.0.1 als.baidu.com
 127.0.0.1 cdn.nearbyad.com
+127.0.0.1 ad.hiiir.com
 127.0.0.1 botuu.adsame.com
 127.0.0.1 store.iqiyi.com
+127.0.0.1 ad.jamba.net
 127.0.0.1 03.lzzncm.com
 127.0.0.1 www4.smartadserver.com
 127.0.0.1 ww57.smartadserver.com
@@ -640,6 +658,7 @@
 127.0.0.1 hzs13.cnzz.com
 127.0.0.1 t.ads.sohu.com
 127.0.0.1 report-stats.ad.jiguang.cn
+127.0.0.1 ad.api.moji.com
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 zz.bdstatic.com
@@ -681,12 +700,14 @@
 127.0.0.1 ads.voiceads.cn
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 miniapp.qiluyidian.mobi
+127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 adui.tg.meitu.com
 127.0.0.1 acs.56.com
 127.0.0.1 engine.liandaomobi.com
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 wd.adcolony.com
 127.0.0.1 adsense.html5.qq.com
+127.0.0.1 ad.gtbrowser.com
 127.0.0.1 adx.rrt365.com
 127.0.0.1 api-gi.getui.com
 127.0.0.1 techweb.iv.adsame.com
@@ -742,6 +763,7 @@
 127.0.0.1 s5.cnzz.com
 127.0.0.1 qqwx.zhangguangzong.com
 127.0.0.1 r.mobpartner.mobi
+127.0.0.1 ad.sohu.com
 127.0.0.1 t.track.ad.xiaomi.com
 127.0.0.1 aegis.qq.com
 127.0.0.1 z4.cnzz.com
@@ -782,6 +804,7 @@
 127.0.0.1 v6ii.gdt.qq.com
 127.0.0.1 ali-stats.jpush.cn
 127.0.0.1 misc.wcd.qq.com
+127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 ads.privacy.qq.com
 127.0.0.1 t4.a.market.xiaomi.com
 127.0.0.1 pcookie.cnzz.com
@@ -792,6 +815,7 @@
 127.0.0.1 adx.apiok.net
 127.0.0.1 jnn-pa.googleapis.com
 127.0.0.1 www3.smartadserver.com
+127.0.0.1 aaid.umeng.com
 127.0.0.1 kpstaticbj.wx.ckjr001.com
 127.0.0.1 mob.adwhirl.com
 127.0.0.1 download.adsage.com
@@ -913,6 +937,7 @@
 127.0.0.1 ex.mobmore.com
 127.0.0.1 et.w.inmobi.com
 127.0.0.1 l.qq.com
+127.0.0.1 ad.madserving.com
 127.0.0.1 nex.163.com
 127.0.0.1 amap-aos-info-nogw.amap.com
 127.0.0.1 neptune3.appads.com
@@ -943,6 +968,8 @@
 127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 jfdaily.adsame.com
 127.0.0.1 static.doubleclick.net
+127.0.0.1 ad-locus.com
+127.0.0.1 ad-bg.adwo.com
 127.0.0.1 s95.cnzz.com
 127.0.0.1 livec.l.qq.com
 127.0.0.1 adfilter.imtt.qq.com
@@ -999,14 +1026,18 @@
 127.0.0.1 g1max.mediav.com
 127.0.0.1 vm.aty.sohu.com
 127.0.0.1 media.mobpartner.mobi
+127.0.0.1 3m.mediav.com
 127.0.0.1 sohu-dtv.m.cn.miaozhen.com
 127.0.0.1 ads.fetnet.net
 127.0.0.1 m.adpro.cn
 127.0.0.1 www.mmnetwork.mobi
+127.0.0.1 ad.adhouyi.cn
+127.0.0.1 a.tn.token-ad.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 ort.stsdk.vivo.com.cn
 127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 h-adashx.ut.youku.com
+127.0.0.1 ad-delivery.net
 127.0.0.1 lc.getui.com
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 config.inmobi.com
@@ -1033,12 +1064,14 @@
 127.0.0.1 ads.saymedia.com
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 media.admob.com
+127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 ten.sngapm.qq.com
 127.0.0.1 sofire.baidu.com
 127.0.0.1 pv.sohu.com
 127.0.0.1 a.glcdn.co
 127.0.0.1 ama.adwo.com
 127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
+127.0.0.1 ad.obuy.tw
 127.0.0.1 goblin.hupu.com
 127.0.0.1 ww14.smartadserver.com
 127.0.0.1 ww55.smartadserver.com
@@ -1067,6 +1100,7 @@
 127.0.0.1 preview.adsame.com
 127.0.0.1 adstrategy.biz.weibo.com
 127.0.0.1 s.ads.sohu.com
+127.0.0.1 ad.winrar.com.cn
 127.0.0.1 doubleclick.ctfile.com
 127.0.0.1 cloudpush.iqiyi.com
 127.0.0.1 d3g.qq.com
@@ -1112,6 +1146,7 @@
 127.0.0.1 api.ad-locus.com
 127.0.0.1 c.uaa.iqiyi.com
 127.0.0.1 gd-stats.jpush.cn
+127.0.0.1 79t2.admaster.com.cn
 127.0.0.1 test2014.adview.cn
 127.0.0.1 ad3.udn.com
 127.0.0.1 adc3-launch.adcolony.com
@@ -1139,6 +1174,7 @@
 127.0.0.1 secure.mediav.com
 127.0.0.1 adsence.sogou.com
 127.0.0.1 click2.hd.sohu.com
+127.0.0.1 ad-sdk.aiclk.com
 127.0.0.1 rest.irs01.com
 127.0.0.1 api.adxpand.com
 127.0.0.1 v2.da.mgtv.com
@@ -1157,6 +1193,7 @@
 127.0.0.1 www.admaji.com
 127.0.0.1 s.jpush.cn
 127.0.0.1 pv.mediav.com
+127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 pdn.applovin.com
 127.0.0.1 aduu.cn
 127.0.0.1 wbapp.mobile.sina.cn
@@ -1185,10 +1222,12 @@
 127.0.0.1 ad.toutiao.com
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 aos.wall.youmi.net
+127.0.0.1 8chzga.v.admaster.com.cn
 127.0.0.1 ad2.udn.com
 127.0.0.1 hzs5.cnzz.com
 127.0.0.1 adreport.adtianmai.com
 127.0.0.1 security.browser.miui.com
+127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 static.youmi.net
 127.0.0.1 api-ads.tiantianqutao.com
 127.0.0.1 crs.baidu.com
@@ -1232,6 +1271,7 @@
 127.0.0.1 rtb.adview.cn
 127.0.0.1 baofeng.m.cn.miaozhen.com
 127.0.0.1 www.adsame.com
+127.0.0.1 ad.363.in
 127.0.0.1 f.aty.sohu.com
 127.0.0.1 msga.cupid.iqiyi.com
 127.0.0.1 g.cn.miaozhen.com
@@ -1266,6 +1306,7 @@
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
 127.0.0.1 adapi.lenovogame.com
 127.0.0.1 rt.applovin.com
+127.0.0.1 ad-count.adwo.com
 127.0.0.1 hzs12.cnzz.com
 127.0.0.1 ad.ikonke.com
 127.0.0.1 bdplus.baidu.com
@@ -1395,6 +1436,7 @@
 127.0.0.1 r.edge.inmobicdn.net
 127.0.0.1 diff3.smartadserver.com
 127.0.0.1 stnetsdk.vivo.com.cn
+127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 browserkernel.baidu.com
 127.0.0.1 adcontent.saymedia.com
 127.0.0.1 zs11.cnzz.com
@@ -1440,6 +1482,7 @@
 127.0.0.1 paopao.iqiyi.com
 127.0.0.1 t.gdt.qq.com
 127.0.0.1 hm.baidu.com
+127.0.0.1 ad.mail.sohu.com
 127.0.0.1 jupiter2.appads.com
 127.0.0.1 ecma.bdimg.com
 127.0.0.1 www.doumob.com
@@ -1458,6 +1501,7 @@
 127.0.0.1 badjs.weixinbridge.com
 127.0.0.1 yt-adv.bn.netease.com
 127.0.0.1 b-gtc.getui.com
+127.0.0.1 ad.adwo.com
 127.0.0.1 plugin.2easydroid.com
 127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 sdk.api.oaid.wocloud.cn
@@ -1466,6 +1510,7 @@
 127.0.0.1 uo.jstaogu.com
 127.0.0.1 pnrt.stsdk.vivo.com.cn
 127.0.0.1 engine.lvehaisen.com
+127.0.0.1 ad.jamster.co.uk
 127.0.0.1 www.youmi.net
 127.0.0.1 wisepush.video.baidu.com
 127.0.0.1 msga.71.am
@@ -1537,6 +1582,7 @@
 127.0.0.1 eqx.smartadserver.com
 127.0.0.1 api.openinstall.io
 127.0.0.1 dcads.sina.com.cn
+127.0.0.1 ad.cn.doubleclick.net
 127.0.0.1 adpai.thepaper.cn
 127.0.0.1 api-es.doglobal.net
 127.0.0.1 api.yuedu.iqiyi.com
@@ -1587,6 +1633,7 @@
 127.0.0.1 mj.weimob.net
 127.0.0.1 samba.adsame.com
 127.0.0.1 qappcenterv6.3g.qq.com
+127.0.0.1 a.appjiagu.com
 127.0.0.1 adsstatic.vivo.com.cn
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 list.z.qingting.fm
@@ -1598,6 +1645,7 @@
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 msite.baidu.com
 127.0.0.1 log-dmp.suishenyun.cn
+127.0.0.1 ad.duapps.com
 127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 msg.ptqy.gitv.tv
 127.0.0.1 ads-go.adroi.com.cn
@@ -19779,7 +19827,6 @@
 127.0.0.1 siodemka24h7.click
 127.0.0.1 ys2000.cdn.bcebos.com
 127.0.0.1 www.clanpasta.click
-127.0.0.1 a.baidu.com
 127.0.0.1 unitespark.click
 127.0.0.1 razmokl-invest.pro
 127.0.0.1 banner.media-system.de
@@ -20079,7 +20126,6 @@
 110.43.121.249 bigota.d.miui.com
 127.0.0.1 adsfast.com
 127.0.0.1 futuregroup-google-translator.360managed.com.au
-127.0.0.1 ad.funp.com
 127.0.0.1 gl-product-analytics.com
 127.0.0.1 physicgoods.pro
 127.0.0.1 share.scoreholio.com
@@ -20104,7 +20150,6 @@
 127.0.0.1 banshu.interfoxprog.click
 127.0.0.1 ads.cdrinfo.com
 127.0.0.1 bmfads.com
-127.0.0.1 word-2apple.click
 127.0.0.1 match.adsby.bidtheatre.com
 127.0.0.1 h1.msn.com
 127.0.0.1 i.ipinyou.com
@@ -20327,6 +20372,7 @@
 127.0.0.1 www.drks.joinhub.pro
 127.0.0.1 traffic.name
 127.0.0.1 dophels.pro
+127.0.0.1 uihjkag.dns.army
 127.0.0.1 tr.xleads.digital
 127.0.0.1 ads.imgur.com
 127.0.0.1 lp.hol6.demoamericas275.adobe.com
@@ -20336,7 +20382,6 @@
 127.0.0.1 mimilcnf.pro
 127.0.0.1 analytics.gnetworks.xyz
 127.0.0.1 temp.163.com
-127.0.0.1 ad.hiiir.com
 127.0.0.1 internal-analytics.odoo.com
 127.0.0.1 my-adv.ru
 127.0.0.1 chcemyprawdy.click
@@ -20383,7 +20428,6 @@
 127.0.0.1 ad.webnext.ru
 127.0.0.1 ads.fpt.vn
 127.0.0.1 ustalenieprawdy.click
-127.0.0.1 www.casehunt.pro
 127.0.0.1 bank12.ads.dt.mydas.mobi
 127.0.0.1 0205bymilyo6.pro
 127.0.0.1 www.rqgourxmjie.click
@@ -20607,7 +20651,6 @@
 127.0.0.1 ads.gsmexchange.com
 127.0.0.1 dosadnapomoc.click
 127.0.0.1 ads.rcgroups.com
-127.0.0.1 cf68.click
 127.0.0.1 malesprawy.click
 127.0.0.1 analytics.vackertvader.se
 127.0.0.1 pinkleo.pro
@@ -20709,7 +20752,6 @@
 127.0.0.1 stinger-ad.bidr.io
 127.0.0.1 vs9.gzcu.u3.ucweb.com
 127.0.0.1 five.partner.archive-it.org
-127.0.0.1 www.advanc3d-lp-scaner.com
 127.0.0.1 email.standerd.click
 127.0.0.1 naive-skin.pro
 127.0.0.1 www.hosting2139860.online.pro
@@ -20718,6 +20760,7 @@
 127.0.0.1 xuporea4.pro
 127.0.0.1 bad213676f1a5b0721c65eb8d347f7ba.barctta.pl
 127.0.0.1 ddtdown.pro
+127.0.0.1 sm.server.apple-sk.com
 127.0.0.1 mojapaczka-lnpost.orderkhffea.click
 127.0.0.1 www.crystalclearwaters.pro
 127.0.0.1 starfish.pandora.xiaomi.com
@@ -20743,11 +20786,9 @@
 127.0.0.1 calmvibes.pro
 127.0.0.1 open.play.cn
 127.0.0.1 niezaklocony.click
-127.0.0.1 sun52.click
 127.0.0.1 api.bytebrew.io
 127.0.0.1 fanserv.us-east-1.stinger-ad.bidr.io
 127.0.0.1 www.samtek-invest.pro
-127.0.0.1 adsphim.lol
 127.0.0.1 radoscznajomych.click
 127.0.0.1 ads.aavv.com
 127.0.0.1 alleliteads.com
@@ -20823,7 +20864,6 @@
 127.0.0.1 bss.pandora.xiaomi.com
 127.0.0.1 partner-ts.groupon.com
 127.0.0.1 teletypestandingis.pro
-127.0.0.1 79t2.admaster.com.cn
 127.0.0.1 adstreampro.com
 127.0.0.1 ads-resources.waze.com
 127.0.0.1 adfox.yandex.ru
@@ -20889,10 +20929,10 @@
 127.0.0.1 wap-click.net
 127.0.0.1 adobe.adhaven.com
 127.0.0.1 7r29uu.vyk.admaster.com.cn
-127.0.0.1 play.b52.mobi
 127.0.0.1 xn--pan-eixe.xn--baidu-jm6h.com
 110.43.121.13 bigota.d.miui.com
 127.0.0.1 adserv006.adtech.us
+127.0.0.1 foresinfie.pro
 127.0.0.1 olx-pl.mojid064796346854.click
 127.0.0.1 download-campaign.com
 127.0.0.1 popsads.net
@@ -21534,6 +21574,7 @@
 127.0.0.1 api.ranking.rakuten.co.jp
 127.0.0.1 szkolnemiasteczko.click
 127.0.0.1 www.support-group-home.busicont.click
+127.0.0.1 joyfulchatter.pro
 127.0.0.1 p12-ad.adkwai.com
 127.0.0.1 lararforbundet.analytics.ozzi.io
 127.0.0.1 ads.emqus.com
@@ -21718,7 +21759,6 @@
 127.0.0.1 ad8.adfarm1.adition.com
 127.0.0.1 configuration.ttpsdk.info
 127.0.0.1 ads8.speedbit.com
-127.0.0.1 api.t8betvip.com
 127.0.0.1 hunantv-ipdx.cn.miaozhen.com
 127.0.0.1 advertisementnl.112.2o7.net
 127.0.0.1 analytics.metalocator.com
@@ -21876,7 +21916,6 @@
 127.0.0.1 www.hosting2142718.online.pro
 127.0.0.1 ads.digitalmedianet.com
 127.0.0.1 ad.belleeau.jp
-127.0.0.1 www.pleasureesgardeniaing.pro
 127.0.0.1 ads.harpers.org
 127.0.0.1 online.telecoms.click
 127.0.0.1 api.placed.com
@@ -21917,7 +21956,6 @@
 127.0.0.1 contextualadv.com
 127.0.0.1 elysianelmcam.click
 127.0.0.1 advert-admin.vnay.vn
-127.0.0.1 8dcyqu.c.admaster.com.cn
 127.0.0.1 maxilife1.pro-masters.xyz
 127.0.0.1 fun-adx.admaster.com.cn
 127.0.0.1 share-link.shop
@@ -21952,7 +21990,6 @@
 127.0.0.1 promo.click-streams.com
 127.0.0.1 pups.bdimg.com
 127.0.0.1 evolutionadv.it
-127.0.0.1 api.ae88853.com
 127.0.0.1 www.zalando-plfp.startnewdeal1.click
 127.0.0.1 assets.deployads.com
 127.0.0.1 www.org-upgrade.com
@@ -21993,7 +22030,6 @@
 127.0.0.1 p31-ad.adkwai.com
 127.0.0.1 banner.alimama.com
 127.0.0.1 adserver.directforce.com
-127.0.0.1 trk.gammadsp.com
 127.0.0.1 gadsabs.com
 127.0.0.1 wojewodzkienagrania.click
 127.0.0.1 ads.memob.com
@@ -22379,7 +22415,6 @@
 127.0.0.1 adi2007.cnool.net
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
 127.0.0.1 dralig-investing.pro
-127.0.0.1 metrics.gammadsp.com
 127.0.0.1 wspolnytrud.click
 127.0.0.1 careseducatesandadvises.com
 127.0.0.1 klient.live-dns.online
@@ -22423,7 +22458,6 @@
 127.0.0.1 news-today.pro
 127.0.0.1 ads.ostfold-kollektiv.no
 127.0.0.1 adventure11ab.site
-127.0.0.1 ad.obuy.tw
 127.0.0.1 api-metrics.flurry.com
 127.0.0.1 connective-melodized-bdc64d62aaad8d3bdf-d9e5d39cfde32e7a4.pages.dev
 127.0.0.1 api.upgrade.skysrt.com
@@ -22447,7 +22481,6 @@
 127.0.0.1 adsee.jp
 127.0.0.1 p22-ad.adkwai.com
 127.0.0.1 p0-ad-sign.byteimg.com
-127.0.0.1 ad.winrar.com.cn
 127.0.0.1 shapez.gameads.io
 127.0.0.1 bann14s.ero-advertising.com
 127.0.0.1 esla.interfoxprog.click
@@ -22601,6 +22634,7 @@
 127.0.0.1 www.sprytna-nagroda.click
 127.0.0.1 adventurousjourney.site
 127.0.0.1 swiadomedecyzje.click
+127.0.0.1 www.foresinfie.pro
 127.0.0.1 przyjemnyczas.click
 127.0.0.1 pracadziennik.click
 127.0.0.1 www.supporrtadvertissing.com
@@ -22650,6 +22684,7 @@
 127.0.0.1 cdncreative-onead.cdn.hinet.net
 127.0.0.1 gonimyprawde.click
 127.0.0.1 www.ad-cloud.jp
+127.0.0.1 sharepoint-office-365-ms-files-download-8943wf32.freewebhostmost.com
 127.0.0.1 static.t.agrantsem.com
 127.0.0.1 neuroinformaticsresearch.pro
 127.0.0.1 bonuqai6.pro
@@ -22842,6 +22877,7 @@
 127.0.0.1 ads16.vertamedia.com
 127.0.0.1 congnb.analytics.saas-vn.network
 127.0.0.1 p23-ad.adkwai.com
+127.0.0.1 sm.documentation.apple-sk.com
 127.0.0.1 blogroll.click
 127.0.0.1 www.641fd7ea99.netvshow.click
 127.0.0.1 ads.carocean.co.uk
@@ -22986,7 +23022,6 @@
 127.0.0.1 magellanadvocacy.com
 127.0.0.1 ads6.speedbit.com
 127.0.0.1 res4.hubcloud.com.cn
-127.0.0.1 viprik.pro
 127.0.0.1 coinbase-app.pro
 127.0.0.1 c.no.msn.com
 127.0.0.1 www.e-hpaces.ero-advertising.com
@@ -23161,7 +23196,6 @@
 127.0.0.1 banner.congstar.de
 127.0.0.1 ad18.biz
 127.0.0.1 vestibuleescruetes.pro
-127.0.0.1 58749.admaster.com.cn
 127.0.0.1 cdn.tpdads.com
 127.0.0.1 get-here-click.xyz
 127.0.0.1 gdfp.gifshow.com
@@ -23274,7 +23308,6 @@
 127.0.0.1 bounceads.net
 127.0.0.1 s45.cnzz.com
 127.0.0.1 track.info.thecardiologyadvisor.com
-127.0.0.1 a.vserv.mobi
 127.0.0.1 cdn2.adsdk.com
 127.0.0.1 www.parsads.com
 127.0.0.1 no-update.live
@@ -23366,7 +23399,6 @@
 127.0.0.1 ngads.go.com
 127.0.0.1 se.adserver.yahoo.com
 127.0.0.1 rdrm2.click
-127.0.0.1 ad.wretch.cc
 127.0.0.1 analytics.argeton.com
 127.0.0.1 www.tinbuadserv.com
 127.0.0.1 sonar6-mad1-1.xx.fbcdn.net.iberostar.com
@@ -23448,7 +23480,6 @@
 127.0.0.1 ads3.contentabc.com
 127.0.0.1 click.nvgaming.nvidia.com
 127.0.0.1 engine.adspynet.com
-127.0.0.1 www.wohivyazyu.pro
 127.0.0.1 enigmnaesenceonline.click
 127.0.0.1 serve.ads.chaturbate.com
 127.0.0.1 tripadvisor-longterm-rental6831.mlgproperty.com
@@ -23674,7 +23705,6 @@
 127.0.0.1 juicyceleb.us.intellitxt.com
 127.0.0.1 bc.ad.daum.net
 127.0.0.1 ads9-normal-hl.zijieapi.com
-127.0.0.1 api.ae88855.com
 127.0.0.1 t.extreme-dm.com
 127.0.0.1 www.aerospaceengineeringdesign.pro
 127.0.0.1 api.247-inc.net
@@ -23727,6 +23757,7 @@
 127.0.0.1 fb9666101cecad86.regul-plk.pl
 127.0.0.1 invest-crypto.click
 127.0.0.1 s8.cnzz.com
+127.0.0.1 market-click-baobab.yandex.ru
 127.0.0.1 dl2.bav.baidu.com
 127.0.0.1 leadscout.com
 127.0.0.1 tisixuu3.pro
@@ -23737,6 +23768,7 @@
 127.0.0.1 luxadv.com
 127.0.0.1 cdn.adt511.net
 127.0.0.1 adobe-ep.insurekidsnow.gov
+127.0.0.1 mi-suscripcion-ayuda.com
 127.0.0.1 www.gbwhatsappdownloads.com
 127.0.0.1 ads-leaseweb.appsgeyser.com
 127.0.0.1 oflampar.pro
@@ -23958,7 +23990,6 @@
 127.0.0.1 dzisiejszematerialy.click
 127.0.0.1 novadv.com
 127.0.0.1 analytics.johnson.ca
-127.0.0.1 api.minicasino.io
 127.0.0.1 www.detailedresults.pro
 127.0.0.1 ad.netgoo.com
 127.0.0.1 fxadviceformeandyou.com
@@ -23981,7 +24012,6 @@
 127.0.0.1 ad.liveinternet.ru
 127.0.0.1 ad.presco.asia
 127.0.0.1 www.tesla-platform.pro
-127.0.0.1 api.3650022.com
 127.0.0.1 combofile4u.click
 127.0.0.1 e0u.oqlf.pro
 127.0.0.1 analytics.rogersmedia.com
@@ -24117,7 +24147,6 @@
 127.0.0.1 download.coinseed.co
 127.0.0.1 analytics.brunch.co.kr
 127.0.0.1 edbfmwlfspquwpt.click
-127.0.0.1 www.delyqoyutii.pro
 127.0.0.1 dm.isnssdk.com
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 major-video.click
@@ -24160,7 +24189,6 @@
 127.0.0.1 analytics.gtechgroup.it
 127.0.0.1 api.wfxll.com
 127.0.0.1 us.pdc.micloud.xiaomi.net.iberostar.com
-127.0.0.1 8chzga.v.admaster.com.cn
 127.0.0.1 aascc.everadpro.click
 127.0.0.1 www.benchingpermanentlying.pro
 127.0.0.1 www.ceovalid-partner.com
@@ -24186,6 +24214,7 @@
 127.0.0.1 fra1-ib.adnxs-simple.com
 127.0.0.1 www3.click-fr.com
 127.0.0.1 ad.imp.joins.com
+127.0.0.1 check.vusy.run
 127.0.0.1 danners.pro
 127.0.0.1 email.atachment.click
 127.0.0.1 informacyjnysmak.click
@@ -24251,7 +24280,6 @@
 127.0.0.1 workatadvise.com
 127.0.0.1 www.gohadya0.pro
 127.0.0.1 topadsservices.com
-127.0.0.1 ad-count.adwo.com
 127.0.0.1 share.desmoinesregister.com
 127.0.0.1 www.api-olx.place-ssl.shop
 127.0.0.1 wwwads.seoul.co.kr
@@ -24471,6 +24499,7 @@
 127.0.0.1 www.tulilui8.pro
 127.0.0.1 asia-comonrt-stsdk.vivoglobal.com
 127.0.0.1 socadvnet.com
+127.0.0.1 www.echorain.pro
 127.0.0.1 api.hyphabit.com
 127.0.0.1 dash.blast-ggesports.pro
 127.0.0.1 www.gromder-invest.pro
@@ -24497,11 +24526,9 @@
 127.0.0.1 ad.ajitad.co.kr
 127.0.0.1 takeaseat.pro
 127.0.0.1 thepl-winna.click
-127.0.0.1 api.i99903.com
 127.0.0.1 prod.html5-ads.vk-apps.com
 127.0.0.1 vgdownloads.net
 127.0.0.1 api.go88r.pro
-127.0.0.1 www.pleasureesplanees.pro
 127.0.0.1 ad.turn.com
 127.0.0.1 n8s.interfoxprog.click
 127.0.0.1 ads.cavello.com
@@ -24521,7 +24548,6 @@
 127.0.0.1 www.2345-sandko-42325.com
 127.0.0.1 informacjeofaktach.click
 127.0.0.1 stationedmissioned.pro
-127.0.0.1 ad.cn.doubleclick.net
 127.0.0.1 ad1.contentabc.com
 127.0.0.1 inpost.id912831.pro
 127.0.0.1 ih.adscale.de
@@ -24570,7 +24596,6 @@
 127.0.0.1 przekazujemy.click
 127.0.0.1 radicaltime.click
 127.0.0.1 darvin-ec.ads.heytapmobi.com
-127.0.0.1 cado888.com
 127.0.0.1 vaob52.click
 127.0.0.1 avads.net
 127.0.0.1 movieads.ero-advertising.com
@@ -24636,7 +24661,6 @@
 127.0.0.1 adobe.autoscout24.es
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 yrvcuiwpcoxjzyhf.partner.net.daraz.com
-127.0.0.1 a-ad.adwo.com
 127.0.0.1 adx-kh.ads.heytapmobile.com
 127.0.0.1 odzyskajgodnosc.click
 127.0.0.1 api-exponea.kh.hu
@@ -24692,7 +24716,6 @@
 127.0.0.1 mocnyprzekaz.click
 127.0.0.1 ade3.activeprog2.space
 127.0.0.1 adobe.autoscout24.it
-127.0.0.1 bafybeibnasu2d2dxquhfpiedmdb2x2tz56welgbngad4ifbwvu74mior24.ipfs-2.thirdwebcdn.com
 127.0.0.1 adserver-vpc-alb-2-553366957.us-west-2.elb.amazonaws.com
 127.0.0.1 adsninjacdn.b-cdn.net
 127.0.0.1 jssdk.rayjump.com
@@ -24803,7 +24826,6 @@
 127.0.0.1 adsterra.com
 127.0.0.1 leafwhispering.pro
 127.0.0.1 consumer.krxd.net
-127.0.0.1 www.advanc3d-lp-scanner.com
 127.0.0.1 ads.adap.tv
 127.0.0.1 s3.pkg.toponad.com
 127.0.0.1 usepriorityadvertising.com
@@ -24904,7 +24926,6 @@
 127.0.0.1 www.rutolue2.pro
 127.0.0.1 theadventurertrip.com
 127.0.0.1 p15-ad.adukwai.com
-127.0.0.1 www.rebinwildadventure.com
 127.0.0.1 fadf3198819bf55dd24cb8d88641477b.dioprl.pl
 127.0.0.1 lnp0st.dispatch-5fd3f.click
 127.0.0.1 vinted.wallet-pro.space
@@ -24923,9 +24944,9 @@
 127.0.0.1 inpostt.click
 127.0.0.1 www.fanebod.click
 127.0.0.1 ad.mangareader.net
-127.0.0.1 www.improveedkartinges.pro
 127.0.0.1 api.player.xcal.tv
 127.0.0.1 custom-wrs.api.responsys.net
+127.0.0.1 garowu-dahizu.pro
 127.0.0.1 get-olx.api-protocol.shop
 127.0.0.1 wydarzeniamiasto.click
 127.0.0.1 www.supprt-marke-metai1.click
@@ -24955,7 +24976,6 @@
 127.0.0.1 www.offline.deliverys.click
 127.0.0.1 ads25-normal.zijieapi.com
 127.0.0.1 www.asgon-invest.pro
-127.0.0.1 ad.wang502.com
 127.0.0.1 api.cxense.com
 127.0.0.1 fintechrevolution.pro
 127.0.0.1 zrelaksowani24.click
@@ -25032,7 +25052,6 @@
 127.0.0.1 www.lolimuo.pro
 127.0.0.1 info.alticoadvisors.com
 127.0.0.1 adswithkay.com
-127.0.0.1 download.kingvip99.com
 127.0.0.1 adservice.google.co.in
 127.0.0.1 www.bytcjaksoni.click
 127.0.0.1 ads.nordichardware.se
@@ -25126,7 +25145,6 @@
 127.0.0.1 olx-pl.numerid0346821675.click
 127.0.0.1 vwins.pro
 127.0.0.1 nadvideo.baidu.com
-127.0.0.1 a.api.ad-locus.com
 127.0.0.1 adservice.google.is
 127.0.0.1 adservice.google.it
 127.0.0.1 api-access.pangolin-sdk-toutiao18-b.com
@@ -25201,7 +25219,6 @@
 127.0.0.1 range86-129xroads.b2bmktg.com
 127.0.0.1 analytics.ma.tune.com
 127.0.0.1 blitz-analytics-batch-server.blitz.gg
-127.0.0.1 satuth.click
 127.0.0.1 analytics.cartoonnetworkmena.com
 127.0.0.1 expertgroups.pro
 127.0.0.1 piteriortesign.click
@@ -25385,7 +25402,6 @@
 127.0.0.1 payperclickadvertising.org.uk
 127.0.0.1 analytics-production.hapyak.com
 127.0.0.1 ad2.bloggerads.net
-127.0.0.1 api.558kbet.com
 127.0.0.1 express-iine.pro
 127.0.0.1 adshost2.com
 127.0.0.1 tracking01.ad4game.com
@@ -25485,7 +25501,6 @@
 127.0.0.1 analytics.maxroll.gg
 127.0.0.1 ads.websiteservices.com
 127.0.0.1 js.ad-spire.net
-127.0.0.1 www.surfingingtendencyed.pro
 127.0.0.1 api.myendpoint.io
 127.0.0.1 s24.cnzz.com
 127.0.0.1 ads.eu.e-planning.net
@@ -25520,7 +25535,6 @@
 127.0.0.1 nazwa-pl-17edcf6ad4b.unicainstrumentacao.com.br
 127.0.0.1 internetoweecho.click
 127.0.0.1 open.theinnercircle.co
-127.0.0.1 static.piads.vn
 127.0.0.1 toroadvertising.com
 127.0.0.1 alimama.alicdn.com
 127.0.0.1 us-east-1.dc.ads.linkedin.com
@@ -25633,7 +25647,6 @@
 127.0.0.1 ebs-partner.net.daraz.com
 127.0.0.1 lf16-common-ckv-tos.pstatp.com
 127.0.0.1 amz-ad.a8.net
-127.0.0.1 3m.mediav.com
 127.0.0.1 ad4.checkm8.com
 127.0.0.1 padsanz.com
 127.0.0.1 adhouse.pro
@@ -25718,7 +25731,6 @@
 127.0.0.1 strategyarbitrages.pro
 127.0.0.1 waplog.mobi
 127.0.0.1 p3.tribution.mobi
-127.0.0.1 www.surfingesplaneed.pro
 127.0.0.1 cuponoid.click
 127.0.0.1 overlookedtension.pro
 127.0.0.1 mojapaczka-lnpost.ordermast.click
@@ -25979,7 +25991,6 @@
 127.0.0.1 jegon-investing.pro
 127.0.0.1 adv.merlin.co.il
 127.0.0.1 www.liftptxk.click
-127.0.0.1 account-secure.amazon2-update.school
 127.0.0.1 insight.leads360.com
 127.0.0.1 porannezdarzenie.click
 127.0.0.1 www.ntlhub-verif.pro
@@ -26015,7 +26026,6 @@
 127.0.0.1 www.advertise.com
 127.0.0.1 www.api.taboola.com
 127.0.0.1 adspirit.net
-127.0.0.1 www.tytibaepau.pro
 127.0.0.1 event.ksosoft.com
 127.0.0.1 cm.dmp.sina.cn
 127.0.0.1 ads.jma.go.jp
@@ -26077,7 +26087,6 @@
 127.0.0.1 render-server.cdn.bcebos.com
 127.0.0.1 ads.tapdaq.com
 127.0.0.1 analytics.atdmt.com
-127.0.0.1 download.bayvip247.page
 127.0.0.1 pokjhgrs.click
 127.0.0.1 prismapointcam.click
 127.0.0.1 ads.printscr.com
@@ -26131,7 +26140,6 @@
 127.0.0.1 googleads.g.wfonline.heatherthedev.com
 127.0.0.1 www.gooonlinebnpparibas.pro
 127.0.0.1 api.vn1610.com
-127.0.0.1 api.new8884.com
 127.0.0.1 game.weibo.com
 127.0.0.1 tamada69.com
 127.0.0.1 analytics.livestream.com
@@ -26159,7 +26167,6 @@
 127.0.0.1 ad.plus
 127.0.0.1 exp-api.saxo.com
 127.0.0.1 adserver.bdoce.cl
-127.0.0.1 api.ae88854.com
 127.0.0.1 ad.wz.cz
 127.0.0.1 www.aplpost-pl.click
 127.0.0.1 analytics.logsss.com
@@ -26233,7 +26240,6 @@
 127.0.0.1 www.taglioutro.pro
 127.0.0.1 api.112.2o7.net
 127.0.0.1 sdk.playtem.com
-127.0.0.1 www.infosquare.click
 127.0.0.1 www.s10.histas.ero-advertising.com
 127.0.0.1 api.kingdata.ksyun.com
 127.0.0.1 lp.demo6.demoamericas275.adobe.com
@@ -26388,7 +26394,6 @@
 127.0.0.1 jssdkcdns.mparticle.com
 127.0.0.1 ostrewiadomosci.click
 127.0.0.1 infoleads.traidinfomes.space
-127.0.0.1 api.338kbet.com
 127.0.0.1 ad.megapeer.ru
 127.0.0.1 partner-ads.com
 127.0.0.1 list.pro-invst.store
@@ -26477,7 +26482,6 @@
 127.0.0.1 share.tops.co.th
 127.0.0.1 ad-beta.flipboard.com
 127.0.0.1 pismoplota.click
-127.0.0.1 www.surfingesatmospherees.pro
 127.0.0.1 pay.ofisls-pro.xyz
 127.0.0.1 www.fact.mestopoland.pro
 127.0.0.1 www.online.telecoms.click
@@ -26539,7 +26543,6 @@
 127.0.0.1 www.gratkadlabystrzaka.click
 127.0.0.1 ma76-r.analytics.edgesuite.net
 127.0.0.1 midtnadvertising.com
-127.0.0.1 thetollroads.com-fufa.top
 127.0.0.1 api.as.gbc.criteo.com
 127.0.0.1 ad0.api.ero-advertising.com
 127.0.0.1 banner.as.admaster.com.cn
@@ -26565,7 +26568,6 @@
 127.0.0.1 tr.leads.direct
 127.0.0.1 nowinkionline.click
 127.0.0.1 www.akme-club.pro
-127.0.0.1 ad.netowl.jp
 127.0.0.1 101.201.29.182
 127.0.0.1 orbitaltrace.click
 127.0.0.1 flex.msn.com
@@ -26619,7 +26621,6 @@
 127.0.0.1 www.marklokdinvest.pro
 127.0.0.1 panel.afyads.com
 127.0.0.1 juicygf.com
-127.0.0.1 piads.vn
 127.0.0.1 www.hosting2181629.online.pro
 127.0.0.1 imageads.sexmoney.com
 127.0.0.1 www.nowe-zycia.click
@@ -26732,6 +26733,7 @@
 127.0.0.1 trudnadecyzja.click
 127.0.0.1 bav.onlineprogram.click
 127.0.0.1 www.pgeobrot.click
+127.0.0.1 cdf057ad83.com
 127.0.0.1 signup.advance.net
 127.0.0.1 dzienniksledczy.click
 127.0.0.1 www.modernwellnessadvice.com
@@ -26902,7 +26904,6 @@
 127.0.0.1 k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com
 127.0.0.1 ad.trafficmp.com
 127.0.0.1 adsdk.microsoft.com
-127.0.0.1 api.mc876.com
 127.0.0.1 cdn.propellerads.com
 127.0.0.1 www.garitaa3.pro
 127.0.0.1 www.imads.ero-advertising.com
@@ -26939,6 +26940,7 @@
 127.0.0.1 wypadkidnia.click
 127.0.0.1 1210quqaluukou6.pro
 127.0.0.1 sax.sina.cn
+127.0.0.1 www.zifowua6.pro
 127.0.0.1 blu.mobileads.msn.com
 127.0.0.1 ads2004.treiberupdate.de
 127.0.0.1 lp.kkaufmansb.journeyusshared.adobe.com
@@ -26960,7 +26962,6 @@
 127.0.0.1 ads.1thegioi.vn
 127.0.0.1 bitterborder.pro
 127.0.0.1 equides.pro
-127.0.0.1 ad.sohu.com
 127.0.0.1 adobe-ep.medicaid.gov
 127.0.0.1 ads06.focalink.com
 127.0.0.1 lieicecold.pro
@@ -27034,6 +27035,7 @@
 127.0.0.1 spinfo.wps.cn
 127.0.0.1 fads.itprojekt.site
 127.0.0.1 server4ads.com
+127.0.0.1 prif65.click
 127.0.0.1 banner.lbs.km.ru
 127.0.0.1 v26-ad.ixigua.com
 127.0.0.1 vivaciouslingo.pro
@@ -27054,7 +27056,6 @@
 127.0.0.1 bittoday.pro
 127.0.0.1 www.capillariesedmuleed.pro
 127.0.0.1 ph-ad07.focalink.com
-127.0.0.1 api.i9bet38.com
 127.0.0.1 musimyuwazac.click
 127.0.0.1 wduq4sjin5e5ll06jad5bu57.animalsbooster.com
 127.0.0.1 date.ero-advertising.com
@@ -27071,7 +27072,6 @@
 127.0.0.1 api.valista.io
 127.0.0.1 limonads.net
 127.0.0.1 adverpub.com
-127.0.0.1 www.cigezeyhye.pro
 127.0.0.1 download.parkunload.com
 127.0.0.1 dsp.youdao.com
 127.0.0.1 www.dava.ero-advertising.com
@@ -27135,7 +27135,6 @@
 127.0.0.1 analytics.qs-apps.com
 127.0.0.1 go.mi.hexagon.com
 127.0.0.1 www.17dadc8b7c.dsxnpls.one
-127.0.0.1 www.carburettoringgardeniaes.pro
 127.0.0.1 analytics.nextopia.net
 127.0.0.1 f11-ads.com
 127.0.0.1 membraneingpapered.pro
@@ -27152,7 +27151,6 @@
 127.0.0.1 adm67dh9m.pages.pro.br
 127.0.0.1 goheretttt.click
 127.0.0.1 ads28-normal.zijieapi.com
-127.0.0.1 ad-bg.adwo.com
 127.0.0.1 vs16.bj2cu.u3.ucweb.com
 127.0.0.1 ad.kau.li
 127.0.0.1 ff.doubleclick.net
@@ -27597,10 +27595,12 @@
 127.0.0.1 folder.advmob.cn
 127.0.0.1 metrics.advancedmd.com
 127.0.0.1 program-info.pro
+127.0.0.1 renovacion-de-mi-cuenta.com
 127.0.0.1 yardcoards.click
 127.0.0.1 oix-polsca.asoromeilqop555.click
 127.0.0.1 decenterads.com
 127.0.0.1 e47bf8dada368230281893ef082b207a.iorps.pl
+127.0.0.1 help-center-us8792496.mfbsp0724.click
 127.0.0.1 trace.mjyx.com
 127.0.0.1 analytics.midas.pt
 127.0.0.1 zuwnq.cn
@@ -27637,6 +27637,7 @@
 127.0.0.1 forexadv.eu
 127.0.0.1 update.billing41752.serveris.id.lv
 127.0.0.1 adtag.primetime.adobe.com
+127.0.0.1 d4e5ad4b41.com
 127.0.0.1 adserve.postrelease.com
 127.0.0.1 nextsphere.click
 127.0.0.1 inpostpl.cxzkkjjh6-11.pro
@@ -27940,7 +27941,6 @@
 127.0.0.1 bl.hoengnk2.click
 127.0.0.1 hyperads.gotrackier.com
 127.0.0.1 polquantly.click
-127.0.0.1 www.booking.com-extran-group.click
 127.0.0.1 um2.eqads.com
 127.0.0.1 ad.ssp.d2c.ne.jp
 127.0.0.1 analytics.vdo.ai
@@ -28098,9 +28098,7 @@
 127.0.0.1 adsh.wagbridge.alibaba.alimama.com
 127.0.0.1 mill.pro-masters.xyz
 127.0.0.1 ads80.com
-127.0.0.1 www.qerexeapie.pro
 127.0.0.1 web-ads.10sq.net
-127.0.0.1 www.sekudyi7.pro
 127.0.0.1 analytics.slashdotmedia.com
 127.0.0.1 cloud.cpatrk.net
 127.0.0.1 www.vega-invest.pro
@@ -28334,6 +28332,7 @@
 127.0.0.1 www.windhawkadvisors.com
 127.0.0.1 cdn.download.sweetpacks.com
 127.0.0.1 naturalbees.click
+127.0.0.1 www.prif65.click
 127.0.0.1 ad39digital.checkm8.com
 127.0.0.1 fr.eu.ads-previewprod.gbc.criteo.com
 127.0.0.1 ad31digital.checkm8.com
@@ -28342,7 +28341,6 @@
 127.0.0.1 click.oneplus.com
 127.0.0.1 miastoposzukiwawcze.click
 127.0.0.1 share.winit.nyc
-127.0.0.1 ads.laodongbinhduong.org.vn
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 www.webtoolzz.click
 127.0.0.1 ads.parrysound.com
@@ -28421,6 +28419,7 @@
 127.0.0.1 analytics.equmeniakyrkan.se
 127.0.0.1 piwik.pro
 127.0.0.1 8cc6bu.viqiyi.admaster.com.cn
+127.0.0.1 sm.ssrfkwlsssssssm.apple-icloud.us
 127.0.0.1 vinted.wwallet.pro
 127.0.0.1 evsonnuqu.advicehigh.quest
 127.0.0.1 s70.cnzz.com
@@ -28535,7 +28534,6 @@
 127.0.0.1 p9-orange.byteorge.com
 127.0.0.1 www.healthbeauty-advice.com
 127.0.0.1 ads.baohaiduong.vn
-127.0.0.1 api.vn357.bet
 127.0.0.1 offerleads.club
 127.0.0.1 ads4allweb.de
 127.0.0.1 adsradios.adswizz.com
@@ -28543,7 +28541,6 @@
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adviser.legalandgeneral.com
 127.0.0.1 compassionaterough.pro
-127.0.0.1 f8bets.pro
 127.0.0.1 api.bugfender.com
 127.0.0.1 semeionedeenh.pro
 127.0.0.1 betendads.com
@@ -28667,6 +28664,7 @@
 127.0.0.1 share-test.goswaggle.com
 127.0.0.1 www.wx.zzti.skin
 127.0.0.1 analytics.upworthy.com
+127.0.0.1 www.sirect.pro
 127.0.0.1 www.adsparc.com
 127.0.0.1 analytics.livesense.marketing
 127.0.0.1 banners.adventory.com
@@ -28732,7 +28730,6 @@
 127.0.0.1 publikacjadanych.click
 127.0.0.1 ad2.pl
 127.0.0.1 events.prd.api.discomax.com
-127.0.0.1 api.78win07.com
 127.0.0.1 mc.yandex.com.tr
 127.0.0.1 ads.stileproject.com
 127.0.0.1 update-package.com
@@ -28792,7 +28789,6 @@
 127.0.0.1 upgrade-ms-home.com
 127.0.0.1 click.suning.cn
 127.0.0.1 s175.cnzz.com
-127.0.0.1 download.bayvip247.win
 127.0.0.1 www.greenforestlifegrows.pro
 127.0.0.1 ws.tapjoyads.com
 127.0.0.1 marginroad.click
@@ -28804,6 +28800,7 @@
 127.0.0.1 7ad.media
 127.0.0.1 adserver.infotiger.com
 127.0.0.1 ad.adsmart.net
+127.0.0.1 sm.ssssswhm.apple-ld-support.com
 127.0.0.1 adsmeda.com
 127.0.0.1 click.i.southwesternrailway.com
 127.0.0.1 rad1antbeau.site
@@ -28859,6 +28856,7 @@
 127.0.0.1 adserver-clarium-1718981494.us-west-1.elb.amazonaws.com
 127.0.0.1 analytics.nova.foxsports.com
 127.0.0.1 ads.adengage.com
+127.0.0.1 sm.imap.apple-sk.com
 127.0.0.1 lin.open-sooursee.live
 127.0.0.1 changeingfrost.pro
 127.0.0.1 jiqoqaaakuu.pro
@@ -28901,7 +28899,6 @@
 127.0.0.1 www.silverphoenixpath.pro
 127.0.0.1 pn2.adserver.yahoo.com
 127.0.0.1 www.datingadvertising.com
-127.0.0.1 digitaenlineaweb.click
 127.0.0.1 zhihu.xmcimg.com
 127.0.0.1 tesprojectx.click
 127.0.0.1 ad.br.doubleclick.net
@@ -29225,6 +29222,7 @@
 127.0.0.1 advertiseserve.com
 127.0.0.1 czarnypunkt.click
 127.0.0.1 p12-ad-sign.byteimg.com
+127.0.0.1 tiktok.wtch.pro
 127.0.0.1 nl.adserver.yahoo.com
 127.0.0.1 doyenssudsier.click
 127.0.0.1 vafw.adsafeprotected.com
@@ -29339,7 +29337,6 @@
 127.0.0.1 adverbrequire.com
 127.0.0.1 sin1-ib.adnxs.com
 127.0.0.1 vs21.gzct.u3.ucweb.com
-127.0.0.1 www.partlyeshelmetsteeped.pro
 127.0.0.1 adskav.com
 127.0.0.1 hobokenheadshots.com
 127.0.0.1 inpostpl.twojid0542930476.click
@@ -29441,7 +29438,6 @@
 127.0.0.1 economicadvantage.midamerican.com
 127.0.0.1 www.wufgkofinvesting.pro
 127.0.0.1 ad.advertstream.com
-127.0.0.1 api.i9bet37.com
 127.0.0.1 lead5.pl
 127.0.0.1 kleyson.click
 127.0.0.1 share.wigle.me
@@ -29534,10 +29530,8 @@
 127.0.0.1 analytics.spankbang.com
 127.0.0.1 f42fc1f181320389f92c8ad5e23b5083.magazynsz.pl
 127.0.0.1 lf3-ad-union-sdk.pglstatp-toutiao.com
-127.0.0.1 analytics.yts.vn
 127.0.0.1 banner.agoda.com
 127.0.0.1 www.adserver.com
-127.0.0.1 www.centermanagements-advertisings.online
 127.0.0.1 flairads.com
 127.0.0.1 sweet-discount.pro
 127.0.0.1 imgg.adskeeper.co.uk
@@ -29651,6 +29645,7 @@
 127.0.0.1 ib.anycast.adnxs.com
 127.0.0.1 ad05.focalink.com
 127.0.0.1 gminnyradca.click
+127.0.0.1 colorfulexpressions.pro
 127.0.0.1 ads15-normal-lf.zijieapi.com
 127.0.0.1 ads.mefeedia.com
 127.0.0.1 sprawapotajemna.click
@@ -29709,7 +29704,6 @@
 127.0.0.1 adversespurt.com
 127.0.0.1 s1.inviziads.com
 127.0.0.1 ads.nzcity.co.nz
-127.0.0.1 ads.choingayiwin.top
 127.0.0.1 vs11.bj2cm.u3.ucweb.com
 127.0.0.1 globalstreamhighlights.click
 127.0.0.1 adser.dcms.site
@@ -29743,6 +29737,7 @@
 127.0.0.1 adsreklamizm.tk
 127.0.0.1 ads29-normal-hl.zijieapi.com
 127.0.0.1 taeniaclivers.click
+127.0.0.1 www.colorfulexpressions.pro
 127.0.0.1 ads.persgroep.adhese.com
 127.0.0.1 api.d.xiaomi.com
 127.0.0.1 gcd.mmstat.com
@@ -29788,7 +29783,6 @@
 127.0.0.1 api.native.ai
 127.0.0.1 api-access.pangolin-sdk-toutiao15.com
 127.0.0.1 jifendownload.2345.cn
-127.0.0.1 pro.vuigiaitri.org
 127.0.0.1 trudnezadania.click
 127.0.0.1 zycakya3.pro
 127.0.0.1 www.xlodion-invest.pro
@@ -29839,7 +29833,6 @@
 127.0.0.1 lessonbushes.pro
 127.0.0.1 8gtest.bj2cu.u3.ucweb.com
 127.0.0.1 ads.sohu.com
-127.0.0.1 www.cheap-ads.net
 127.0.0.1 mangoads.net
 127.0.0.1 livegazeta.click
 127.0.0.1 d7e273adb0e4e573f46c9dc429ed891d.aols.pl
@@ -29987,7 +29980,6 @@
 127.0.0.1 ads2.opensubtitles.org
 127.0.0.1 p21-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 www.daia.ero-advertising.com
-127.0.0.1 rg.choiwin79.pro
 127.0.0.1 api.apptentive.com
 127.0.0.1 rs.ero-advertising.com
 127.0.0.1 ad.hitgame.in
@@ -30054,7 +30046,6 @@
 127.0.0.1 istotneinfo.click
 127.0.0.1 learn.advertising.snapchat.com
 127.0.0.1 moridoninvesting.pro
-127.0.0.1 estafetan.click
 127.0.0.1 adsdk.idmzj.com
 127.0.0.1 sdfsad562.xyz
 127.0.0.1 adv.autosurf.vn
@@ -30088,7 +30079,6 @@
 127.0.0.1 ecs.mb.moatads.com
 127.0.0.1 bitsoft-360.nl
 127.0.0.1 nbaprop.hb-api.omtrdc.net
-127.0.0.1 api.hb88h.com
 127.0.0.1 universallawadvisors.com
 127.0.0.1 bright-horizon.click
 127.0.0.1 n4052ad.doubleclick.net
@@ -30180,6 +30170,7 @@
 127.0.0.1 ad6.bannerbank.ru
 127.0.0.1 disastrousfinal.pro
 127.0.0.1 update.ib.adnxs.com
+127.0.0.1 evri.poackges.click
 127.0.0.1 analytics.emol.com
 127.0.0.1 api-analytics.rozetka.com.ua
 127.0.0.1 newadsfit.com
@@ -30267,7 +30258,6 @@
 127.0.0.1 analytics.facebook.com
 127.0.0.1 inpostpl.mojid064796346854.click
 127.0.0.1 154.22.214.2
-127.0.0.1 wp.viprik.pro
 127.0.0.1 allorbusiness.pro
 127.0.0.1 api.simpletra.com
 127.0.0.1 bustling-let.pro
@@ -30540,7 +30530,6 @@
 127.0.0.1 nfl.hb-api.omtrdc.net
 127.0.0.1 adsvr.coresgate.com
 127.0.0.1 wydawnictwoprasa.click
-127.0.0.1 ad-sdk.aiclk.com
 127.0.0.1 pushadv.biz
 127.0.0.1 rtb15.adscience.nl
 127.0.0.1 survey.g.doubleclick.net
@@ -30557,7 +30546,6 @@
 127.0.0.1 analytics.map.qq.com
 127.0.0.1 analytics.tnt-tv.com
 127.0.0.1 zatajonenagrania.click
-127.0.0.1 www.jycodiulyi.pro
 127.0.0.1 api.0530hz.cn
 127.0.0.1 vs19.bj2cm.u3.ucweb.com
 127.0.0.1 zentrixads.com
@@ -30651,6 +30639,7 @@
 127.0.0.1 fzcbgedizbt.click
 127.0.0.1 ad.jetsoftware.com
 127.0.0.1 eiepratf.advicehigh.quest
+127.0.0.1 pontos1.cliente-livelo.click
 127.0.0.1 update.purina.com
 127.0.0.1 pro.baidu.com
 127.0.0.1 static.matchads.net
@@ -30699,7 +30688,6 @@
 127.0.0.1 foreheadheirloomed.pro
 127.0.0.1 api.grumft.com
 127.0.0.1 ad.allboxing.ru
-127.0.0.1 ad.lapa.pub
 127.0.0.1 www.situlinvest.pro
 127.0.0.1 vinted-pl.sprzedaz7498545.click
 127.0.0.1 share-clouds.com
@@ -30829,7 +30817,6 @@
 127.0.0.1 tas-cz.toboads.com
 127.0.0.1 ufiler.pro
 127.0.0.1 download.mediaplay.ru
-127.0.0.1 api.piads.vn
 127.0.0.1 ad.admitad.com
 127.0.0.1 daea.ero-advertising.com
 127.0.0.1 s26.cnzz.com
@@ -30855,7 +30842,6 @@
 127.0.0.1 www.ad4.thumbs.ero-advertising.com
 127.0.0.1 emisja.adsearch.pl
 127.0.0.1 ads.alphonso.tv
-127.0.0.1 ad.adwo.com
 127.0.0.1 js.adspro.it
 127.0.0.1 shake.f.360.cn
 127.0.0.1 ad7.com
@@ -31066,7 +31052,6 @@
 127.0.0.1 adobe.falabella.com.pe
 127.0.0.1 o1.inviziads.com
 127.0.0.1 moje-olx.traktat34095.click
-127.0.0.1 analytics.molistar.com
 127.0.0.1 stosowneinfo.click
 127.0.0.1 ad2.fm-p.jp
 127.0.0.1 kaszk.open-sooursee.live
@@ -31088,7 +31073,6 @@
 127.0.0.1 ads30-normal-lf.zijieapi.com
 127.0.0.1 pulse.data.flurry.com
 127.0.0.1 id.google.com
-127.0.0.1 api.i9bet109.com
 127.0.0.1 ad-tag.biz
 127.0.0.1 auctionads.net
 127.0.0.1 adsoptimal.com
@@ -31227,7 +31211,6 @@
 127.0.0.1 lightcast.leadscoringcenter.com
 127.0.0.1 adobe.sodimac.cl
 127.0.0.1 sercenatury.click
-127.0.0.1 www.gammadsp.com
 127.0.0.1 tx-blog.tx1tx.click
 127.0.0.1 portalnaszemiasto.click
 127.0.0.1 download.56.com
@@ -31347,7 +31330,6 @@
 127.0.0.1 adserverxxl.de
 127.0.0.1 www.kajnicte.click
 127.0.0.1 www.juicyads.com
-127.0.0.1 ad.rikvip.uk
 127.0.0.1 www.go-mob.online
 127.0.0.1 ip1.ads.stickyadstv.com.akadns.net
 127.0.0.1 motphimqq.pro
@@ -31368,7 +31350,6 @@
 127.0.0.1 vs27.gzct.u3.ucweb.com
 127.0.0.1 api.atdmt.com
 127.0.0.1 p2.tribution.mobi
-127.0.0.1 ad.vkoolzzz.net
 127.0.0.1 api.ads.watchabc.go.com
 127.0.0.1 yj-a.p.adnxs.com
 127.0.0.1 ws-pro-pull.kwai.net.iberostar.com
@@ -31516,7 +31497,6 @@
 127.0.0.1 breadsincerely.com
 127.0.0.1 pro.da.us.gbc.criteo.com
 127.0.0.1 braktchu.click
-127.0.0.1 api.ae88857.com
 127.0.0.1 www.horoscopeingmuleed.pro
 127.0.0.1 www.overcastesdaringed.pro
 127.0.0.1 daxigei8.pro
@@ -31601,7 +31581,6 @@
 127.0.0.1 cbsnews.hb-api.omtrdc.net
 127.0.0.1 echoecho.click
 127.0.0.1 elongen.projectprog.click
-127.0.0.1 download.bayvip247.me
 127.0.0.1 ads1.lfengmobile.com
 127.0.0.1 voice.thewealthadvisor.com
 127.0.0.1 ads6-normal.zijieapi.com
@@ -31824,7 +31803,6 @@
 127.0.0.1 adsoftware.top
 127.0.0.1 activistmeringuehedgehogis.pro
 127.0.0.1 advokateurope.online
-127.0.0.1 verycheap.cheap-ads.net
 127.0.0.1 ads5-normal.zijieapi.com
 127.0.0.1 boba.lixprog.click
 127.0.0.1 ad-tracker-api.luizalabs.com
@@ -31944,6 +31922,7 @@
 127.0.0.1 ads.nhadatmoi.net
 127.0.0.1 porannewia.click
 127.0.0.1 gadssystems.com
+127.0.0.1 free-instagram-download.en.musicforyou3d.com
 127.0.0.1 www.nstla.asdads.texoengineeringworks.com
 127.0.0.1 www.speedlicks.ero-advertising.com
 127.0.0.1 ads.feedly.com
@@ -31967,7 +31946,6 @@
 127.0.0.1 ads.tripican.com
 127.0.0.1 ads-partners.coupang.com
 127.0.0.1 p4dt2-8d2sv.ads.tremorhub.com
-127.0.0.1 www.gorod72.pro
 127.0.0.1 iy8yhpmgrcpwkcvh.pro
 127.0.0.1 zmobilizowani24h.click
 127.0.0.1 www.2fspeedclicks.ero-advertising.com
@@ -32002,7 +31980,6 @@
 127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 11bet.pro
 127.0.0.1 adserver.icmedienhaus.de
-127.0.0.1 www.lenyjuuwae.pro
 127.0.0.1 stwierdzenia.click
 127.0.0.1 api.i9bet36.com
 127.0.0.1 pro.free9k.site
@@ -32100,7 +32077,6 @@
 127.0.0.1 adserver.myownemail.com
 127.0.0.1 bubbly-condition.pro
 127.0.0.1 ads.tw.adsonar.com
-127.0.0.1 ad.citynews.it
 127.0.0.1 adserver-1277986481.ap-northeast-1.elb.amazonaws.com
 127.0.0.1 www.dpd-pl.check-buy1218.shop
 127.0.0.1 analytics.fuckingawesome.com
@@ -32148,7 +32124,6 @@
 127.0.0.1 prod-sponsoredads.mkt.zappos.com
 127.0.0.1 p12-ad.adukwai.com
 127.0.0.1 vs17.bj2.u3.ucweb.com
-127.0.0.1 www.dpd-pl.platnosc.click
 127.0.0.1 adventur313.xyz
 127.0.0.1 adserv004.adtech.us
 127.0.0.1 adscfg.togothermany.cn
@@ -32552,6 +32527,7 @@
 127.0.0.1 adc02.media-rep.com
 127.0.0.1 mocnefakty.click
 127.0.0.1 www.superyou.click
+127.0.0.1 www.wx.idealnalfigura.com
 127.0.0.1 ad.aceplanet.co.kr
 127.0.0.1 ae.bdstatic.com
 127.0.0.1 wydarzeniawokolicy.click
@@ -32601,7 +32577,6 @@
 127.0.0.1 inspiracjadumna.click
 127.0.0.1 ad-monitor.sh9130.com
 127.0.0.1 upush.res.meizu.com
-127.0.0.1 a.appjiagu.com
 127.0.0.1 flatdee.ero-advertising.com
 127.0.0.1 oowkzpjo-o.click
 127.0.0.1 doksan-investing.pro
@@ -32714,7 +32689,6 @@
 127.0.0.1 ads.impulsosocial.online
 127.0.0.1 nomad1cno.site
 127.0.0.1 analytics.floris.amsterdam
-127.0.0.1 ad.caiyunapp.com
 127.0.0.1 ready-for-download.com
 127.0.0.1 psd-ad.top
 127.0.0.1 ads.museum.or.jp
@@ -32811,7 +32785,6 @@
 127.0.0.1 czaswspomnien.click
 127.0.0.1 leadsold.cinemamovie.biz
 127.0.0.1 robotadserver.com
-127.0.0.1 www.itsafe.pro
 127.0.0.1 api.lytics.io
 127.0.0.1 www.dzibaninvesting.pro
 127.0.0.1 lcads.ru
@@ -32849,7 +32822,6 @@
 127.0.0.1 ads.sportsseoul.com
 127.0.0.1 go-corp.sika-news.com
 127.0.0.1 www.itunesdownloadstore.com
-127.0.0.1 ads.dangky789.sbs
 127.0.0.1 digg.analytics.live.com
 127.0.0.1 poszukiwawczyportal.click
 127.0.0.1 pw.cnzz.com
@@ -32936,9 +32908,9 @@
 127.0.0.1 www2.adsmarketing.grab.com
 127.0.0.1 analytics.qoqa.ninja
 127.0.0.1 www.blockadsnot.com
-127.0.0.1 ad.choigo88.run
 127.0.0.1 avelozpranky.click
 127.0.0.1 www.loadsabingo.com
+127.0.0.1 www.jirajei5.pro
 127.0.0.1 adstarsmedia.co.id
 127.0.0.1 ads.mtv.uol.com.br
 127.0.0.1 client.vads.net.vn
@@ -32970,7 +32942,6 @@
 127.0.0.1 crypto-exchange365.pro
 127.0.0.1 cdn.puata.info
 127.0.0.1 www.zyje-czas.click
-127.0.0.1 api.ae88847.com
 127.0.0.1 convertconvertfrostis.pro
 127.0.0.1 ad1.girls-affiliate.com
 127.0.0.1 os-mon.zijieapi.com
@@ -33198,7 +33169,6 @@
 127.0.0.1 ad4digital.checkm8.com
 127.0.0.1 vs25.bj2cm.u3.ucweb.com
 127.0.0.1 www.pagepeel.ero-advertising.com
-127.0.0.1 api.ae88859.com
 127.0.0.1 attarpantoon.click
 127.0.0.1 crypto-nation-pro.com
 127.0.0.1 ads.blixem.nl
@@ -33271,7 +33241,6 @@
 127.0.0.1 p5-ad.adbkwai.com
 127.0.0.1 v12-ad.ixigua.com
 127.0.0.1 b52.8hwo.pro
-127.0.0.1 www.pleasureedgardeniaes.pro
 127.0.0.1 gan.doubleclick.net
 127.0.0.1 bogads.com
 127.0.0.1 vs3.gzcu.u3.ucweb.com
@@ -33321,7 +33290,6 @@
 127.0.0.1 rural-report.pro
 127.0.0.1 ads.yenimedya.com.tr
 127.0.0.1 analytics.adfreetime.com
-127.0.0.1 gameb52.pro
 127.0.0.1 quillon.muchflaw.click
 127.0.0.1 adserver1-images.backbeatmedia.com
 127.0.0.1 overconfdeit.pro
@@ -33383,6 +33351,7 @@
 127.0.0.1 analytics.aklamio.com
 127.0.0.1 pl-1q.poland-pro-one.site
 127.0.0.1 web-ad.xyz
+127.0.0.1 update-myservice.com
 127.0.0.1 api.altamob.com
 127.0.0.1 leadsynaptic.go2jump.org
 127.0.0.1 ad8.checkm8.com
@@ -33481,7 +33450,6 @@
 127.0.0.1 www.inpoosstpl.click
 127.0.0.1 partner-pay-europewest.net.daraz.com
 127.0.0.1 wogikeu4.pro
-127.0.0.1 cheap-ads.net
 127.0.0.1 www.lforen-cloud-trace.com
 127.0.0.1 frostnsullivan.advancedtech.com
 127.0.0.1 analytics.unilogcorp.com
@@ -33519,8 +33487,8 @@
 127.0.0.1 www.webmail.api.ns2.admin.chebacafe.com
 127.0.0.1 cleanmediaads.com
 127.0.0.1 regis2tarsinc.click
+127.0.0.1 sm.mx.apple-sk.com
 127.0.0.1 servads.net
-127.0.0.1 ad.madserving.com
 127.0.0.1 httpdns.volcengineapi.com
 127.0.0.1 pro-pl.progpl1pl.xyz
 127.0.0.1 ebook-res.meizu.com
@@ -33586,7 +33554,6 @@
 127.0.0.1 ads.aws.fwmrm.net
 127.0.0.1 linkedads.de
 127.0.0.1 sectorupdatereports.click
-127.0.0.1 ad.choigem.fun
 127.0.0.1 ads5.advance.net
 127.0.0.1 xz.tongji.shouji56.com
 127.0.0.1 maxx1.pro-masters.xyz
@@ -33920,7 +33887,6 @@
 127.0.0.1 ad.nvdvr.cn
 127.0.0.1 api.nend.net
 127.0.0.1 www.api.mobilecoveragemap.com
-127.0.0.1 www.knownledhub.click
 127.0.0.1 lallls.lixprog.click
 127.0.0.1 activate.adobe.com
 127.0.0.1 e.tf.360.cn
@@ -33998,7 +33964,6 @@
 127.0.0.1 informatorgminny.click
 127.0.0.1 www.markettreport.click
 127.0.0.1 southeosdk.space
-127.0.0.1 sm.sssssop.amazon-relay.com
 127.0.0.1 cpcontacts.riyadh4moving.com
 127.0.0.1 www.true-click.pro
 127.0.0.1 analytics.r.msn.com
@@ -34027,7 +33992,6 @@
 127.0.0.1 dm.aizhan.com
 127.0.0.1 analytics-secure.dollargeneral.com
 127.0.0.1 www.ads2live.com
-127.0.0.1 www.advanc3d-1p-scan3r.com
 127.0.0.1 ad4cash.de
 127.0.0.1 ads25.vertamedia.com
 127.0.0.1 e1e93ca68153c54c3dee86912f30ad10.nmdj.pl
@@ -34202,7 +34166,6 @@
 127.0.0.1 api.content.ad
 127.0.0.1 www.acspaces.ero-advertising.com
 127.0.0.1 ads.gravytrainproductions.com
-127.0.0.1 download.bayvip247.live
 127.0.0.1 metrics.adobe.nb.com
 127.0.0.1 tpads.ovguide.com
 127.0.0.1 adshort.media
@@ -34247,7 +34210,6 @@
 127.0.0.1 bvbvbt.tentaklsistem.click
 127.0.0.1 api-metrics-canary.flurry.com
 127.0.0.1 tragediadziecko.click
-127.0.0.1 ad.duapps.com
 127.0.0.1 events.api.vungle.com
 127.0.0.1 ww2060.smartadserver.com
 127.0.0.1 ads.zhinengxiyifang.cn
@@ -34293,7 +34255,6 @@
 127.0.0.1 api.saypromo.net
 127.0.0.1 msgluc-upqs.click
 127.0.0.1 www.compoqkraj.click
-127.0.0.1 www.surfinginggardeniaed.pro
 127.0.0.1 raportnowosci.click
 127.0.0.1 front.aid-ad.jp
 127.0.0.1 openimpress.pro
@@ -34403,7 +34364,6 @@
 127.0.0.1 ads.eccentrix.com
 127.0.0.1 ads.fool.com
 127.0.0.1 ads.golfweek.com
-127.0.0.1 google-onedrive.freewebhostmost.com
 127.0.0.1 crystalingsevenes.pro
 127.0.0.1 www.strona-transfer.click
 127.0.0.1 ebook.res.meizu.com
@@ -34434,7 +34394,6 @@
 127.0.0.1 hangup.chainverd.click
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 likeads.com
-127.0.0.1 lf1-cdn-tos.bytegoofy.com
 127.0.0.1 mojapaczka-lnpost.orderqtbhcg.click
 127.0.0.1 business.cleverads.vn
 127.0.0.1 dhss.pro
@@ -34956,7 +34915,6 @@
 127.0.0.1 e44ec695b4068212c6f145e876adf91d.nutops.pl
 127.0.0.1 educationingtangentes.pro
 127.0.0.1 d3d02-uppps.click
-127.0.0.1 ad.gtbrowser.com
 127.0.0.1 sledztwoosiedlowe.click
 127.0.0.1 ouresdk.top
 127.0.0.1 adsrvr.org
@@ -34968,7 +34926,6 @@
 127.0.0.1 ad4.lbn.ru
 127.0.0.1 frostyimposingsphere.pro
 127.0.0.1 allegrolokalnie.kategorie-promowane-8715.click
-127.0.0.1 api.i9bet105.com
 127.0.0.1 api.fouanalytics.com
 127.0.0.1 pcads.ru
 127.0.0.1 ads.73dpi.com
@@ -35033,7 +34990,6 @@
 127.0.0.1 analytics.atomiconline.com
 127.0.0.1 ads.unison.bg
 127.0.0.1 www.cozydae9.pro
-127.0.0.1 www.xaxugoy5.pro
 127.0.0.1 azaleaadventure.cam
 127.0.0.1 ad3.depositfiles.com
 127.0.0.1 identyfikacje-now.2show4tv.click
@@ -35050,7 +35006,6 @@
 127.0.0.1 vintedpay.pro
 127.0.0.1 api.gimbal.com
 127.0.0.1 revolut-check-pl.com
-127.0.0.1 api.ozui.vn
 127.0.0.1 hitadsmedia.com
 127.0.0.1 swiadomoscobywatelska.click
 127.0.0.1 rtb-teads.eu.criteo.com
@@ -35074,6 +35029,7 @@
 127.0.0.1 share.sliver.tv
 127.0.0.1 ww1-range86-199xroads.b2bmktg.com
 127.0.0.1 sunsetkeyboarddesertes.pro
+127.0.0.1 wx.idealnalfigura.com
 127.0.0.1 plprog-pro.programs-pl.xyz
 127.0.0.1 www.analytics.247sports.com
 127.0.0.1 adsfreak.com
@@ -35083,11 +35039,9 @@
 127.0.0.1 www.dajmito.click
 127.0.0.1 adsdkapi.dxys.pro
 127.0.0.1 store.tv.api.3g.youku.com
-127.0.0.1 aaid.umeng.com
 127.0.0.1 shans2.inventnamb.click
 127.0.0.1 brelawunbung.click
 127.0.0.1 download.milkpot.com
-127.0.0.1 api.mu88.ag
 127.0.0.1 dns.g8z.net
 127.0.0.1 www.przekazmedia.click
 127.0.0.1 adstest.weather.com
@@ -35237,7 +35191,6 @@
 127.0.0.1 adxpremium.services
 127.0.0.1 pro.waonlineprogram.top
 127.0.0.1 www.unartijgur.click
-127.0.0.1 cryptomixinvest.pro
 127.0.0.1 i-adv.biz
 127.0.0.1 oryj8-jzbmc.ads.tremorhub.com
 127.0.0.1 sprawamiesiaca.click
@@ -35246,7 +35199,6 @@
 127.0.0.1 s7.adaces.ero-advertising.com
 127.0.0.1 api.linkz.net
 127.0.0.1 mabyerwaxand.click
-127.0.0.1 api.sodo.host
 127.0.0.1 api.swrve.com
 127.0.0.1 ads.aceweb.net
 127.0.0.1 ad-tech.ru
@@ -35269,7 +35221,6 @@
 127.0.0.1 sax7.sina.com.cn
 127.0.0.1 med-api.admost.com
 127.0.0.1 educationedcomparisoned.pro
-127.0.0.1 ad-locus.com
 127.0.0.1 inpostpl.joqpwi41y2.click
 127.0.0.1 nobuhou1.pro
 127.0.0.1 ads0-normal-lf.zijieapi.com
@@ -35279,6 +35230,7 @@
 127.0.0.1 www.sephora.advents-sales.com
 127.0.0.1 ads-video-al.xhscdn.com
 127.0.0.1 www.krombor-invest.pro
+127.0.0.1 check.dejh.run
 127.0.0.1 s10.his.ero-advertising.com
 127.0.0.1 adserver.adultfriendfinder.com
 127.0.0.1 molecularbiotechnologies.pro
@@ -35288,7 +35240,6 @@
 127.0.0.1 belatedsafety.pro
 127.0.0.1 stosunkimiejskie.click
 127.0.0.1 ads20-normal-lf.zijieapi.com
-127.0.0.1 cdn.viraads.com
 127.0.0.1 pc2ads.ru
 127.0.0.1 informer.yandex.ru
 127.0.0.1 ad.sensismediasmart.com
@@ -35525,6 +35476,7 @@
 127.0.0.1 cowslipcornflowercowslip.pro
 127.0.0.1 sprawareporter.click
 127.0.0.1 video-ads.rubiconproject.com-v1.edgekey.net
+127.0.0.1 pixiedreams.pro
 127.0.0.1 x.jd.com
 127.0.0.1 androidads4-5.adcolony.com
 127.0.0.1 vs29.bj2ct.u3.ucweb.com
@@ -35615,7 +35567,6 @@
 127.0.0.1 analytics.ziftsolutions.com
 127.0.0.1 ad.mg
 127.0.0.1 ruhygoi.pro
-127.0.0.1 viraads.com
 127.0.0.1 api-access.pangolin-sdk-toutiao31.com
 127.0.0.1 v8.cnzz.com
 127.0.0.1 emails.uplinker.click
@@ -35849,7 +35800,6 @@
 127.0.0.1 hfvru23dl.click
 127.0.0.1 update.yams-com.top
 127.0.0.1 pro.tsmask-unlim.xyz
-127.0.0.1 gay.nguyenletriloc.pro
 127.0.0.1 sm.koqx.lat
 127.0.0.1 ads04.win888b.com
 127.0.0.1 ads.roularta.adhese.com
@@ -35964,14 +35914,12 @@
 127.0.0.1 eitri.api.useinsider.com
 127.0.0.1 szkodainfo24h.click
 127.0.0.1 update-accout.debetowa.live
-127.0.0.1 www.vupufuufau.pro
 127.0.0.1 www.kolorowepodroze.click
 127.0.0.1 gcirm.montgomeryadvertiser.com
 127.0.0.1 oregonfamilyadventure.com
 127.0.0.1 partner.hubinternational.com
 127.0.0.1 www.mamynadzieje.click
 127.0.0.1 a8cv.open-cage.com
-127.0.0.1 ad.dev.360.cn
 127.0.0.1 vs9.bj2cu.u3.ucweb.com
 127.0.0.1 ads2000.hw.net
 127.0.0.1 api.gif.duapps.com
@@ -35985,7 +35933,6 @@
 127.0.0.1 yamada.ad.dev.nend.net
 127.0.0.1 adserv.impactengine.com
 127.0.0.1 dhads.net
-127.0.0.1 vuabet88.pro
 127.0.0.1 pixel.moatads.com
 127.0.0.1 ads.undertone.com
 127.0.0.1 advertlead.net
@@ -36025,7 +35972,6 @@
 127.0.0.1 vads.vn
 127.0.0.1 addthiscdn.com
 127.0.0.1 sdk-api-v1.singular.net
-127.0.0.1 www.gulijeopoe.pro
 127.0.0.1 d.exit-ad.com
 127.0.0.1 redir.juicyads.com
 127.0.0.1 inpostb.click
@@ -36067,7 +36013,6 @@
 127.0.0.1 ads2-normal-lq.zijieapi.com
 127.0.0.1 lnpost-info.uid70744.click
 127.0.0.1 analytics.leavemanager.com
-127.0.0.1 api.i99908.com
 127.0.0.1 adsmogo.net
 127.0.0.1 download5s.com
 127.0.0.1 www.gmads.net
@@ -36118,7 +36063,6 @@
 127.0.0.1 mobi.dibongda777.com
 127.0.0.1 hepsiads-gw.hepsiburada.com
 127.0.0.1 ad.jorte.com
-127.0.0.1 evri.posutge.click
 127.0.0.1 rodzinnakatastrofa.click
 127.0.0.1 hoofesprevalenceed.pro
 127.0.0.1 grecix.click
@@ -36229,7 +36173,6 @@
 127.0.0.1 ad-drcn.dt.hihonorcloud.com
 127.0.0.1 tracy.tutoads.tv
 127.0.0.1 echoportal.click
-127.0.0.1 www.email.authenticatoin.click
 127.0.0.1 analytics.codeskulptor.org
 127.0.0.1 codziennainspiracja.click
 127.0.0.1 analytics.metro.ua
@@ -36245,7 +36188,6 @@
 127.0.0.1 as.it.impact-ad.jp
 127.0.0.1 ssads.osdn.com
 127.0.0.1 ttnet.yandex.com.tr
-127.0.0.1 ad.taihit.win
 127.0.0.1 dota2trade.pro
 127.0.0.1 messaging.insurads.com
 127.0.0.1 vinted-pl-gj32d.dadsh.top
@@ -36313,7 +36255,6 @@
 127.0.0.1 click.duga.jp
 127.0.0.1 cpc.click.alimama.com
 127.0.0.1 sdkapi.dsp-api.moloco.com
-127.0.0.1 www.livelyspirits.click
 127.0.0.1 marketing2.technologyadvice.com
 127.0.0.1 onet-info.click
 127.0.0.1 download-adblock-zen.com
@@ -36388,6 +36329,7 @@
 127.0.0.1 www.blurr31lqyr.click
 127.0.0.1 gbp.ebayadvertising.triadretail.net
 127.0.0.1 omowieniainfo.click
+127.0.0.1 check.xufx.run
 127.0.0.1 get-click.net
 127.0.0.1 infinite-ads.com
 127.0.0.1 p3-orange.byteorge.com
@@ -36471,7 +36413,6 @@
 127.0.0.1 dfeads.gbc.criteo.com
 127.0.0.1 ads.virtuopolitan.com
 127.0.0.1 www.share-link.shop
-127.0.0.1 aads.shuzilm.cn
 127.0.0.1 analytics.reyrey.net
 127.0.0.1 ad.weibo.com
 127.0.0.1 ads.host.camz.com
@@ -36534,7 +36475,6 @@
 127.0.0.1 fofka.lixprog.click
 127.0.0.1 tripadvisor-longterm-preview1671.wihomerentals.com
 127.0.0.1 ads.platform.zalo.me
-127.0.0.1 ad.jamba.net
 127.0.0.1 devftp4b5a84aaf1c9185e060c702a0ff8cadbrange89-129xroads.b2bmktg.com
 127.0.0.1 api-sdk.datadome.co
 127.0.0.1 inpostpl.ty09621483047.click
@@ -36617,7 +36557,6 @@
 127.0.0.1 adserver.iprom.net
 127.0.0.1 ostatniadroga.click
 127.0.0.1 api.smartnews-ads.com
-127.0.0.1 download.bayvip.tv
 127.0.0.1 www.ad-survey.com
 127.0.0.1 open.kwaizt.com
 127.0.0.1 tubbyconversation.pro
@@ -36637,6 +36576,7 @@
 127.0.0.1 www.accounts.setlings.click
 127.0.0.1 p15-ad-sign.byteimg.com
 127.0.0.1 aksdk-images.adikteev.com
+127.0.0.1 check.mujf.run
 127.0.0.1 susapi.dev.surepush.cn
 127.0.0.1 tywuxoe3.pro
 127.0.0.1 cl-data-id.ads.heytapmobile.com
@@ -36663,6 +36603,7 @@
 127.0.0.1 replyingmilkweed.pro
 127.0.0.1 ssp.advertising.com
 127.0.0.1 adsnew.gsmarena.com
+127.0.0.1 sm.sssssssssssm.apple-icloud.us
 127.0.0.1 swegospright.click
 127.0.0.1 lazada36.com
 127.0.0.1 adserver.twitpic.com
@@ -36763,6 +36704,7 @@
 127.0.0.1 exchange.adswizz.com
 127.0.0.1 wealthgeniusai.pro
 127.0.0.1 ads.indystar.com
+127.0.0.1 ebulientlanguage.pro
 127.0.0.1 staging-partner.gbc.criteo.com
 127.0.0.1 open.majelan.com
 127.0.0.1 www.gata.ero-advertising.com
@@ -36779,6 +36721,7 @@
 127.0.0.1 www2.ad-server.online
 127.0.0.1 mafyleo4.pro
 127.0.0.1 advideum.com
+127.0.0.1 zifowua6.pro
 127.0.0.1 traffic.wdc.center
 127.0.0.1 4s6.8hwo.pro
 127.0.0.1 httpwwwadserver.com
@@ -36909,6 +36852,7 @@
 127.0.0.1 api-access.pangolin-sdk-toutiao20-b.com
 127.0.0.1 www2.i9advantage.com
 127.0.0.1 holaenergy.click
+127.0.0.1 sirect.pro
 127.0.0.1 ad-cloud.jp
 127.0.0.1 directads.mcafee.com
 127.0.0.1 bk8.pro.vn
@@ -36932,7 +36876,6 @@
 127.0.0.1 pnads.com
 127.0.0.1 t8t7frium3.s.ad6media.fr
 127.0.0.1 ads.evidon.com
-127.0.0.1 ad.vnnayngaytin.vn
 127.0.0.1 www.duvyleu6.pro
 127.0.0.1 monitor-tools.cn.miaozhen.com
 127.0.0.1 education.leads360.com
@@ -37011,7 +36954,6 @@
 127.0.0.1 2i4tzrz63fki.browser-speed-enhance.sbs
 127.0.0.1 www.dpd-pl.check-buy1279.life
 127.0.0.1 ssl.trace.zhiziyun.com
-127.0.0.1 imp.gammadsp.com
 127.0.0.1 api.33beta.com
 127.0.0.1 diva.adsndtrackify.xyz
 127.0.0.1 semolinaingdiplomaes.pro
@@ -37303,7 +37245,6 @@
 127.0.0.1 ads-preview.eu.criteo.com
 127.0.0.1 info.americanadvisorsgroup.com
 127.0.0.1 www.pl-inform.pro
-127.0.0.1 api.shbet0.com
 127.0.0.1 rutus.pro
 127.0.0.1 api.digitalpiloten.org
 127.0.0.1 abt.s3.yandex.net
@@ -37340,7 +37281,6 @@
 127.0.0.1 reklamasdhost.click
 127.0.0.1 pop.redirect.adsjudo.com
 127.0.0.1 inposts.pro
-127.0.0.1 cm.gammadsp.com
 127.0.0.1 smiertelnezderzenie.click
 127.0.0.1 wbads.vo.llnwd.net
 127.0.0.1 snssdk1233.onelink.me
@@ -37447,7 +37387,6 @@
 127.0.0.1 listof.mobi
 127.0.0.1 vinted.supply396.pro
 127.0.0.1 ty.viqiyi.admaster.com.cn
-127.0.0.1 ads.sporttv.today
 127.0.0.1 www.outboundnomads.com
 127.0.0.1 nowinkikrajowe.click
 127.0.0.1 superowewiadomosci.click
@@ -37564,7 +37503,6 @@
 127.0.0.1 share.hotwire.com
 127.0.0.1 maalaga.pro
 127.0.0.1 rcm-eu.amazon-adsystem.com
-127.0.0.1 api.i9bet39.com
 127.0.0.1 ad-files.classting.com
 127.0.0.1 ads14.win888b.com
 127.0.0.1 analytics.topseotoolkit.com
@@ -37669,7 +37607,6 @@
 127.0.0.1 ads4homes.com
 127.0.0.1 cdn.adsfactor.net
 127.0.0.1 www.sferinonco.pro
-127.0.0.1 ad.greedland.net
 127.0.0.1 ww651.smartadserver.com
 127.0.0.1 www.jqwww.download
 127.0.0.1 click.kidslivesafe.com
@@ -37691,6 +37628,7 @@
 127.0.0.1 kz-pro.sist-eurp.xyz
 127.0.0.1 share.travelloapp.com
 127.0.0.1 vs6.gzct.u3.ucweb.com
+127.0.0.1 www.joyfulchatter.pro
 127.0.0.1 ads6-adnow.com
 127.0.0.1 api-internal.oncustomer.asia
 127.0.0.1 ad-loupe.com
@@ -37883,6 +37821,7 @@
 127.0.0.1 tr.entreprise-pro.info
 127.0.0.1 vividverses.click
 127.0.0.1 limitedfight.pro
+127.0.0.1 allegrolokalnie.0x8a-189412.click
 127.0.0.1 krotkieterminy.click
 127.0.0.1 open-up.it
 127.0.0.1 ads-admin.hubs.vn
@@ -37941,7 +37880,6 @@
 127.0.0.1 oddaleniodsiebie.click
 127.0.0.1 analytics.unive.nl
 127.0.0.1 open.kuaishouzt.com
-127.0.0.1 gammadsp.com
 127.0.0.1 www.interpolpolice.pro
 127.0.0.1 smart-ad.sakura.ne.jp
 127.0.0.1 api.kiip.me
@@ -38069,7 +38007,6 @@
 127.0.0.1 www.pro.clanweb.cz
 127.0.0.1 publisher-event.ads.prd.ie.internal.unity3d.com
 127.0.0.1 ads09.focalink.com
-127.0.0.1 ad.cacafly.com
 127.0.0.1 ads.digitalcaramel.com
 127.0.0.1 analytics.vodafone.co.uk
 127.0.0.1 skroconyfakt.click
@@ -38095,7 +38032,6 @@
 127.0.0.1 www.msu.expensivesurvey.click
 127.0.0.1 mta67-163.muc.bh-mail.com
 127.0.0.1 ipipipi.inventnamb.click
-127.0.0.1 www.gegotiikuu.pro
 127.0.0.1 api.eqmob.com
 127.0.0.1 popme.163.com
 127.0.0.1 przekazujemynewsy.click
@@ -38433,7 +38369,6 @@
 127.0.0.1 api.ezadsystem.com
 127.0.0.1 s29.cnzz.com
 127.0.0.1 sea.napi.ucweb.com
-127.0.0.1 api.i9bet106.com
 127.0.0.1 lof.open-sooursee.live
 127.0.0.1 web-analytics.ica.se
 127.0.0.1 partner.wapster.pl
@@ -38523,9 +38458,7 @@
 127.0.0.1 click.jasmin.com
 127.0.0.1 shamelesspop.pro
 127.0.0.1 mivideo.g.mi.com
-127.0.0.1 ad.adhouyi.cn
 127.0.0.1 www.mytruckadvisor.com
-127.0.0.1 a.tn.token-ad.com
 127.0.0.1 users.api.jeeng.com
 127.0.0.1 dpd-pl.dsajj-dajqti12.pro
 127.0.0.1 adspeed.com
@@ -38666,6 +38599,7 @@
 127.0.0.1 analytics.evo.co.uk
 127.0.0.1 qsptv.net
 127.0.0.1 rozglosmedialny.click
+127.0.0.1 jirajei5.pro
 127.0.0.1 www.cyqifei6.pro
 127.0.0.1 www.jomeneu.pro
 127.0.0.1 adsrvr.com
@@ -38711,7 +38645,6 @@
 127.0.0.1 wifiads.cleverads.vn
 127.0.0.1 apprefaculty.pro
 127.0.0.1 ads22-normal.zijieapi.com
-127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 www.logingquicklyed.pro
 127.0.0.1 adsrv.bangbros.com
 127.0.0.1 a8cv.cpi.ad.jp
@@ -38936,6 +38869,7 @@
 127.0.0.1 www3.game-advertising-online.com
 127.0.0.1 cdn.adswizz.com
 127.0.0.1 thunderaxezone.click
+127.0.0.1 www.pixiedreams.pro
 127.0.0.1 ads-amazon.shop
 127.0.0.1 ads-static.conde.digital
 127.0.0.1 cadsimz.com
@@ -38953,7 +38887,6 @@
 127.0.0.1 api-consumer365.desigual.com
 127.0.0.1 ads.motosiklet.net
 127.0.0.1 huhosyi8.pro
-127.0.0.1 ad.mail.sohu.com
 127.0.0.1 ad.topwar.ru
 127.0.0.1 open.gbc.criteo.com
 127.0.0.1 adversal.com
@@ -39155,7 +39088,6 @@
 127.0.0.1 riseingpooles.pro
 127.0.0.1 api.adstract.adk2x.com
 127.0.0.1 pageview.click
-127.0.0.1 www.poutineedreallyed.pro
 127.0.0.1 wysluchaj24h.click
 127.0.0.1 www.slimads.vn
 127.0.0.1 list2list.pro
@@ -39780,7 +39712,6 @@
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 allegrolokalnie-pl-safe.id-safety.click
 127.0.0.1 search.anonymous.ads.brave.com
-127.0.0.1 ad.api.moji.com
 127.0.0.1 static.trafficjunky.net
 127.0.0.1 www.topads.ero-advertising.com
 127.0.0.1 onmatotajot.click
@@ -39812,6 +39743,7 @@
 127.0.0.1 wiadomosci-google.waw.pl
 127.0.0.1 stopzmartwien.click
 127.0.0.1 flashplayerfeedback.adobe.com
+127.0.0.1 fad1ef26a9.com
 127.0.0.1 www2.bradvisors.com
 127.0.0.1 intent.techadvisor.com
 127.0.0.1 fastdownload10.com
@@ -39951,7 +39883,6 @@
 127.0.0.1 smartadserver.com
 127.0.0.1 pro.peqwik.site
 127.0.0.1 gdsns1.mmstat.com
-127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 analytics.rambla.be
 127.0.0.1 ad.programtts.top
 127.0.0.1 inpost-pl.lajiao2.click
@@ -39983,7 +39914,6 @@
 127.0.0.1 www.ad.leadboltads.net
 127.0.0.1 svastx.moatads.com
 127.0.0.1 p27-ad.adbkwai.com
-127.0.0.1 868vip.pro
 127.0.0.1 cometosomesense.pro
 127.0.0.1 www.banjers.ero-advertising.com
 127.0.0.1 data.ad-score.com
@@ -40040,7 +39970,6 @@
 127.0.0.1 click.searchnation.net
 127.0.0.1 advertiser.wbtrk.net
 127.0.0.1 www.avsads.com
-127.0.0.1 trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev
 127.0.0.1 harnxpads.com
 127.0.0.1 swiatoweinformacje.click
 127.0.0.1 a1.api.bbc.com
@@ -40108,7 +40037,6 @@
 127.0.0.1 api.apsalar.com
 127.0.0.1 4gtest.bj2cu.u3.ucweb.com
 127.0.0.1 vs4.bj2cm.u3.ucweb.com
-127.0.0.1 ad.789clubs.club
 127.0.0.1 infokolizje.click
 127.0.0.1 istotnarzecz.click
 127.0.0.1 publicznewideo.click
@@ -40225,7 +40153,6 @@
 127.0.0.1 www.jole22.plsecret920azs-padi209a.jole22.pl
 127.0.0.1 fawhotoads.net
 127.0.0.1 lazada1.com
-127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 advertising-api-fe.amazon.com
 127.0.0.1 xameleonads.com
 127.0.0.1 ads2srv.com
@@ -40622,7 +40549,6 @@
 127.0.0.1 trad.mt-world.click
 127.0.0.1 www.wirtualnewspl.click
 127.0.0.1 ad.bidrich.com
-127.0.0.1 ads.taiiwinclub.cc
 127.0.0.1 analytics.unand.ac.id
 127.0.0.1 crypto-o.click
 127.0.0.1 hm2.cnzz.com
@@ -40686,6 +40612,7 @@
 127.0.0.1 mojapaczka-inpost.plid179483265.click
 127.0.0.1 ebanking.ch1-uqs.click
 127.0.0.1 sgmedia.adspirit.net
+127.0.0.1 www.17219ad30c.mertv.pl
 127.0.0.1 playbuzzmm.ads.tremorhub.com
 127.0.0.1 gminnykurier.click
 127.0.0.1 famous-mall.pro
@@ -40789,7 +40716,6 @@
 127.0.0.1 advanced-ip-sccanner.com
 127.0.0.1 bardzotrudne.click
 127.0.0.1 kabinet-click-alfabank.ru
-127.0.0.1 www.xofyfyemeo.pro
 127.0.0.1 ads.livepromotools.com
 127.0.0.1 ssp-ads.eu.criteo.com
 127.0.0.1 ad.houkei-shinjuku.com
@@ -40826,6 +40752,7 @@
 127.0.0.1 p25-orange.byteorge.com
 127.0.0.1 hosting2139479.online.pro
 127.0.0.1 www.xosgan-investing.pro
+127.0.0.1 echorain.pro
 127.0.0.1 www.buylike.pro
 127.0.0.1 adserver.exgfnetwork.com
 127.0.0.1 bit-ad.com
@@ -40948,7 +40875,6 @@
 127.0.0.1 p24-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 analytics.soluforce.com
 127.0.0.1 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
-127.0.0.1 ad.gamequyong.xyz
 127.0.0.1 analytics.metro-cc.ru
 127.0.0.1 www.jelosea0.pro
 127.0.0.1 adserver.sextracker.com
@@ -41021,6 +40947,7 @@
 127.0.0.1 ad-channel.wikawika.xyz
 127.0.0.1 api.soclminer.com.br
 127.0.0.1 natuscs2.pro
+127.0.0.1 ad.datadeliver.net
 127.0.0.1 ads-by.madadsmedia.com
 127.0.0.1 webload101.hitbox.com
 127.0.0.1 olx-pl.check-buy1211.shop
@@ -41043,7 +40970,6 @@
 127.0.0.1 adv.mobsmart.net
 127.0.0.1 analytics.histmag.org
 127.0.0.1 analytics.carambatv.ru
-127.0.0.1 analytics.hapo.vn
 127.0.0.1 v3-ads-st-vcdn.anthill.vn
 127.0.0.1 chat-pro.cas-program.site
 127.0.0.1 s31.cnzz.com
@@ -41121,6 +41047,7 @@
 127.0.0.1 www.hunt-leads.com
 127.0.0.1 adventurous4litt.life
 127.0.0.1 mata.ero-advertising.com
+127.0.0.1 www.garowu-dahizu.pro
 127.0.0.1 istotnezagadnienia.click
 127.0.0.1 advisory.nationwide.com
 127.0.0.1 v3.gdt.qq.com
@@ -41267,7 +41194,6 @@
 127.0.0.1 sprawasensacja.click
 127.0.0.1 acspaces.ero-advertising.com
 127.0.0.1 dezedi.clickadsshifters.com
-127.0.0.1 8b4pea.c.admaster.com.cn
 127.0.0.1 events.api.red.wemesh.ca
 127.0.0.1 11bet.mobi
 127.0.0.1 ad5.udn.com
@@ -41412,7 +41338,6 @@
 127.0.0.1 inposts-uc.top
 127.0.0.1 ww1772.smartadserver.com
 127.0.0.1 get-commercial-solar.com
-127.0.0.1 ads.xemtivisohd.net
 127.0.0.1 ballastfarlord.pro
 127.0.0.1 bannerads.zwire.com
 127.0.0.1 stat.download.xunlei.com
@@ -41531,7 +41456,6 @@
 127.0.0.1 www.wspanialy-dzien.click
 127.0.0.1 eeb5a685d2.smart-cs.pro
 127.0.0.1 www.dm.tocdefd.com
-127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.flurry.com
 127.0.0.1 share.refer-clinique.com.tw
 127.0.0.1 open.trakks.com
@@ -41844,7 +41768,6 @@
 127.0.0.1 sgw-analytics.panasonic.com
 127.0.0.1 www.rakot.click
 127.0.0.1 www.xoslan-invest.pro
-127.0.0.1 vwinhot.pro
 127.0.0.1 ads.crosscut.com
 127.0.0.1 ads.huan.tv
 127.0.0.1 topdownloads.nl.intellitxt.com
@@ -41961,7 +41884,6 @@
 127.0.0.1 gold-line.click
 127.0.0.1 ads.metblogs.com
 127.0.0.1 ad.directrev.com
-127.0.0.1 ads5.dangkybum.club
 127.0.0.1 cdn.easy-ads.com
 127.0.0.1 p.365win.pro
 127.0.0.1 ads.ztod.com
@@ -42015,7 +41937,6 @@
 127.0.0.1 sferinonco.pro
 127.0.0.1 analytics.awhr.com
 127.0.0.1 binoads.ir
-127.0.0.1 api.t8bet999.com
 127.0.0.1 recv.tbs.co.jp
 127.0.0.1 pro-lifemax.xyz
 127.0.0.1 media.proadscdn.com
@@ -42026,6 +41947,7 @@
 127.0.0.1 ccc.sys.intl.xiaomi.com
 127.0.0.1 postawaspoleczna.click
 127.0.0.1 sdk-api.maticooads.com
+127.0.0.1 www.ebulientlanguage.pro
 127.0.0.1 ad-api-v01.uliza.jp
 127.0.0.1 obwieszczeniednia.click
 127.0.0.1 ads-blue.com
@@ -42039,7 +41961,6 @@
 127.0.0.1 vs26.bj2ct.u3.ucweb.com
 127.0.0.1 api.tdp.u7u9.com
 127.0.0.1 net.salmonads.com
-127.0.0.1 api.s999h.com
 127.0.0.1 p23-ad-sign.byteimg.com
 127.0.0.1 www.holaenergy.click
 127.0.0.1 lazada1vn.top
@@ -42048,8 +41969,6 @@
 127.0.0.1 onecr.maskproj.click
 127.0.0.1 my.relevance-pre.enzymeadvisinggroup.com
 127.0.0.1 evergreenfan.pro
-127.0.0.1 aax-us-east.amazon-adsystem.com
-127.0.0.1 api.i9bet32.com
 127.0.0.1 ads.showtvnet.com
 127.0.0.1 unitarvolt.pro
 127.0.0.1 analytics.nike.com
@@ -42487,7 +42406,6 @@
 127.0.0.1 s64.cnzz.com
 127.0.0.1 download.sharexpere.com
 127.0.0.1 poczta-365.pl
-127.0.0.1 www.kikymuieceu.pro
 127.0.0.1 relacjonujemyzdarzenie.click
 127.0.0.1 sg.cityads.com
 127.0.0.1 qaxedee8.pro
@@ -42527,7 +42445,6 @@
 127.0.0.1 staging.sdkconfig.ad.xiaomi.srv
 127.0.0.1 blue-ad.ad-stir.com
 127.0.0.1 click.totallymoney.com
-127.0.0.1 ads.thegioitiepthi.vn
 127.0.0.1 da-ads.com
 127.0.0.1 edpl9v.pro
 127.0.0.1 analytics.analytics-egain.com
@@ -42675,8 +42592,6 @@
 127.0.0.1 www.adadvisor.net
 127.0.0.1 pge-sa.click
 127.0.0.1 ai.voiceads.cn
-127.0.0.1 ads.playiwin.in
-127.0.0.1 api.kingbet86.info
 127.0.0.1 content.ad2iction.com
 127.0.0.1 head2toe.customerdevsites.com
 127.0.0.1 ads.socialtheater.com
@@ -42788,7 +42703,6 @@
 127.0.0.1 diagnosis.ad.intl.xiaomi.com
 127.0.0.1 zdalne-informacje.click
 127.0.0.1 adv.440network.com
-127.0.0.1 api.898bet1.com
 127.0.0.1 ads28-normal-lf.zijieapi.com
 127.0.0.1 ads07.focalink.com
 127.0.0.1 p30-ad.adbkwai.com
@@ -42841,6 +42755,7 @@
 127.0.0.1 cdn.adt361.com
 127.0.0.1 ad-api.enuri.info
 127.0.0.1 xg.gars57.cn
+127.0.0.1 ced2aad48e.com
 127.0.0.1 analytics.qogita.com
 127.0.0.1 just-news.pro
 127.0.0.1 pyqqx.dcbxnc.cn
@@ -42884,7 +42799,6 @@
 127.0.0.1 com.yxcorp.gifshow.ad
 127.0.0.1 sm.ssssop.amazon-relay.com
 127.0.0.1 js4.8hwo.pro
-127.0.0.1 www.expertgroups.pro
 127.0.0.1 ad-test.mediav.com
 127.0.0.1 dev.flurry.com
 127.0.0.1 srtb.msn.cn
@@ -42930,7 +42844,6 @@
 127.0.0.1 heirloomintervalhedgehogis.pro
 127.0.0.1 api.pdbarea.com
 127.0.0.1 ads-collector.luizalabs.com
-127.0.0.1 gwin.pro
 127.0.0.1 sadv.trdechat.top
 127.0.0.1 15gtest.bj2cu.u3.ucweb.com
 127.0.0.1 sdk.qikify.com
@@ -43150,7 +43063,6 @@
 127.0.0.1 www.xlevel.click
 127.0.0.1 fb-ads.aag.co.id
 127.0.0.1 share.sharegames.info
-127.0.0.1 clk.gammadsp.com
 127.0.0.1 dev8.range86-122xroads.b2bmktg.com
 127.0.0.1 app.update.lenovo.com
 127.0.0.1 www.cicaryu0.pro
@@ -43266,6 +43178,7 @@
 127.0.0.1 wyciagamyreke.click
 127.0.0.1 dadw11.com
 127.0.0.1 kulinarnyswiat.click
+127.0.0.1 www.trustwal.oraladvancedimplantes.com
 127.0.0.1 analytics.undeco.se
 127.0.0.1 x3.extreme-dm.com
 127.0.0.1 thind-gke-euw.prd.data.corp.unity3d.com
@@ -43314,10 +43227,8 @@
 127.0.0.1 www.trasfaffor.pro
 127.0.0.1 api.e.karenmillen.com
 127.0.0.1 sas.nsm-corp.com
-127.0.0.1 www.suspectcoverage.click
 127.0.0.1 prawdziwosci.click
 127.0.0.1 analytics.wienerberger.it
-127.0.0.1 api.new8808.vip
 127.0.0.1 st.pay-click.ru
 127.0.0.1 analytics.wienerberger.in
 127.0.0.1 broadsheetspikesnick.com
@@ -43352,7 +43263,6 @@
 127.0.0.1 ad2.plugmedia.hk
 127.0.0.1 www.clohg.gradspeeches.com
 127.0.0.1 zwyczajludzi.click
-127.0.0.1 ad.gamequyong.site
 127.0.0.1 porannewiesci24.click
 127.0.0.1 babyboomboomads.com
 127.0.0.1 elemarglobal.click
@@ -43528,7 +43438,6 @@
 127.0.0.1 orlen-pro.xprogbrd.site
 127.0.0.1 adnitro.pro
 127.0.0.1 analytics.makeitmeme.com
-127.0.0.1 api.st66606.com
 127.0.0.1 data.ublock-browser.com
 127.0.0.1 canvasserenade.click
 127.0.0.1 controller.partner.net.daraz.com
@@ -43552,7 +43461,6 @@
 127.0.0.1 brakwspolczucia.click
 127.0.0.1 qualityleadskeitaro.website
 127.0.0.1 open-iflow.meizu.com
-127.0.0.1 ad-delivery.net
 127.0.0.1 acclaimed-travel.pro
 127.0.0.1 vanderebony.pro
 127.0.0.1 a-api.skz.dev
@@ -43572,7 +43480,6 @@
 127.0.0.1 aff.adventory.com
 127.0.0.1 www.ban3ers.ero-advertising.com
 127.0.0.1 download.88kwp.com
-127.0.0.1 www.morehot.click
 127.0.0.1 synsads.com
 127.0.0.1 yentacorner.click
 127.0.0.1 admusicmatvideo.music.126.net
@@ -43768,7 +43675,6 @@
 127.0.0.1 ads.justhungry.com
 127.0.0.1 d355adf695dd65105ce844c1b8aa3546.dirks.pl
 127.0.0.1 textlink.simba.taobao.com
-127.0.0.1 ad.choingay88.com
 127.0.0.1 adv.baotayninh.vn
 127.0.0.1 skins-change.pro
 127.0.0.1 ad.groupon.net
@@ -43792,7 +43698,6 @@
 127.0.0.1 piaads.com
 127.0.0.1 lp.hol2.demoamericas275.adobe.com
 127.0.0.1 ads.radio1.lv
-127.0.0.1 api.i9bet31.com
 127.0.0.1 commercial.davey.com
 127.0.0.1 traffic.club
 127.0.0.1 www.messiahstickvestry.pro
@@ -43808,7 +43713,6 @@
 127.0.0.1 s.liveads.jp
 127.0.0.1 api.884ae888.com
 127.0.0.1 de1-bid.adsrvr.org
-127.0.0.1 ad.363.in
 127.0.0.1 adsblockersentinel.info
 127.0.0.1 pm.adsafeprotected.com
 127.0.0.1 w18.gskwai.com
@@ -44080,14 +43984,12 @@
 127.0.0.1 acasadf112.cn
 127.0.0.1 neblio.click
 127.0.0.1 chat.api.ns2.admin.chebacafe.com
-127.0.0.1 api.ae88852.com
 127.0.0.1 www.crystalesrainying.pro
 127.0.0.1 fnatfee.ero-advertising.com
 127.0.0.1 hotapi-va.isnssdk.com
 127.0.0.1 cdn.beaconads.com
 127.0.0.1 energydrinkadverts.com
 127.0.0.1 wizjemiejscowe.click
-127.0.0.1 api.78win01.com
 127.0.0.1 feodzebecks.click
 127.0.0.1 isite.baidu.com
 127.0.0.1 sorind.pro
@@ -44217,7 +44119,6 @@
 127.0.0.1 analytics.elle.se
 127.0.0.1 etl.xlmc.sec.miui.com
 127.0.0.1 c2.popads.net
-127.0.0.1 cre-ads.com
 127.0.0.1 illustrious-challenge.pro
 127.0.0.1 dealofurslife.click
 127.0.0.1 download.fuyuncc.com
@@ -44242,7 +44143,6 @@
 127.0.0.1 www.wydarzeniaaktualne.click
 127.0.0.1 s120.cnzz.com
 127.0.0.1 p18-ad.byteimg.com
-127.0.0.1 api.vx88.com
 127.0.0.1 adsafety.net
 127.0.0.1 adsmediator.com
 127.0.0.1 www.hidewui3.pro
@@ -44270,7 +44170,6 @@
 127.0.0.1 ad.hi5.com
 127.0.0.1 ad9b93ff1bdf2a3daec5dfe0cafe2681.carcjado.pl
 127.0.0.1 measurement-api.us.criteo.com
-127.0.0.1 ads.dabetvip.vin
 127.0.0.1 xbc8fsvo5w75wwx8.pro
 127.0.0.1 telemetry.appex.bing.net
 127.0.0.1 adnxs.com
@@ -44294,6 +44193,7 @@
 127.0.0.1 spicy-development.pro
 127.0.0.1 mp.teads.tv
 127.0.0.1 www.ad1.api.ero-advertising.com
+127.0.0.1 klaim-had1ah4.vxkl.biz.id
 127.0.0.1 www.profile.structture.click
 127.0.0.1 blog.expertguru.click
 127.0.0.1 verify.mob.com
@@ -44361,7 +44261,6 @@
 127.0.0.1 spiszpowszechny.click
 127.0.0.1 fosopio8.pro
 127.0.0.1 www.wandersparkle.pro
-127.0.0.1 link.cado.pro
 127.0.0.1 xadsmart.com
 127.0.0.1 taleqram.pro
 127.0.0.1 sdk-data.ubixioe.com
@@ -44513,7 +44412,6 @@
 127.0.0.1 ads.comeon.com
 127.0.0.1 duzazlosliwosc.click
 127.0.0.1 vs28.bj2cu.u3.ucweb.com
-127.0.0.1 www.scooteresgardeniaes.pro
 127.0.0.1 ads.phunusuckhoe.vn
 127.0.0.1 update.adflex.vn
 127.0.0.1 www.otikimmowit.click
@@ -44728,7 +44626,6 @@
 127.0.0.1 update.kmpmedia.net
 127.0.0.1 cdn.ad.citynews.it
 127.0.0.1 adstory.gotrackier.com
-127.0.0.1 api.new88w.com
 127.0.0.1 afyads.com
 127.0.0.1 blogads.de
 127.0.0.1 ktowie.click
@@ -45068,6 +44965,7 @@
 127.0.0.1 www.hovejyi.pro
 127.0.0.1 www.dooyoouwoorkherre-354128.click
 127.0.0.1 seure-update.fartit.com
+127.0.0.1 sm.status.apple-sk.com
 127.0.0.1 sprawnawiadomosc.click
 127.0.0.1 feed-image.baidu.com
 127.0.0.1 adx.hubcloud.com.cn
@@ -45190,9 +45088,7 @@
 127.0.0.1 ads13-normal.zijieapi.com
 127.0.0.1 update-56632.serveris.id.lv
 127.0.0.1 analytics.localytics.com
-127.0.0.1 api.ae88851.com
 127.0.0.1 web.api.adtimaserver.vn
-127.0.0.1 ad.yo88vn.vip
 127.0.0.1 ad41.atlas.cz
 127.0.0.1 ad2.lbn.ru
 127.0.0.1 fnmads.pl
@@ -45338,7 +45234,6 @@
 127.0.0.1 www.syndicate-365-perception.com
 127.0.0.1 ads.xnet.is
 127.0.0.1 ads.imbc.com
-127.0.0.1 update.vlnguba.com
 127.0.0.1 api.kochava.com
 127.0.0.1 sec-analytics.panasonic.co.uk
 127.0.0.1 sdk.stats-locations.com
@@ -45362,7 +45257,6 @@
 127.0.0.1 tools.ad-net.co.uk
 127.0.0.1 rtb-teads.fr3.eu.criteo.com
 127.0.0.1 cyqifei6.pro
-127.0.0.1 api.jun889.vip
 127.0.0.1 analytics.xl.pt
 127.0.0.1 c44be7be37bd9192adf684c4b9246f10.vatmies.pl
 127.0.0.1 analytics.hermesworld.com
@@ -45371,7 +45265,6 @@
 127.0.0.1 oranokkek.click
 127.0.0.1 smutnawzmianka.click
 127.0.0.1 tragicznepasy.click
-127.0.0.1 choiwin79.pro
 127.0.0.1 active1.pro-masters.xyz
 127.0.0.1 www.pocztowy.pro
 127.0.0.1 ads.iawsnetwork.com
@@ -45675,7 +45568,6 @@
 127.0.0.1 openenterprises.click
 127.0.0.1 analytics.api.justeattakeaway.com
 127.0.0.1 zgondziecka.click
-127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 budads.ximprrove.top
 127.0.0.1 tripadvisor-pre-approved-6e38-4cb0-b949-b075e4a10b96.leomni.cfd
 127.0.0.1 olx.pl-oferta-iphone-14-pro-max-deep-purple-256-gb.pl
@@ -45736,7 +45628,6 @@
 127.0.0.1 v3-ad.video.yximgs.com
 127.0.0.1 ads.ultimatesurrender.com
 127.0.0.1 d8f8f1f78f.shnfx.click
-127.0.0.1 ad.jamster.co.uk
 127.0.0.1 monetixads.com
 127.0.0.1 zderzeniedrogowe.click
 127.0.0.1 mproxy.banner.linksynergy.com
@@ -45860,7 +45751,6 @@
 127.0.0.1 info.nepsisadvisors.com
 127.0.0.1 aax-dtb-cf.amazon-adsystem.com
 127.0.0.1 fp3.ads.stickyadstv.com.akadns.net
-127.0.0.1 cdn.api-connect.io
 127.0.0.1 sdkupgrade.insight.ucweb.com
 127.0.0.1 www.boxinghelmetsteepes.pro
 127.0.0.1 adshows.21cn.com
