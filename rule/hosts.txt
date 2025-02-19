@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2025-02-19 10:52:06（北京时间）
+# 更新时间于: 2025-02-19 22:21:24（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 127.0.0.1 c.sayhi.360.cn
@@ -220,6 +220,7 @@
 127.0.0.1 w.l.qq.com
 127.0.0.1 80vn.cn
 127.0.0.1 api-mcp.adsp.xunlei.com
+127.0.0.1 ad.qun.qq.com
 127.0.0.1 ad.molitv.cn
 127.0.0.1 m.atm.youku.com
 127.0.0.1 wl.hd.sohu.com
@@ -372,6 +373,7 @@
 127.0.0.1 pro.cn
 127.0.0.1 d9.sina.com.cn
 127.0.0.1 m2.da.mgtv.com
+127.0.0.1 ad.jp.doubleclick.net
 127.0.0.1 rtb.admaster.com.cn
 127.0.0.1 advertpay-vip-ssl.xunlei.com
 127.0.0.1 vr.gdt.qq.com
@@ -715,7 +717,6 @@
 127.0.0.1 suo.lp.mydas.mobi
 127.0.0.1 neptune2.appads.com
 127.0.0.1 zx.da.mgtv.com
-127.0.0.1 ad2.sina.com.cn
 127.0.0.1 hzs10.cnzz.com
 127.0.0.1 c.kuaiduizuoye.com
 127.0.0.1 commercial.shouji.360.cn
@@ -799,6 +800,7 @@
 127.0.0.1 ads2.mediaarmor.com
 127.0.0.1 adver.qq.com
 127.0.0.1 api.ad.yipinread.com
+127.0.0.1 ad.mo.doubleclick.net
 127.0.0.1 livem.l.qq.com
 127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 rm.gdt.qq.com
@@ -868,6 +870,7 @@
 127.0.0.1 mobpartner.mobi
 127.0.0.1 z2.cnzz.com
 127.0.0.1 paopao3.qiyipic.com
+127.0.0.1 ad.player.baidu.com
 127.0.0.1 apps.buzzcity.net
 127.0.0.1 pages.juxiao.mediav.com
 127.0.0.1 yaolu.yuedu.163.com
@@ -921,7 +924,6 @@
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 cdn.appnext.com
-127.0.0.1 ad2.yam.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 ii.gdt.qq.com
 127.0.0.1 galaxy.bjcathay.com
@@ -1132,7 +1134,6 @@
 127.0.0.1 secure.mediav.com
 127.0.0.1 adsence.sogou.com
 127.0.0.1 click2.hd.sohu.com
-127.0.0.1 ad-sdk.aiclk.com
 127.0.0.1 rest.irs01.com
 127.0.0.1 api.adxpand.com
 127.0.0.1 v2.da.mgtv.com
@@ -1179,7 +1180,6 @@
 127.0.0.1 ad.toutiao.com
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 aos.wall.youmi.net
-127.0.0.1 ad2.udn.com
 127.0.0.1 hzs5.cnzz.com
 127.0.0.1 adreport.adtianmai.com
 127.0.0.1 security.browser.miui.com
@@ -1420,6 +1420,7 @@
 127.0.0.1 static.bshare.cn
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adimg.deviantart.net
+127.0.0.1 ad.qq.com
 127.0.0.1 sax.sina.com.cn
 127.0.0.1 www.adsage.cn
 127.0.0.1 onrt.stsdk.vivo.com.cn
@@ -25129,7 +25130,6 @@
 127.0.0.1 historiaprawdziwa.click
 127.0.0.1 api.adnsafe.org
 127.0.0.1 juicyads.com
-127.0.0.1 ad.jp.doubleclick.net
 127.0.0.1 ad.jeune-independant.net
 127.0.0.1 corp.sohu.com
 127.0.0.1 ggic01.miguvideo.com
@@ -25717,6 +25717,7 @@
 127.0.0.1 ads.samba.tv
 127.0.0.1 www.onlinedownloads.org
 127.0.0.1 api.anti.wauee.com
+127.0.0.1 ad2.yam.com
 127.0.0.1 www.anatoponte.pro
 127.0.0.1 pcdownloadstation.com
 127.0.0.1 qyzeduy4.pro
@@ -28138,7 +28139,6 @@
 127.0.0.1 sm.sungardas.com
 127.0.0.1 www.bujuhuy9.pro
 127.0.0.1 makeprofi.click
-127.0.0.1 ad.qun.qq.com
 127.0.0.1 ad1.checkm8.com
 127.0.0.1 padsimz.com
 127.0.0.1 7-7-7-partner.com
@@ -30765,6 +30765,7 @@
 127.0.0.1 nfl.hb-api.omtrdc.net
 127.0.0.1 adsvr.coresgate.com
 127.0.0.1 wydawnictwoprasa.click
+127.0.0.1 ad-sdk.aiclk.com
 127.0.0.1 pushadv.biz
 127.0.0.1 rtb15.adscience.nl
 127.0.0.1 survey.g.doubleclick.net
@@ -36982,6 +36983,7 @@
 127.0.0.1 down140.mclick.mobi
 127.0.0.1 www.accounts.setlings.click
 127.0.0.1 p15-ad-sign.byteimg.com
+127.0.0.1 ad2.sina.com.cn
 127.0.0.1 aksdk-images.adikteev.com
 127.0.0.1 susapi.dev.surepush.cn
 127.0.0.1 tywuxoe3.pro
@@ -39332,7 +39334,6 @@
 127.0.0.1 ads-static.conde.digital
 127.0.0.1 boldserene.pro
 127.0.0.1 cadsimz.com
-127.0.0.1 ad.qq.com
 127.0.0.1 open.admaster.com.cn
 127.0.0.1 safe.res.meizu.com
 127.0.0.1 freedownloadsoftware4all.info
@@ -40454,7 +40455,6 @@
 127.0.0.1 advertiser.wbtrk.net
 127.0.0.1 www.avsads.com
 127.0.0.1 harnxpads.com
-127.0.0.1 ad.player.baidu.com
 127.0.0.1 swiatoweinformacje.click
 127.0.0.1 a1.api.bbc.com
 127.0.0.1 adobe.toridoll.com
@@ -42518,6 +42518,7 @@
 127.0.0.1 eu2.madsone.com
 127.0.0.1 adx-sg.ads.heytapmobile.com
 127.0.0.1 obserwujemyzdarzenie.click
+127.0.0.1 ad2.udn.com
 127.0.0.1 ads.bizhut.com
 127.0.0.1 ekspresoweinfo24h.click
 127.0.0.1 adshow.58.com
@@ -45547,7 +45548,6 @@
 127.0.0.1 www.update.spatlfy.root.sx
 127.0.0.1 techniczneinfo.click
 127.0.0.1 analytics.daasrv.net
-127.0.0.1 ad.mo.doubleclick.net
 127.0.0.1 analytics.pgncs.notion.so
 127.0.0.1 analytics.silktide.com
 127.0.0.1 clients-api.pushengage.com
