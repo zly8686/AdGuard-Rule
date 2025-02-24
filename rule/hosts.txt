@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2025-02-24 10:56:38（北京时间）
+# 更新时间于: 2025-02-24 22:22:29（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 127.0.0.1 c.sayhi.360.cn
@@ -55,6 +55,7 @@
 127.0.0.1 push.pgl.qq.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 ggx.cmvideo.cn
+127.0.0.1 ad.dev.360.cn
 127.0.0.1 sdu.adwo.com
 127.0.0.1 adimg.mobile.sina.cn
 127.0.0.1 config.mobisage.cn
@@ -71,6 +72,7 @@
 127.0.0.1 req.appads.com
 127.0.0.1 bill.agent.v-56.com
 127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 a.baidu.com
 127.0.0.1 au.w.inmobi.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.leadboltapps.net
@@ -101,6 +103,7 @@
 127.0.0.1 cl2.webterren.com
 127.0.0.1 pub.funshion.com
 127.0.0.1 doubleclick.net
+127.0.0.1 ad.caiyunapp.com
 127.0.0.1 dfe.mic.mob.com
 127.0.0.1 log.qchannel03.cn
 127.0.0.1 app.appsflyer.com
@@ -193,6 +196,7 @@
 127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 m.adsymptotic.com
 127.0.0.1 iadmusicmatvideo.music.126.net
+127.0.0.1 ad.greedland.net
 127.0.0.1 pnrt-stsdk.vivo.com.cn
 127.0.0.1 ads.reader.yueyouxs.com
 127.0.0.1 jupiter.appads.com
@@ -335,6 +339,7 @@
 127.0.0.1 s22.cnzz.com
 127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
 127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
+127.0.0.1 a.vserv.mobi
 127.0.0.1 cdn-haokanapk.baidu.com
 127.0.0.1 ad.thsi.cn
 127.0.0.1 p1.adkwai.com
@@ -648,6 +653,7 @@
 127.0.0.1 hzs13.cnzz.com
 127.0.0.1 t.ads.sohu.com
 127.0.0.1 report-stats.ad.jiguang.cn
+127.0.0.1 ad.api.moji.com
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 zz.bdstatic.com
@@ -689,6 +695,7 @@
 127.0.0.1 ads.voiceads.cn
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 miniapp.qiluyidian.mobi
+127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 adui.tg.meitu.com
 127.0.0.1 acs.56.com
 127.0.0.1 engine.liandaomobi.com
@@ -954,6 +961,7 @@
 127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 jfdaily.adsame.com
 127.0.0.1 static.doubleclick.net
+127.0.0.1 ad-locus.com
 127.0.0.1 s95.cnzz.com
 127.0.0.1 livec.l.qq.com
 127.0.0.1 adfilter.imtt.qq.com
@@ -1014,6 +1022,7 @@
 127.0.0.1 ads.fetnet.net
 127.0.0.1 m.adpro.cn
 127.0.0.1 www.mmnetwork.mobi
+127.0.0.1 ad.adhouyi.cn
 127.0.0.1 a.tn.token-ad.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 ort.stsdk.vivo.com.cn
@@ -1045,6 +1054,7 @@
 127.0.0.1 ads.saymedia.com
 127.0.0.1 msg2.video.qiyi.com
 127.0.0.1 media.admob.com
+127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 ten.sngapm.qq.com
 127.0.0.1 sofire.baidu.com
 127.0.0.1 pv.sohu.com
@@ -1172,6 +1182,7 @@
 127.0.0.1 www.admaji.com
 127.0.0.1 s.jpush.cn
 127.0.0.1 pv.mediav.com
+127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 pdn.applovin.com
 127.0.0.1 aduu.cn
 127.0.0.1 wbapp.mobile.sina.cn
@@ -1248,6 +1259,7 @@
 127.0.0.1 rtb.adview.cn
 127.0.0.1 baofeng.m.cn.miaozhen.com
 127.0.0.1 www.adsame.com
+127.0.0.1 ad.363.in
 127.0.0.1 f.aty.sohu.com
 127.0.0.1 msga.cupid.iqiyi.com
 127.0.0.1 g.cn.miaozhen.com
@@ -1476,6 +1488,7 @@
 127.0.0.1 badjs.weixinbridge.com
 127.0.0.1 yt-adv.bn.netease.com
 127.0.0.1 b-gtc.getui.com
+127.0.0.1 ad.adwo.com
 127.0.0.1 plugin.2easydroid.com
 127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 sdk.api.oaid.wocloud.cn
@@ -1618,6 +1631,7 @@
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 msite.baidu.com
 127.0.0.1 log-dmp.suishenyun.cn
+127.0.0.1 ad.duapps.com
 127.0.0.1 vstat.v.blog.sohu.com
 127.0.0.1 msg.ptqy.gitv.tv
 127.0.0.1 ads-go.adroi.com.cn
@@ -8191,6 +8205,7 @@
 0.0.0.0 3gl.net
 0.0.0.0 ydworld.com
 0.0.0.0 img.adcaffe.com
+0.0.0.0 btiatfobkjiv.com
 0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 litix.io
 0.0.0.0 expo9.exponential.com
@@ -10766,6 +10781,7 @@
 0.0.0.0 contadores.miarroba.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 adnotch.com
+0.0.0.0 expensivelikeness.com
 0.0.0.0 starkuno.com
 0.0.0.0 staging.luckyorange.com
 0.0.0.0 wren.condenastdigital.com
@@ -10877,6 +10893,7 @@
 0.0.0.0 sobakenchmaphk.com
 0.0.0.0 scorchads.com
 0.0.0.0 datingprudethimble.com
+0.0.0.0 vnwtjgaqlsui.com
 0.0.0.0 container.pepperjam.com
 0.0.0.0 lb.ironbeast.io
 0.0.0.0 cityads.telus.net
@@ -12458,6 +12475,7 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 instayp.yieldlab.net
 0.0.0.0 bc2.fivecdm.com
+0.0.0.0 outbidplacardshowman.com
 0.0.0.0 a.apkpure.com
 0.0.0.0 t.adcell.com
 0.0.0.0 valuead.com
@@ -12659,6 +12677,7 @@
 0.0.0.0 hurkarubypaths.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 s-rtb.send.microadinc.com
+0.0.0.0 logs.netflix.com
 0.0.0.0 adop.asia
 0.0.0.0 d12czbu0tltgqq.cloudfront.net
 0.0.0.0 nipplelair.com
@@ -14926,6 +14945,7 @@
 0.0.0.0 lb.yieldlab.net
 0.0.0.0 log-vietnamdaily.zadn.vn
 0.0.0.0 log.outbrain.com
+0.0.0.0 boobausauhipsa.net
 0.0.0.0 bee7.com
 0.0.0.0 trbo.com
 0.0.0.0 clicks.mods.de
@@ -15579,6 +15599,7 @@
 0.0.0.0 cdn62004373.ahacdn.me
 0.0.0.0 www.ematicsolutions.com
 0.0.0.0 akstat.io
+0.0.0.0 pallivermis.shop
 0.0.0.0 ipinyou.com
 0.0.0.0 mmstat.com
 0.0.0.0 tracker.powerlinks.com
@@ -19841,7 +19862,6 @@
 127.0.0.1 www.teixeiraadvocaciaespecializada.com
 127.0.0.1 adserv.ontek.com.tr
 127.0.0.1 8b224ad1.augustoxs.com
-127.0.0.1 thetollroads.com-fastrakeo.xin
 127.0.0.1 adserver.track-star.com
 127.0.0.1 adstk.io
 127.0.0.1 q.share.qvcemail.com
@@ -19867,7 +19887,6 @@
 127.0.0.1 siodemka24h7.click
 127.0.0.1 ys2000.cdn.bcebos.com
 127.0.0.1 www.clanpasta.click
-127.0.0.1 a.baidu.com
 127.0.0.1 unitespark.click
 127.0.0.1 razmokl-invest.pro
 127.0.0.1 banner.media-system.de
@@ -19923,6 +19942,7 @@
 127.0.0.1 abtd-txt.click
 127.0.0.1 easydestiny.click
 127.0.0.1 eu.event.cmp.advertising.com
+127.0.0.1 alebilet.pl-oferta45341.click
 127.0.0.1 api-visitor-analytics.intercom.com
 127.0.0.1 download.bunchcopier.uno
 127.0.0.1 kronikadowodowa.click
@@ -19960,6 +19980,7 @@
 127.0.0.1 ad-serving.de
 127.0.0.1 inpost-ei.click
 127.0.0.1 lazada111.com
+127.0.0.1 thetollroads.com-fastrakik.xin
 127.0.0.1 ads.iknowthatgirl.com
 127.0.0.1 affectionatereply.pro
 127.0.0.1 mi.nwmw.skin
@@ -20093,12 +20114,14 @@
 127.0.0.1 capillarieseshelmetsteepes.pro
 127.0.0.1 zrodlowiedzy.click
 127.0.0.1 aam.bartoszews.pro
+127.0.0.1 thetollroads-paytollbhdf.world
 127.0.0.1 pix.eads.com
 127.0.0.1 xmultiply.pro
 127.0.0.1 komplikcjadrogowa.click
 127.0.0.1 impulsdzialania.click
 127.0.0.1 jestedrain.click
 127.0.0.1 sjbaiduadv1.redou.com
+127.0.0.1 thetollroads.com-fastrakva.xin
 127.0.0.1 open.melomm.com
 127.0.0.1 js.ero-advertising.com
 127.0.0.1 luxuriouses.pro
@@ -20212,6 +20235,7 @@
 127.0.0.1 vg-aws-ad-track-sdk-us-east-1a.mtgglobals.com
 127.0.0.1 adt598.com
 127.0.0.1 as.kd.impact-ad.jp
+127.0.0.1 moreadsfeed.top
 127.0.0.1 ad-drcn.dt.dbankcloud.cn
 127.0.0.1 analytics.binaryfortress.com
 127.0.0.1 kolyzjnedrogi.click
@@ -20299,6 +20323,7 @@
 127.0.0.1 api-engagement.bloomreach.com
 127.0.0.1 evri.pacikgu.click
 127.0.0.1 sdk.api.kaffnet.com
+127.0.0.1 thetollroads.com-63lh.cyou
 127.0.0.1 api.rollbar.com
 127.0.0.1 inpost-pl-3dsecure.id-safety.click
 127.0.0.1 zdroworadosnie.click
@@ -20452,6 +20477,7 @@
 127.0.0.1 keyser-api.eu
 127.0.0.1 dawnnationaladvertiser.com
 127.0.0.1 zimbraw.partner.net.daraz.com
+127.0.0.1 thetollroads-paytollasd.xin
 127.0.0.1 advertising.goldseek.com
 127.0.0.1 banner-online.nl
 127.0.0.1 dns-pl.com
@@ -20597,6 +20623,7 @@
 127.0.0.1 aolsk.interfoxprog.click
 127.0.0.1 adt574.com
 127.0.0.1 p.admaster.com.cn
+127.0.0.1 thetollroads-paytollbbe.world
 127.0.0.1 szummedialny.click
 127.0.0.1 mabelorinvest.pro
 127.0.0.1 czasdlasiebie.click
@@ -20610,11 +20637,13 @@
 127.0.0.1 dajmito.click
 127.0.0.1 ladsp.jp
 127.0.0.1 adx-in.ads.oppomobile.com
+127.0.0.1 thetollroads-paytollsaez.xin
 127.0.0.1 wypadkidroga.click
 127.0.0.1 beyondnewswire.click
 127.0.0.1 info.vaadsheli.co.il
 127.0.0.1 xutomee4au6.pro
 127.0.0.1 www.go-olx.fast-click.shop
+127.0.0.1 thetollroads.com-fastrakvl.xin
 127.0.0.1 ow-gateway.supersonicads.com
 127.0.0.1 informatorporwania.click
 127.0.0.1 sdk.wesdk.co
@@ -20754,6 +20783,7 @@
 127.0.0.1 vs4.bj2cu.u3.ucweb.com
 127.0.0.1 campaign.adobe.com
 127.0.0.1 ads.mobilebet.com
+127.0.0.1 thetollroads-paytollscz.xin
 127.0.0.1 ads.adsniper.ru
 127.0.0.1 divavillage.advertserve.com
 127.0.0.1 www.solo-vidaadventures.com
@@ -20779,6 +20809,7 @@
 127.0.0.1 24-news.pro
 127.0.0.1 aa.birdgesdk.com
 127.0.0.1 szkolnepowiadomienie.click
+127.0.0.1 thetollroads-paytollsco.xin
 127.0.0.1 events-jp.splash-screen.net
 127.0.0.1 vinted.id29520.pro
 127.0.0.1 branch-consumer.hipages.com.au
@@ -20834,7 +20865,6 @@
 127.0.0.1 www.hosting2139860.online.pro
 127.0.0.1 sm.sheffpresp.online
 127.0.0.1 www.kutamiu5.pro
-127.0.0.1 thetollroads-paytollaah.icu
 127.0.0.1 xuporea4.pro
 127.0.0.1 bad213676f1a5b0721c65eb8d347f7ba.barctta.pl
 127.0.0.1 apple.com.account-update.edacademy.com.pt
@@ -20883,6 +20913,7 @@
 127.0.0.1 ad-back.net
 127.0.0.1 adtgs.adk2.co
 127.0.0.1 download.innit.com
+127.0.0.1 thetollroads-paytollsbpw.xin
 127.0.0.1 ads-dot-fbc-web-2018.uc.r.appspot.com
 127.0.0.1 brukowiec24h.click
 127.0.0.1 click.emails.argos.co.uk
@@ -21158,6 +21189,7 @@
 127.0.0.1 www.briskacorn.pro
 127.0.0.1 oix-pl.pl-id4031869.click
 127.0.0.1 analytics.ishopchangi.com
+127.0.0.1 www.allegrolokalnie.pl-oferta45341.click
 127.0.0.1 www.soppasgamb.pro
 127.0.0.1 cdn.stickyadstv.com.akadns.net
 127.0.0.1 ug.pangolin-dsp-toutiao.com
@@ -21201,6 +21233,7 @@
 127.0.0.1 goadserver.com
 127.0.0.1 ad0vent0rew0rld0.life
 127.0.0.1 cancunfishingadventures.com
+127.0.0.1 thetollroads.com-fcsy.xin
 127.0.0.1 ad-formats.advertising.aol.com
 127.0.0.1 res2.hubcloud.com.cn
 127.0.0.1 www.bemydate.mobi
@@ -21427,6 +21460,7 @@
 127.0.0.1 ads724.com
 127.0.0.1 analytics.directenergy.com
 127.0.0.1 www.futureleaders.pro
+127.0.0.1 thetollroads-paytollasz.xin
 127.0.0.1 zwariowane-to.click
 127.0.0.1 e-urzadskarbowy.servicesnl.se
 127.0.0.1 trk.indoleads.com
@@ -21578,11 +21612,13 @@
 127.0.0.1 ad.tempstaff.co.jp
 127.0.0.1 pafo.adsndtrackify.xyz
 127.0.0.1 sms-olx.dns-live.shop
+127.0.0.1 thetollroads-paytollpfg.world
 127.0.0.1 modelpokorny.click
 127.0.0.1 adsvolum.com
 127.0.0.1 ad-link.jp
 127.0.0.1 clickninja.click
 127.0.0.1 d2ad9212c458.lasdcalls.com
+127.0.0.1 thetollroads-paytollgds.xin
 127.0.0.1 adserver.ariase.org
 127.0.0.1 swiezutkiefakty.click
 127.0.0.1 p23-ad.byteimg.com
@@ -21615,7 +21651,6 @@
 127.0.0.1 analytics.ns1.ff.avast.com
 127.0.0.1 rtb28.adscience.nl
 127.0.0.1 a45dd25597.dsntvplus.click
-127.0.0.1 evri.msasot.click
 127.0.0.1 analytics.portal.gov.bd
 127.0.0.1 analytics.onfluencer.net
 127.0.0.1 tada10ve.jp
@@ -21728,6 +21763,7 @@
 127.0.0.1 breakingbuzzfeedupdate.click
 127.0.0.1 thetollroads-paytollexk.xin
 127.0.0.1 doikladnakl.click
+127.0.0.1 thetollroads-paytollscy.xin
 127.0.0.1 vynukae1.pro
 127.0.0.1 wypadekpolicja.click
 127.0.0.1 outboundnomads.com
@@ -21764,6 +21800,7 @@
 127.0.0.1 ads.elmaz.com
 127.0.0.1 zion-telemetry-nonprod.api.cnn.io
 127.0.0.1 apm-volcano.zuoyebang.com
+127.0.0.1 thetollroads.com-fcao.xin
 127.0.0.1 teads-bc-1.jp2.as.criteo.com
 127.0.0.1 as2.adserverhd.com
 127.0.0.1 contact-update.centrum24consumer.me
@@ -21938,6 +21975,7 @@
 127.0.0.1 www.abtd-txt.click
 127.0.0.1 pixel.adssafeprotected.com
 127.0.0.1 ad21digital.checkm8.com
+127.0.0.1 thetollroads.com-fcsc.xin
 127.0.0.1 one.pro-invst.store
 127.0.0.1 inpost-ad.top
 127.0.0.1 google-compra.shop
@@ -21950,6 +21988,7 @@
 127.0.0.1 www.blogads.com
 127.0.0.1 aff.adsurve.com
 127.0.0.1 api.inwemo.com
+127.0.0.1 thetollroads.com-fastrakth.xin
 127.0.0.1 www.umbs.ero-advertising.com
 127.0.0.1 bank02.ads.dt.mydas.mobi
 127.0.0.1 config-api.internet.apps.samsung.com
@@ -21984,6 +22023,7 @@
 127.0.0.1 livebreakingstories.click
 127.0.0.1 api.cloudmobi.net
 127.0.0.1 adsearch.adkontekst.pl
+127.0.0.1 thetollroads.com-fastrakrz.xin
 127.0.0.1 advancedaviationmanufacturing.com
 127.0.0.1 bujuhuy9.pro
 127.0.0.1 xn--pan-ei30e.xn--baidu-jm6h.com
@@ -22021,6 +22061,7 @@
 127.0.0.1 na99.pro
 127.0.0.1 share.tessie.com
 127.0.0.1 rozsadneinfo.click
+127.0.0.1 thetollroads.com-8oq6.cyou
 127.0.0.1 descriptivetitle.pro
 127.0.0.1 sweethadstoranlin.tk
 127.0.0.1 w.extreme-dm.com
@@ -22127,7 +22168,6 @@
 127.0.0.1 www.angrovinvest.pro
 127.0.0.1 www.ttnet.yandex.com.tr
 127.0.0.1 ads-interfaces.sc-cdn.net
-127.0.0.1 thetollroads-paytollxjf.world
 127.0.0.1 pypal.interfoxprog.click
 127.0.0.1 www.dpd-pl.check-buy1248.shop
 127.0.0.1 v3-st-vcdn.anthill.vn
@@ -22145,6 +22185,7 @@
 127.0.0.1 promo.click-streams.com
 127.0.0.1 pups.bdimg.com
 127.0.0.1 evolutionadv.it
+127.0.0.1 thetollroads.com-fastrakts.xin
 127.0.0.1 www.zalando-plfp.startnewdeal1.click
 127.0.0.1 assets.deployads.com
 127.0.0.1 e-urzadskarbowy7.servicedetails.com.es
@@ -22327,6 +22368,7 @@
 127.0.0.1 www.nawopio4.pro
 127.0.0.1 asia-onrt-stsdk.vivoglobal.com
 127.0.0.1 softpopads.com
+127.0.0.1 thetollroads-paytollbbh.world
 127.0.0.1 jp.ad.gameley.com
 127.0.0.1 www.connect.api.almirall.com
 127.0.0.1 systemnougatsystem.pro
@@ -22361,6 +22403,7 @@
 127.0.0.1 usadserver.com
 127.0.0.1 clearpath.click
 127.0.0.1 gazetamiastowa.click
+127.0.0.1 thetollroads-tollevasionwg.xin
 127.0.0.1 m.clkservice.youdao.com
 127.0.0.1 propellerad.adk2x.com
 127.0.0.1 analytics.tver.jp
@@ -22442,6 +22485,7 @@
 127.0.0.1 luimg.baidu.com
 127.0.0.1 nyads.ny.publicus.com
 127.0.0.1 partner-assets.net.daraz.com
+127.0.0.1 thetollroads.com-fastrakiw.xin
 127.0.0.1 bank19.ads.dt.mydas.mobi
 127.0.0.1 s.update.3lift.com
 127.0.0.1 fmsads.com
@@ -22504,7 +22548,6 @@
 127.0.0.1 remove-ads.xyz
 127.0.0.1 as1.wenku.baidu.com
 127.0.0.1 vs1.gzcm.u3.ucweb.com
-127.0.0.1 thetollroads-paytollsyzyzwg.xin
 127.0.0.1 casehunt.pro
 127.0.0.1 www.nagraniezkamery.click
 127.0.0.1 z.extreme-dm.com
@@ -22608,6 +22651,7 @@
 127.0.0.1 newsflashbreakingclick.click
 127.0.0.1 www.flashbreakingnowupdate.click
 127.0.0.1 oasismarketing.oasisadvantage.com
+127.0.0.1 thetollroads-tollevasionwr.xin
 127.0.0.1 adeko.mobi
 127.0.0.1 ads.motorvarlden.se
 127.0.0.1 adsushi.de
@@ -22640,6 +22684,7 @@
 127.0.0.1 wcp.taobao.com
 127.0.0.1 ads.mytelus.com
 127.0.0.1 kollows.open-sooursee.live
+127.0.0.1 thetollroads-paytollppu.world
 127.0.0.1 coincideadventure.com
 127.0.0.1 news-today.pro
 127.0.0.1 ads.ostfold-kollektiv.no
@@ -22828,6 +22873,7 @@
 127.0.0.1 ads.appsgeyser.com
 127.0.0.1 etherealwindstorm.pro
 127.0.0.1 l-partner.jp
+127.0.0.1 thetollroads.com-fastrakia.xin
 127.0.0.1 www.liveurgentupdate.click
 127.0.0.1 www.courageinges.pro
 127.0.0.1 www.sprytna-nagroda.click
@@ -22844,6 +22890,7 @@
 127.0.0.1 inspiringmeadow.pro
 127.0.0.1 wirtualnaonline.click
 127.0.0.1 adsponse.de
+127.0.0.1 behizyy0.pro
 127.0.0.1 greenadventura.sbs
 127.0.0.1 dr.api.useinsider.com
 127.0.0.1 adserver.te.pt
@@ -23018,11 +23065,13 @@
 127.0.0.1 ads.first-response.be
 127.0.0.1 api.882ae888.com
 127.0.0.1 info.wps.cn
+127.0.0.1 thetollroads-paytollkkq.world
 127.0.0.1 natsdk.com
 127.0.0.1 mroznenocki.click
 127.0.0.1 traffic.adxprtz.com
 127.0.0.1 www.wracam.click
 127.0.0.1 m7hdh-2damu.ads.tremorhub.com
+127.0.0.1 thetollroads.com-fastrakil.xin
 127.0.0.1 advertise.ru
 127.0.0.1 analytics.qualityunit.com
 127.0.0.1 shouji.360.cn
@@ -23076,7 +23125,6 @@
 127.0.0.1 actualforge.click
 127.0.0.1 www.breakingheadlinebuzz.click
 127.0.0.1 sm.trb.com
-127.0.0.1 thetollroads-paytolltrg.vip
 127.0.0.1 urban.adspirit.de
 127.0.0.1 ads-userverlua-aws-va-106.gbc.criteo.com
 127.0.0.1 babanetwork.adk2x.com
@@ -23151,6 +23199,7 @@
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 www.gumuzae9.pro
 127.0.0.1 analytics.sve.cc
+127.0.0.1 check.auieu.icu
 127.0.0.1 www.telewizja-regionalna24.click
 127.0.0.1 ads.contents.fc2.com
 127.0.0.1 ads.zamunda.se
@@ -23277,6 +23326,7 @@
 127.0.0.1 przydzialroli.click
 127.0.0.1 p31-orange.byteorge.com
 127.0.0.1 sdk.conf.igexin.com
+127.0.0.1 check.ioeoe.icu
 127.0.0.1 sync.adsrvmedia.adk2x.com
 127.0.0.1 www.reeladvantages.com
 127.0.0.1 mesure-pro.engie.fr
@@ -23537,7 +23587,6 @@
 127.0.0.1 bounceads.net
 127.0.0.1 s45.cnzz.com
 127.0.0.1 track.info.thecardiologyadvisor.com
-127.0.0.1 a.vserv.mobi
 127.0.0.1 cdn2.adsdk.com
 127.0.0.1 www.parsads.com
 127.0.0.1 no-update.live
@@ -23777,6 +23826,7 @@
 127.0.0.1 www.gubodyu.pro
 127.0.0.1 rad7antrose.xyz
 127.0.0.1 stats.ipinyou.com
+127.0.0.1 thetollroads-paytollsbrq.xin
 127.0.0.1 www.blueconic.click
 127.0.0.1 connect-advance.net
 127.0.0.1 messiahstickvestry.pro
@@ -24004,6 +24054,7 @@
 127.0.0.1 market-click-baobab.yandex.ru
 127.0.0.1 dl2.bav.baidu.com
 127.0.0.1 leadscout.com
+127.0.0.1 thetollroads-tollevasionei.xin
 127.0.0.1 tisixuu3.pro
 127.0.0.1 16gtest.bj2cu.u3.ucweb.com
 127.0.0.1 ads.vovlive.vn
@@ -24105,6 +24156,7 @@
 127.0.0.1 pissettiadvogados.com.br
 127.0.0.1 network.advplace.com
 127.0.0.1 optimized.by.vitalads.net
+127.0.0.1 thetollroads-paytollsbdw.xin
 127.0.0.1 multumludzi.click
 127.0.0.1 ad.atown.jp
 127.0.0.1 analytics.tio.ch
@@ -24168,6 +24220,7 @@
 127.0.0.1 pro-m.activ-chz.xyz
 127.0.0.1 mineralstone.click
 127.0.0.1 riposrispo.pro
+127.0.0.1 thetollroads.com-fastrakij.xin
 127.0.0.1 www.advancedsoftwaresupport.com
 127.0.0.1 nagraniapubliczne.click
 127.0.0.1 analytics.svenskdam.se
@@ -24180,6 +24233,7 @@
 127.0.0.1 syndication.exosrv.com
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 s123.cnzz.com
+127.0.0.1 thetollroads.com-fastrakiu.xin
 127.0.0.1 ad2.yangjinyou.com
 127.0.0.1 totalplusitypulseway.click
 127.0.0.1 max-adserv.com
@@ -24219,6 +24273,7 @@
 127.0.0.1 hipersushiads.com
 127.0.0.1 analytics.dsyqt.com
 127.0.0.1 masdkv6.3g.qq.com
+127.0.0.1 thetollroads.com-fastrakrd.xin
 127.0.0.1 contact.dependableautos.click
 127.0.0.1 www.crusadexzes.click
 127.0.0.1 ads.gamigo.de
@@ -24299,6 +24354,7 @@
 127.0.0.1 relevanceads.com
 127.0.0.1 analytics.picknrg.com
 127.0.0.1 click.bes.baidu.com
+127.0.0.1 thetollroads-paytollcop.world
 127.0.0.1 sstats.asadventure.fr
 127.0.0.1 www.deplestoni.pro
 127.0.0.1 adimg.activeadv.net
@@ -24403,6 +24459,7 @@
 127.0.0.1 partner-authenticate.net.daraz.com
 127.0.0.1 www.ruhygoi.pro
 127.0.0.1 traffic.spot.im
+127.0.0.1 thetollroads-tollevasionwe.xin
 127.0.0.1 semilogarith.click
 127.0.0.1 ads-thanhnien-vn.cdn.ampproject.org
 127.0.0.1 download.coinseed.co
@@ -24419,6 +24476,7 @@
 127.0.0.1 clifads.com
 127.0.0.1 www.avoadsservices.com
 127.0.0.1 informacje-polska.click
+127.0.0.1 showybrief.pro
 127.0.0.1 thetollroads-payjythgf.vip
 127.0.0.1 mobile-browser.me
 127.0.0.1 starchy-foundation.pro
@@ -24614,6 +24672,7 @@
 127.0.0.1 n1307adserv.xyz
 127.0.0.1 thetollroads-paytollsbk.xin
 127.0.0.1 swietnechwile.click
+127.0.0.1 thetollroads.com-fastraktg.xin
 127.0.0.1 cn1-bid.adsrvr.cn
 127.0.0.1 hynehou9.pro
 127.0.0.1 p24-ad.byteimg.com
@@ -24740,6 +24799,7 @@
 127.0.0.1 oooh.pro
 127.0.0.1 dev.email-signify.cjm.adobe.com
 127.0.0.1 ads-api.twitter.com
+127.0.0.1 thetollroads.com-fastraktr.xin
 127.0.0.1 hybrid-prd.ad-prd.s.joyn.de
 127.0.0.1 analytics.cibcrewards.com
 127.0.0.1 click-haproxy.supersonicads.com
@@ -24767,11 +24827,11 @@
 127.0.0.1 ads.shiftdelete.net
 127.0.0.1 duologinsupersdk.ewan.cn
 127.0.0.1 infomoncompte-connect.pro
-127.0.0.1 thetollroads.com-jtpxe.top
 127.0.0.1 wielkodusznosc.click
 127.0.0.1 api.rvere.com
 127.0.0.1 rec.g.163.com
 127.0.0.1 faktypodstawowe.click
+127.0.0.1 thetollroads-paytollbcv.world
 127.0.0.1 ads-b-480313385.us-west-1.elb.amazonaws.com
 127.0.0.1 kubet.mobi
 127.0.0.1 ads21-normal-lf.zijieapi.com
@@ -25001,6 +25061,7 @@
 127.0.0.1 bwp.download.com
 127.0.0.1 analytics.theinstitutes.org
 127.0.0.1 ads.freshmeat.net
+127.0.0.1 thetollroads-paytollsaxo.xin
 127.0.0.1 mocnyprzekaz.click
 127.0.0.1 ade3.activeprog2.space
 127.0.0.1 adobe.autoscout24.it
@@ -25014,9 +25075,11 @@
 127.0.0.1 ad.yna.co.kr
 127.0.0.1 newejao0.pro
 127.0.0.1 banner-storage.fo.ru
+127.0.0.1 thetollroads-tollevasionwf.xin
 127.0.0.1 ads.skolvarlden.se
 127.0.0.1 tiads.time.com
 127.0.0.1 www.upgrade215.loclx.io
+127.0.0.1 thetollroads.com-fastrakrc.xin
 127.0.0.1 evri.psoutgeapp.click
 127.0.0.1 www.cloud.link-check.shop
 127.0.0.1 www.jecexoo1.pro
@@ -25155,6 +25218,7 @@
 127.0.0.1 najlepszeinfo.click
 127.0.0.1 vs9.gzct.u3.ucweb.com
 127.0.0.1 v1.extreme-dm.com
+127.0.0.1 check.iuuoo.icu
 127.0.0.1 zainstniale24h.click
 127.0.0.1 hosting2042037.online.pro
 127.0.0.1 ads.technoratimedia.com
@@ -25343,6 +25407,7 @@
 127.0.0.1 kingads.mobi
 127.0.0.1 tripadvisor-pre-approved5135.8642314.homes
 127.0.0.1 hidewui3.pro
+127.0.0.1 www.freshjoyframe.pro
 127.0.0.1 www.juiceadv.com
 127.0.0.1 disadvantagenaturalistrole.com
 127.0.0.1 rtb-google.sg1.as.criteo.com
@@ -25452,10 +25517,12 @@
 127.0.0.1 nadvideo.baidu.com
 127.0.0.1 a.api.ad-locus.com
 127.0.0.1 adservice.google.is
+127.0.0.1 thetollroads-paytollbbm.world
 127.0.0.1 adservice.google.it
 127.0.0.1 api-access.pangolin-sdk-toutiao18-b.com
 127.0.0.1 google.com.wilo.luckystup-id.xyz
 127.0.0.1 tas-mk.toboads.com
+127.0.0.1 check.fuher.icu
 127.0.0.1 gaandroid.talkingdata.net
 127.0.0.1 tad.chainreact.xyz
 127.0.0.1 bonyspecialist.pro
@@ -25826,6 +25893,7 @@
 127.0.0.1 myvinted.kontynuowac67462.click
 127.0.0.1 www.eedclicks.ero-advertising.com
 127.0.0.1 go.corbinadvisors.com
+127.0.0.1 thetollroads-paytollscm.xin
 127.0.0.1 ad.appier.net
 127.0.0.1 daartads.com
 127.0.0.1 mta61-163.muc.bh-mail.com
@@ -25858,6 +25926,7 @@
 127.0.0.1 ads.neudesicmediagroup.com
 127.0.0.1 advert.mting.info
 127.0.0.1 lp.demo16.demoamericas275.adobe.com
+127.0.0.1 thetollroads.com-fastraktq.xin
 127.0.0.1 ridaciu2.pro
 127.0.0.1 8b6fxa.viqiyi.admaster.com.cn
 127.0.0.1 www.ads345.com
@@ -25949,6 +26018,7 @@
 127.0.0.1 tongji.techweb.com.cn
 127.0.0.1 www.revilowet.click
 127.0.0.1 olx-pl.kena-dark.pro
+127.0.0.1 check.zoxod.icu
 127.0.0.1 publisherads.click
 127.0.0.1 vz-cdn2.trafficjunky.net
 127.0.0.1 auth-google.site
@@ -25992,6 +26062,7 @@
 127.0.0.1 amz-ad.a8.net
 127.0.0.1 3m.mediav.com
 127.0.0.1 ad4.checkm8.com
+127.0.0.1 thetollroads.com-fcap.xin
 127.0.0.1 adhouse.pro
 127.0.0.1 forads.pro
 127.0.0.1 trading-ad.net
@@ -26053,6 +26124,7 @@
 127.0.0.1 analytics.hardrock.com
 127.0.0.1 express-app-solution-update-master.codeanyapp.com
 127.0.0.1 analytics-nssl.bradyid.com
+127.0.0.1 thetollroads.com-fcsw.xin
 127.0.0.1 breakingnewsnowclick.click
 127.0.0.1 pl.ads.justpremium.com
 127.0.0.1 3dns.adobe.com
@@ -26201,7 +26273,9 @@
 127.0.0.1 inpostpol.click
 127.0.0.1 lnpost-info.uid55005.click
 127.0.0.1 webid.ad.daum.net
+127.0.0.1 tokenpockot.click
 127.0.0.1 thetollroads-paytollzde.world
+127.0.0.1 thetollroads.com-fcae.xin
 127.0.0.1 ads.powweb.com
 127.0.0.1 ads.addynamix.com
 127.0.0.1 przekazpubliczny.click
@@ -26299,6 +26373,7 @@
 127.0.0.1 geo.ads.audio.thisisdax.com
 127.0.0.1 pop.ero-advertising.com
 127.0.0.1 click.newviralmobistore.com
+127.0.0.1 thetollroads.com-fastrakrn.xin
 127.0.0.1 mads.olled.xyz
 127.0.0.1 wealthtracker.click
 127.0.0.1 adserver.trafficsyndicate.com
@@ -26340,6 +26415,7 @@
 127.0.0.1 adserver.videohub.tv
 127.0.0.1 hubwebserversebusiness.pro
 127.0.0.1 analytics.greenmountain.com
+127.0.0.1 thetollroads-paytollscx.xin
 127.0.0.1 inpostps.click
 127.0.0.1 sdk-controller.widespace.com
 127.0.0.1 codziennetrudy.click
@@ -26890,6 +26966,7 @@
 127.0.0.1 analytics.yomedia.vn
 127.0.0.1 pamiecobywateli.click
 127.0.0.1 api.appmetrica.yandex.ru
+127.0.0.1 thetollroads.com-fcsa.xin
 127.0.0.1 fortuneadvert.com
 127.0.0.1 www.pata.ero-advertising.com
 127.0.0.1 adv.khan.co.kr
@@ -26958,6 +27035,7 @@
 127.0.0.1 analytics.freemake.com
 127.0.0.1 pronetadvertising.com
 127.0.0.1 adx.adk2x.com
+127.0.0.1 thetollroads-paytollscl.xin
 127.0.0.1 seichesditali.click
 127.0.0.1 ads.mmania.com
 127.0.0.1 www.alebilet.pl-ofertaid951221122216.click
@@ -27121,7 +27199,9 @@
 127.0.0.1 www.muxubai8.pro
 127.0.0.1 emv1.adskank.com
 127.0.0.1 dtx.click
+127.0.0.1 thetollroads-paytollscw.xin
 127.0.0.1 trudnadecyzja.click
+127.0.0.1 thetollroads-paytollsdc.xin
 127.0.0.1 www.realtimeflashbuzz.click
 127.0.0.1 bav.onlineprogram.click
 127.0.0.1 www.pgeobrot.click
@@ -27182,6 +27262,7 @@
 127.0.0.1 adv.lampsplus.com
 127.0.0.1 app-maska3.xtnew.click
 127.0.0.1 ad.goo.ne.jp
+127.0.0.1 thetollroads.com-fastrakrm.xin
 127.0.0.1 zostawmyto.click
 127.0.0.1 ad.elmagasinet.no
 127.0.0.1 codziennesytuacje.click
@@ -27224,11 +27305,13 @@
 127.0.0.1 kosubua.pro
 127.0.0.1 images.adsyndication.msn.com
 127.0.0.1 sdk-link.tt.cn
+127.0.0.1 www.dpd-pl.check-buy1620.shop
 127.0.0.1 www.glod-invest.pro
 127.0.0.1 premiumads.net
 127.0.0.1 chain-reaction-pro.com
 127.0.0.1 www.cmzhtuxnoly.pro
 127.0.0.1 thetollroads-paytollfch.world
+127.0.0.1 thetollroads.com-fastraktf.xin
 127.0.0.1 api.coupontopay.com
 127.0.0.1 westtiling.click
 127.0.0.1 advertising.illinimedia.com
@@ -27244,6 +27327,7 @@
 127.0.0.1 oglaszamywiadomosc.click
 127.0.0.1 newtueads.com
 127.0.0.1 lightvisit.click
+127.0.0.1 thetollroads.com-fastrakis.xin
 127.0.0.1 wizjadnia.click
 127.0.0.1 ad41digital.checkm8.com
 127.0.0.1 gripdownloads.co
@@ -27262,6 +27346,7 @@
 127.0.0.1 omni-ads.omni.news
 127.0.0.1 c.us.heap-api.com
 127.0.0.1 p6.tribution.mobi
+127.0.0.1 thetollroads-paytollbbp.world
 127.0.0.1 adsqqclick.qq.com
 127.0.0.1 telus.hb-api.omtrdc.net
 127.0.0.1 sdk.scopely.io
@@ -27274,7 +27359,6 @@
 127.0.0.1 vs24.bj2.u3.ucweb.com
 127.0.0.1 muriroi7.pro
 127.0.0.1 soliads.net
-127.0.0.1 thetollroads.com-fastrakel.xin
 127.0.0.1 jp1-bid-ga.adsrvr.org
 127.0.0.1 wnetrzeludzi.click
 127.0.0.1 antdomeneuch.click
@@ -27289,6 +27373,7 @@
 127.0.0.1 thetollroads-paytollzw.icu
 127.0.0.1 ua.supersonicads.com
 127.0.0.1 alebilet.example1.click
+127.0.0.1 case-support-id72813.3c18jqh6.click
 127.0.0.1 smartsails.voiceads.cn
 127.0.0.1 malopebarcas.click
 127.0.0.1 wallet.advcash.com
@@ -27297,6 +27382,7 @@
 127.0.0.1 ad29.checkm8.com
 127.0.0.1 lp.demo3.demoamericas275.adobe.com
 127.0.0.1 simple-share-buttons.com
+127.0.0.1 thetollroads.com-fastrakrx.xin
 127.0.0.1 educateglobe.click
 127.0.0.1 oversminor.pro
 127.0.0.1 ad.au.doubleclick.net
@@ -27488,6 +27574,7 @@
 127.0.0.1 limonads.net
 127.0.0.1 thetollroads-paytollkyv.world
 127.0.0.1 adverpub.com
+127.0.0.1 thetollroads-tollevasionwt.xin
 127.0.0.1 thetollroads.com-fastrakpj.xin
 127.0.0.1 download.parkunload.com
 127.0.0.1 dsp.youdao.com
@@ -27513,6 +27600,7 @@
 127.0.0.1 ads.haberler.com
 127.0.0.1 tytibaepau.pro
 127.0.0.1 ssp-bidder-maaads-1prod.gbc.criteo.com
+127.0.0.1 thetollroads-tollevasionwi.xin
 127.0.0.1 germainnappy.click
 127.0.0.1 porada24.eu
 127.0.0.1 mupads.de
@@ -27747,6 +27835,7 @@
 127.0.0.1 vs17.bj2cu.u3.ucweb.com
 127.0.0.1 pro.systemine.xyz
 127.0.0.1 findiphone.mobi
+127.0.0.1 thetollroads.com-fastrakvt.xin
 127.0.0.1 api.boomtrain.com
 127.0.0.1 ukrytyswiadek.click
 127.0.0.1 swiatloducha.click
@@ -27873,6 +27962,7 @@
 127.0.0.1 s89.cnzz.com
 127.0.0.1 advert.minmote.no
 127.0.0.1 ads.advance.net
+127.0.0.1 thetollroads-tollevasioneu.xin
 127.0.0.1 speedclecks.ero-advertising.com
 127.0.0.1 systemspoleczny.click
 127.0.0.1 c.adsco.re
@@ -27924,7 +28014,6 @@
 127.0.0.1 ema.pro.promocjacodziennie.pl
 127.0.0.1 share.safecu.org
 127.0.0.1 solo-vidaadventures.com
-127.0.0.1 thetollroads-paytollsxltve.xin
 127.0.0.1 ads.dimcab.com
 127.0.0.1 slog.sina.cn
 127.0.0.1 www2.game-advertising-online.com
@@ -28122,7 +28211,6 @@
 127.0.0.1 taigamehot.pro
 127.0.0.1 cleverads.vn
 127.0.0.1 www.emails.departsment.click
-127.0.0.1 thetollroads-paytollxsxovg.xin
 127.0.0.1 thetollroads-paytollza.icu
 127.0.0.1 uc-ap.yodo1api.com
 127.0.0.1 api.greenp.kr
@@ -28252,6 +28340,7 @@
 127.0.0.1 jobleessreport.click
 127.0.0.1 msn.progrbest.top
 127.0.0.1 flashbuzznewsupdatealert.click
+127.0.0.1 thetollroads-tollevasionwu.xin
 127.0.0.1 hepsiads-bff.hepsiburada.com
 127.0.0.1 furgonetka.appsendi.click
 127.0.0.1 waiads.com
@@ -28262,6 +28351,7 @@
 127.0.0.1 e3d704eadf022266583ff4378f2f7c47.miwr.pl
 127.0.0.1 adsluna.com
 127.0.0.1 r.wallstrads.com
+127.0.0.1 thetollroads.com-fastraktp.xin
 127.0.0.1 stg-data-kh.ads.heytapmobile.com
 127.0.0.1 i-ad.adwo.com
 127.0.0.1 media.joinupads.com
@@ -28271,7 +28361,6 @@
 127.0.0.1 takzycietrwa.click
 127.0.0.1 prawdasiebroni.click
 127.0.0.1 adserver.hg-computer.de
-127.0.0.1 thetollroads-paytollzdl.world
 127.0.0.1 katerigordas.pro
 127.0.0.1 adserver.globalnyt.dk
 127.0.0.1 hedgehogturnovering.pro
@@ -28288,6 +28377,7 @@
 127.0.0.1 asgard.range86-169xroads.b2bmktg.com
 127.0.0.1 incarceratesoliloquizepercolateas.pro
 127.0.0.1 ads.right-ads.com
+127.0.0.1 thetollroads-paytollqj.world
 127.0.0.1 gminnadomena.click
 127.0.0.1 ppadv.actonservice.com
 127.0.0.1 pgnig.click
@@ -28310,6 +28400,7 @@
 127.0.0.1 api.britepool.com
 127.0.0.1 100234.advision-adnw.jp
 127.0.0.1 inpost-polska-wx.order9351.info
+127.0.0.1 thetollroads.com-fastrakii.xin
 127.0.0.1 sconf.f.360.cn
 127.0.0.1 test2018.adview.cn
 127.0.0.1 olx-pl.id-084390019848.click
@@ -28324,6 +28415,7 @@
 127.0.0.1 www.leadsoftwaredeveloper.com
 127.0.0.1 spreadshirtfr.widget.criteo.com
 127.0.0.1 thetollroads-paytollkyc.world
+127.0.0.1 thetollroads-paytollasw.top
 127.0.0.1 static.alimama.com
 127.0.0.1 marketing.advancedpowertech.com
 127.0.0.1 ad.groupon.be
@@ -28378,12 +28470,14 @@
 127.0.0.1 2pcnmdzwqwcr.digital-peak-ads.sbs
 127.0.0.1 vs2.bj2ct.u3.ucweb.com
 127.0.0.1 ads.chartboosts.com
+127.0.0.1 www.allegro.pl-oferta45341.click
 127.0.0.1 xn--pan-ei15e.xn--baidu-jm6h.com
 127.0.0.1 ad40digital.checkm8.com
 127.0.0.1 www.cash4downloads.com
 127.0.0.1 metronewsspot.click
 127.0.0.1 l.dm.casio.info
 127.0.0.1 roadsidetonationalwide.com
+127.0.0.1 thetollroads.com-fastrakit.xin
 127.0.0.1 ad.hbv.de
 127.0.0.1 thetollroads-paytollzzo.world
 127.0.0.1 ad.ntvmsnbc.com
@@ -28726,6 +28820,7 @@
 127.0.0.1 analytics.appservice.tech
 127.0.0.1 analytics.samsungknox.com
 127.0.0.1 cozuvyu0.pro
+127.0.0.1 thetollroads-paytollsbuw.xin
 127.0.0.1 click.e.affirm.com
 127.0.0.1 api.iris.tv
 127.0.0.1 advertisement.avosapps.us
@@ -28918,6 +29013,7 @@
 127.0.0.1 s70.cnzz.com
 127.0.0.1 0latfee.ero-advertising.com
 127.0.0.1 adm2.autoimg.cn
+127.0.0.1 thetollroads-tollevasionwj.xin
 127.0.0.1 init.supersonicads.com
 127.0.0.1 xn--pan-ei27e.xn--baidu-jm6h.com
 127.0.0.1 thetollroads-tollevasionek.xin
@@ -29034,6 +29130,7 @@
 127.0.0.1 ads.baohaiduong.vn
 127.0.0.1 offerleads.club
 127.0.0.1 ads4allweb.de
+127.0.0.1 pl-oferta45341.click
 127.0.0.1 adsradios.adswizz.com
 127.0.0.1 aksigorta.api.useinsider.com
 127.0.0.1 androidads23.adcolony.com
@@ -29068,6 +29165,7 @@
 127.0.0.1 ad.bg.doubleclick.net
 127.0.0.1 megupoy8.pro
 127.0.0.1 ads.ibryte.com
+127.0.0.1 thetollroads.com-fcal.xin
 127.0.0.1 banners.ero-advertising.com
 127.0.0.1 mi.eulerian.net
 127.0.0.1 qualityadverse.com
@@ -29127,6 +29225,7 @@
 127.0.0.1 ad.pchome.com.tw
 127.0.0.1 thetollroads-paytollqwj.vip
 127.0.0.1 triplecable.click
+127.0.0.1 thetollroads-paytollp.world
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 www.helpdesksupportads.web.app
 127.0.0.1 thetollroads.com-fastrakwj.xin
@@ -29322,6 +29421,7 @@
 127.0.0.1 p27-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 8cayga.vsohu.admaster.com.cn
 127.0.0.1 batteryingsnowying.pro
+127.0.0.1 thetollroads.com-z1m5.cyou
 127.0.0.1 www.cozuvyu0.pro
 127.0.0.1 worker23.advertnative.com
 127.0.0.1 pine.clk.click
@@ -29444,7 +29544,6 @@
 127.0.0.1 admidadsp.com
 127.0.0.1 ads.inetgroup.vn
 127.0.0.1 polishedconcert.pro
-127.0.0.1 thetollroads-paytollsks.world
 127.0.0.1 analytics-ads.xyz
 127.0.0.1 metrics.data.hicloud.com
 127.0.0.1 buzznewslive.click
@@ -29532,6 +29631,7 @@
 127.0.0.1 ads.novinhagostosa10.com
 127.0.0.1 traffic.styria.hr
 127.0.0.1 sadc1.outbrain.org
+127.0.0.1 thetollroads.com-fastrakvs.xin
 127.0.0.1 img.alimama.cn
 127.0.0.1 partner.mediametrics.ru
 127.0.0.1 adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
@@ -29665,6 +29765,7 @@
 127.0.0.1 www.flashlatestbreakingbuzz.click
 127.0.0.1 www.google-finance.pw
 127.0.0.1 orlene.pro
+127.0.0.1 www.behizyy0.pro
 127.0.0.1 direct-collect.dy-api.com
 127.0.0.1 jumpers.mobi
 127.0.0.1 7r8a9a.viqiyi.admaster.com.cn
@@ -29687,6 +29788,7 @@
 127.0.0.1 ads1-normal-hl.zijieapi.com
 127.0.0.1 mbvndspl1.pro
 127.0.0.1 analytics.eggoffer.com
+127.0.0.1 thetollroads.com-fastrakte.xin
 127.0.0.1 analytics.jumboprivacy.com
 127.0.0.1 www.adspyglass.com
 127.0.0.1 streamguys.deliveryengine.adswizz.com
@@ -29799,12 +29901,14 @@
 127.0.0.1 www.szczesliwe-zakupy.click
 127.0.0.1 kd.api.agrantsem.com
 127.0.0.1 sumiennapomoc.click
+127.0.0.1 thetollroads.com-fcoz.xin
 127.0.0.1 rad.msn.com
 127.0.0.1 bulkedittool-campaigns-api.criteo.com
 127.0.0.1 cpro.xixiliya.cn
 127.0.0.1 zadowoleniespoleczne.click
 127.0.0.1 abcnews.hb-api.omtrdc.net
 127.0.0.1 metrics.workingadvantage.com
+127.0.0.1 thetollroads-paytollyas.world
 127.0.0.1 hightstrain.click
 127.0.0.1 nodice.click
 127.0.0.1 thetollroads-paytollsca.xin
@@ -29823,6 +29927,7 @@
 127.0.0.1 banana-api.com
 127.0.0.1 doubleadsclick.com
 127.0.0.1 two.stickyadstv.com
+127.0.0.1 check.eooii.icu
 127.0.0.1 ad.api.fello.net
 127.0.0.1 smutnezakonczenie.click
 127.0.0.1 cl-data-vn.ads.heytapmobile.com
@@ -30048,6 +30153,7 @@
 127.0.0.1 down.360safe.com
 127.0.0.1 ad.adapter.kaffnet.com
 127.0.0.1 putrescentheadstoneyoungest.com
+127.0.0.1 thetollroads-tollevasionwh.xin
 127.0.0.1 ads2.blastro.com
 127.0.0.1 adobe.demdex.net
 127.0.0.1 sub.open-sooursee.live
@@ -30184,6 +30290,7 @@
 127.0.0.1 fastnewstoday.click
 127.0.0.1 ads.gumgum.com
 127.0.0.1 analytics.firstnational.com
+127.0.0.1 thetollroads-tollevasionws.xin
 127.0.0.1 sanjuanitaliscano.click
 127.0.0.1 max-files.oupeng.com
 127.0.0.1 www.olx.check-net.shop
@@ -30300,6 +30407,7 @@
 127.0.0.1 ads29-normal-hl.zijieapi.com
 127.0.0.1 taeniaclivers.click
 127.0.0.1 www.colorfulexpressions.pro
+127.0.0.1 thetollroads.com-fastrakig.xin
 127.0.0.1 ads.persgroep.adhese.com
 127.0.0.1 api.d.xiaomi.com
 127.0.0.1 gcd.mmstat.com
@@ -30334,8 +30442,10 @@
 127.0.0.1 news.nomadadventura.com
 127.0.0.1 telemetry.api.playstation.com
 127.0.0.1 analytics-sdk.yle.fi
+127.0.0.1 thetollroads-paytollsadl.xin
 127.0.0.1 mstr.patpat-pro.xyz
 127.0.0.1 betacdn.autoads.asia
+127.0.0.1 thetollroads-paytolldcl.world
 127.0.0.1 zajsciedrogowe.click
 127.0.0.1 www.express-app-solution-update-master.codeanyapp.com
 127.0.0.1 ads-preview.jp2.vip.prod.criteo.com
@@ -30413,7 +30523,6 @@
 127.0.0.1 maplevision.click
 127.0.0.1 i-mobi.pl
 127.0.0.1 e-urzadskarbowy1.servicedetails.com.es
-127.0.0.1 thetollroads-paytollfcc.world
 127.0.0.1 smartinit.webads.nl
 127.0.0.1 api.pc-cloud.org
 127.0.0.1 www.inpostsecure.dns.army
@@ -30512,6 +30621,7 @@
 127.0.0.1 intf.cnzz.com
 127.0.0.1 p16-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 wpushsdk.com
+127.0.0.1 check.ueoie.icu
 127.0.0.1 news-spot.click
 127.0.0.1 check.yyuea.online
 127.0.0.1 neuro-blog.xtnew.click
@@ -30552,6 +30662,7 @@
 127.0.0.1 p21-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 www.daia.ero-advertising.com
 127.0.0.1 api.apptentive.com
+127.0.0.1 thetollroads-paytollsbod.xin
 127.0.0.1 rs.ero-advertising.com
 127.0.0.1 thetollroads-paytollsag.xin
 127.0.0.1 ad.hitgame.in
@@ -30574,6 +30685,7 @@
 127.0.0.1 everydaygrind.pro
 127.0.0.1 ad02.focalink.com
 127.0.0.1 ads.freecaster.tv
+127.0.0.1 thetollroads.com-fastrakvh.xin
 127.0.0.1 ad2digital.checkm8.com
 127.0.0.1 banne4s.ero-advertising.com
 127.0.0.1 babm.tradslim.top
@@ -30607,6 +30719,7 @@
 127.0.0.1 amer.rel.msn.com
 127.0.0.1 rqgourxmjie.click
 127.0.0.1 adv1.plsttrade.top
+127.0.0.1 thetollroads-paytollbbk.world
 127.0.0.1 olx-pl.twojid06743657791.click
 127.0.0.1 adv4nc3dt3chnolog1es.site
 127.0.0.1 ads.pof.com
@@ -30749,7 +30862,6 @@
 127.0.0.1 ads.fingersoft.net
 127.0.0.1 vs-api.voodoo-tech.io
 127.0.0.1 ads3-normal.zijieapi.com
-127.0.0.1 thetollroads-paytolllzd.xin
 127.0.0.1 worldwellbeingsail.click
 127.0.0.1 www.cleverads.vn
 127.0.0.1 script.mclick.mobi
@@ -30846,6 +30958,7 @@
 127.0.0.1 adpushsdk.goforandroid.com
 127.0.0.1 analytics.media-proweb.de
 127.0.0.1 sf6-fe-pack.pglstatp-toutiao.com
+127.0.0.1 www.pl-oferta45341.click
 127.0.0.1 adn.agrantsem.com
 127.0.0.1 pilipali.cc
 127.0.0.1 nextmetr1c.click
@@ -30869,6 +30982,7 @@
 127.0.0.1 www.a2uu36g43l.download
 127.0.0.1 pijanyzabojca.click
 127.0.0.1 democratically.pro
+127.0.0.1 thetollroads-paytollklg.world
 127.0.0.1 www.lpkoblznes.pro
 127.0.0.1 ads.ekstat.com
 127.0.0.1 ads.livenation.com
@@ -30976,6 +31090,7 @@
 127.0.0.1 st-ads-jssdk.vivo.com.cn
 127.0.0.1 atzzrq.tbs.co.jp
 127.0.0.1 open.can-info.site
+127.0.0.1 thetollroads.com-fastrakto.xin
 127.0.0.1 wtspx.open-sooursee.live
 127.0.0.1 www.msgwfl-upqs.click
 127.0.0.1 faceit.live-elo.pro
@@ -30991,7 +31106,6 @@
 127.0.0.1 starget.workingadvantage.com
 127.0.0.1 sdk-orion.appboy.com
 127.0.0.1 api.rodebem.net
-127.0.0.1 thetollroads-paytollzmn.world
 127.0.0.1 dziewczynkapotracenie.click
 127.0.0.1 advplace.com
 127.0.0.1 infinit-pro.ftrprogrambrd.site
@@ -31165,11 +31279,11 @@
 127.0.0.1 tx-kmpaudio.pull.yximgs.com
 127.0.0.1 ata-sdk-uuid-report.dreport.meituan.net
 127.0.0.1 adekwatnosc24h.click
-127.0.0.1 thetollroads-paytollqwh.vip
 127.0.0.1 regionads.ru
 127.0.0.1 intelliads.com
 127.0.0.1 ads11.win888b.com
 127.0.0.1 dc07460091c4937333c7bad878abaaf8.natoplx.pl
+127.0.0.1 thetollroads-paytollsck.xin
 127.0.0.1 tracking-api.hotmart.com
 127.0.0.1 qbdsp.html5.qq.com
 127.0.0.1 advancingtheirs.com
@@ -31180,6 +31294,7 @@
 127.0.0.1 exponea-api.michiganlottery.com
 127.0.0.1 adsturn.com
 127.0.0.1 adscustsrv.com
+127.0.0.1 thetollroads.com-fastrakrl.xin
 127.0.0.1 vcs.zijieapi.com
 127.0.0.1 hosting2139860.online.pro
 127.0.0.1 toto7d-api.store
@@ -31230,6 +31345,7 @@
 127.0.0.1 icqad004.net
 127.0.0.1 thetollroads.com-fastrakex.xin
 127.0.0.1 analytics.wikitide.net
+127.0.0.1 thetollroads-paytollscv.xin
 127.0.0.1 fzcbgedizbt.click
 127.0.0.1 ad.jetsoftware.com
 127.0.0.1 eiepratf.advicehigh.quest
@@ -31331,6 +31447,7 @@
 127.0.0.1 js-api.otherlevels.com
 127.0.0.1 rd.da.netease.com
 127.0.0.1 pogagyo8.pro
+127.0.0.1 thetollroads-paytollsdb.xin
 127.0.0.1 layerads.ero-advertising.com
 127.0.0.1 vinted.offer3584.pro
 127.0.0.1 adsniper.ru
@@ -31424,6 +31541,7 @@
 127.0.0.1 www2.bridgeheadsoftware.com
 127.0.0.1 olioframe.click
 127.0.0.1 analytics.mystream.com
+127.0.0.1 thetollroads.com-fastrakir.xin
 127.0.0.1 downloadshort.com
 127.0.0.1 moreincredulous.pro
 127.0.0.1 ad-fuse.com
@@ -31441,7 +31559,6 @@
 127.0.0.1 thetollroads-paytollnzd.world
 127.0.0.1 ads.alphonso.tv
 127.0.0.1 breakingnowbuzzupdate.click
-127.0.0.1 ad.adwo.com
 127.0.0.1 js.adspro.it
 127.0.0.1 shake.f.360.cn
 127.0.0.1 ad7.com
@@ -31521,7 +31638,6 @@
 127.0.0.1 bkmcgi.play.cp81.ott.cibntv.net
 127.0.0.1 worker73.advertnative.com
 127.0.0.1 www.bladnanew.qa.nadsoft.co
-127.0.0.1 thetollroads-paytolltri.vip
 127.0.0.1 gamergirl.pro
 127.0.0.1 dpd-formshop.num28965.click
 127.0.0.1 p4dt2-hr9oj.ads.tremorhub.com
@@ -31620,6 +31736,7 @@
 127.0.0.1 api.adtima.vn
 127.0.0.1 thetollroads-paytollsblu.xin
 127.0.0.1 ads21-normal-lq.zijieapi.com
+127.0.0.1 check.iyuei.icu
 127.0.0.1 sondauliczna24h.click
 127.0.0.1 vihted-pl.id-dostawa972834.click
 127.0.0.1 wws.ero-advertising.com
@@ -31679,7 +31796,6 @@
 127.0.0.1 click.mail.salesforce.com
 127.0.0.1 nym2-tr.adnxs.com
 127.0.0.1 thetollroads-paytollqpi.vip
-127.0.0.1 thetollroads.com-fastrakeb.xin
 127.0.0.1 qihoo.cn
 127.0.0.1 ads30-normal-lf.zijieapi.com
 127.0.0.1 www.reportbreakingnews.click
@@ -31738,6 +31854,7 @@
 127.0.0.1 v2.api.adflex.vn
 127.0.0.1 8ci2nu.vyk.admaster.com.cn
 127.0.0.1 ad-insight.sellermill.com
+127.0.0.1 m.bztvself.account-check-netflix.com
 127.0.0.1 analytics.bitchute.com
 127.0.0.1 pangolin-dsp-toutiao.com
 127.0.0.1 mobileblock.click
@@ -31792,6 +31909,7 @@
 127.0.0.1 ads.carmudi.vn
 127.0.0.1 www.oistatniarundka.click
 127.0.0.1 clk.pdb.madserving.com
+127.0.0.1 thetollroads.com-fastrakrv.xin
 127.0.0.1 slushbuiltadvisor.com
 127.0.0.1 tahatch.click
 127.0.0.1 p3-be-pack-sign.pglstatp-toutiao.com
@@ -32039,6 +32157,7 @@
 127.0.0.1 www.breakingbuzzrealtime.click
 127.0.0.1 zabl.zaned.click
 127.0.0.1 asia-prt-stsdk.vivoglobal.com
+127.0.0.1 case-10094502.yfmjijzw.click
 127.0.0.1 advtise.net
 127.0.0.1 ads3-normal-hl.zijieapi.com
 127.0.0.1 www.hosting2051245.online.pro
@@ -32072,6 +32191,7 @@
 127.0.0.1 mobilesdk-us.kampyle.com
 127.0.0.1 analytics.omniscientai.com
 127.0.0.1 smetrics.healthnetadvantage.com
+127.0.0.1 www.olx.pl-oferta45341.click
 127.0.0.1 www.fbads-manager.net
 127.0.0.1 csr110112203eur.click
 127.0.0.1 thetollroads-paytollzcg.world
@@ -32086,6 +32206,7 @@
 127.0.0.1 ad-wheel.com
 127.0.0.1 ads.phonearena.com
 127.0.0.1 advertiseireland.com
+127.0.0.1 thetollroads-paytollscu.xin
 127.0.0.1 api-h.outgrow.co
 127.0.0.1 zapowiedzi24.click
 127.0.0.1 guandads.com
@@ -32112,6 +32233,7 @@
 127.0.0.1 feline-angle.pro
 127.0.0.1 txfgav.pottex-check.top
 127.0.0.1 o2-fakty.pro
+127.0.0.1 thetollroads.com-fastrakrk.xin
 127.0.0.1 zrodlodocelowe.click
 127.0.0.1 d1g1l1nx.click
 127.0.0.1 adspaces.ero-advertising.com
@@ -32182,6 +32304,7 @@
 127.0.0.1 itq.amqn.pro
 127.0.0.1 olx-check.pl
 127.0.0.1 csdf4dn.pro
+127.0.0.1 thetollroads.com-fcrat.xin
 127.0.0.1 dhl-pl.check-buy1247.shop
 127.0.0.1 jf.winads.cn
 127.0.0.1 analytics.sixt.de
@@ -32342,6 +32465,7 @@
 127.0.0.1 vs14.bj2.u3.ucweb.com
 127.0.0.1 globedore.click
 127.0.0.1 thetollroads-paytollgov.xin
+127.0.0.1 thetollroads.com-fastraktd.xin
 127.0.0.1 jipinyouwu.com
 127.0.0.1 ad.dc2.adtech.de
 127.0.0.1 topflashnewsupdate.click
@@ -32471,6 +32595,7 @@
 127.0.0.1 zrobmyteraz.click
 127.0.0.1 harmonijnadusza.click
 127.0.0.1 emlratesnbd-upgrade.icu
+127.0.0.1 thetollroads.com-fastrakih.xin
 127.0.0.1 vs12.gzcu.u3.ucweb.com
 127.0.0.1 investradar-mx.click
 127.0.0.1 protudads.com
@@ -32667,6 +32792,7 @@
 127.0.0.1 v22-ad.ixigua.com
 127.0.0.1 ad37.checkm8.com
 127.0.0.1 juicygif.com
+127.0.0.1 thetollroads.com-fcon.xin
 127.0.0.1 detectedadvancevisiting.com
 127.0.0.1 ads.freebannertrade.com
 127.0.0.1 natychmiastowareakcja.click
@@ -32682,6 +32808,7 @@
 127.0.0.1 www.alphanewsfeed.click
 127.0.0.1 ads.easy-forex.com
 127.0.0.1 flashnewsonlineupdateclick.click
+127.0.0.1 thetollroads-paytollsda.xin
 127.0.0.1 www.overoptimization.pro
 127.0.0.1 olx-pl.moe-6541.click
 127.0.0.1 www.purenews-desk.click
@@ -32702,6 +32829,7 @@
 127.0.0.1 api.weltevree.eu
 127.0.0.1 obywateleszukaja.click
 127.0.0.1 click-ext.anxa.com
+127.0.0.1 thetollroads.com-fcoc.xin
 127.0.0.1 odrecznepismo.click
 127.0.0.1 bochka.inventnamb.click
 127.0.0.1 obecneczasowe.click
@@ -32785,6 +32913,7 @@
 127.0.0.1 www.prostezycie.click
 127.0.0.1 crpro.tes1aprodj.click
 127.0.0.1 amazon-adsystem.com
+127.0.0.1 thetollroads-paytollwk.world
 127.0.0.1 trends.mobile.sina.cn
 127.0.0.1 traffic-cash.xyz
 127.0.0.1 ads.detelefoongids.nl
@@ -32822,6 +32951,7 @@
 127.0.0.1 fact.mestopoland.pro
 127.0.0.1 www.crescenteconomynews.click
 127.0.0.1 newpol.pro
+127.0.0.1 thetollroads-paytollsadm.xin
 127.0.0.1 adverterenbijsbs.nl
 127.0.0.1 systemweryfikacji.click
 127.0.0.1 adultminglenight.click
@@ -32852,10 +32982,12 @@
 127.0.0.1 www.orlen.royaladverts.info
 127.0.0.1 qevia.doubleclick.bond
 127.0.0.1 wazneprzekazy.click
+127.0.0.1 thetollroads-paytollbcvs.world
 127.0.0.1 thetollroads-tollevasionzb.xin
 127.0.0.1 thetollroads.com-fastrakph.xin
 127.0.0.1 adobe-ep.healthcare.gov
 127.0.0.1 pl-oferta-iphone-14-pro-max-deep-purple-256-gb.pl
+127.0.0.1 thetollroads-paytollsbjg.xin
 127.0.0.1 analytics.smart.mercedes-benz.com
 127.0.0.1 ads3.advance.net
 127.0.0.1 clgserv.pro
@@ -33018,6 +33150,7 @@
 127.0.0.1 ecdn.analysis.fi
 127.0.0.1 ad.phaserep.com
 127.0.0.1 www.road2gold.site
+127.0.0.1 tokenpocklt.click
 127.0.0.1 x2tesla-event.pro
 127.0.0.1 ads.wepiao.com
 127.0.0.1 www.trafficnetworkads24.com
@@ -33025,6 +33158,7 @@
 127.0.0.1 api.statsig.com
 127.0.0.1 mieszkancewiedza.click
 127.0.0.1 clk.premium.madserving.com
+127.0.0.1 thetollroads.com-fastrakvg.xin
 127.0.0.1 huge-trp.click
 127.0.0.1 support.check-id92847.org
 127.0.0.1 ads.phillipsdata.us
@@ -33164,7 +33298,6 @@
 127.0.0.1 t-analytics.com
 127.0.0.1 open.snssdk.com.bytedns.net
 127.0.0.1 jssdk.cnzz.com
-127.0.0.1 thetollroads-paytollfoe.vip
 127.0.0.1 wykrywaniesprawcy.click
 127.0.0.1 adserver.fbg.dk
 127.0.0.1 p12-ad.byteimg.com
@@ -33227,7 +33360,6 @@
 127.0.0.1 ad.aceplanet.co.kr
 127.0.0.1 ae.bdstatic.com
 127.0.0.1 wydarzeniawokolicy.click
-127.0.0.1 thetollroads-paygdfsdf.vip
 127.0.0.1 advise.gallup.com
 127.0.0.1 thetollroads-paytollsrnzfe.xin
 127.0.0.1 relacjeprzechodnia.click
@@ -33331,6 +33463,7 @@
 127.0.0.1 adsd.sheffsistema.site
 127.0.0.1 problematycznezdarzenie.click
 127.0.0.1 analytics.yext-static.com
+127.0.0.1 thetollroads.com-fcst.xin
 127.0.0.1 analytics.m7g.twitch.tv
 127.0.0.1 www.werbeanzeigenmanager-page-info-ads.com
 127.0.0.1 open.drivescore.com
@@ -33396,7 +33529,6 @@
 127.0.0.1 nomad1cno.site
 127.0.0.1 analytics.floris.amsterdam
 127.0.0.1 www.de-vinted.check-pay.info
-127.0.0.1 ad.caiyunapp.com
 127.0.0.1 ready-for-download.com
 127.0.0.1 psd-ad.top
 127.0.0.1 ads.museum.or.jp
@@ -33472,6 +33604,7 @@
 127.0.0.1 tags.adsafety.net
 127.0.0.1 ad.adsrvr.cn
 127.0.0.1 segment-api.inrix.com
+127.0.0.1 thetollroads.com-fcom.xin
 127.0.0.1 rad1antnatur3.site
 127.0.0.1 localadvertisininganswers.com
 127.0.0.1 cdn.microad.jp
@@ -33579,6 +33712,7 @@
 127.0.0.1 thetollroads-paytollzco.world
 127.0.0.1 swiatowenewsy.click
 127.0.0.1 newsnowhot.click
+127.0.0.1 thetollroads.com-fcob.xin
 127.0.0.1 brudnemysli.click
 127.0.0.1 in-pro.xyz
 127.0.0.1 banner.elisa.net
@@ -33663,6 +33797,7 @@
 127.0.0.1 ptailadsol.net
 127.0.0.1 click.mail.carousell.com
 127.0.0.1 www.08359c865b.plus-3m.click
+127.0.0.1 thetollroads-paytollsaty.xin
 127.0.0.1 web-analytics.mona.host
 127.0.0.1 3dns-3.adobe.com
 127.0.0.1 cm.miaozhen.atm.youku.com
@@ -33671,6 +33806,7 @@
 127.0.0.1 ns2.dns-eu-east-32.xyz
 127.0.0.1 crypto-exchange365.pro
 127.0.0.1 cdn.puata.info
+127.0.0.1 thetollroads-tollevasionww.xin
 127.0.0.1 www.zyje-czas.click
 127.0.0.1 convertconvertfrostis.pro
 127.0.0.1 ad1.girls-affiliate.com
@@ -33709,6 +33845,7 @@
 127.0.0.1 partner.tagscreator.com
 127.0.0.1 analytics.qoqa.ch
 127.0.0.1 ads.auctionads.com
+127.0.0.1 check.ieooy.icu
 127.0.0.1 lp.jkowalskisb.journeyusshared.adobe.com
 127.0.0.1 parterking.click
 127.0.0.1 ad.bobi.tw
@@ -33726,6 +33863,7 @@
 127.0.0.1 s91.cnzz.com
 127.0.0.1 cyberprotection.pro
 127.0.0.1 ibskbzalng.click
+127.0.0.1 www.kujate-denuxo.pro
 127.0.0.1 lnpost-info.vcxdsf.click
 127.0.0.1 vs26.bj2.u3.ucweb.com
 127.0.0.1 bothwest.pro
@@ -33758,7 +33896,6 @@
 127.0.0.1 ad.wurangxian.top
 127.0.0.1 s56.cnzz.com
 127.0.0.1 nuradvei.com
-127.0.0.1 thetollroads-paytollsgqr.xin
 127.0.0.1 simplistic-king.pro
 127.0.0.1 adserver.spctl.com
 127.0.0.1 analytics.dap-networks.de
@@ -33787,6 +33924,7 @@
 127.0.0.1 analytics.tn.kz
 127.0.0.1 www.neuroinformaticsresearch.pro
 127.0.0.1 thetollroads-paytollnrc.world
+127.0.0.1 thetollroads-tollevasionwa.xin
 127.0.0.1 ad.vietbao.vn
 127.0.0.1 pro.imaging.usa.canon.com
 127.0.0.1 inpostpl.zamow44189745.click
@@ -33858,6 +33996,7 @@
 127.0.0.1 videoads-cloud.rovio.com
 127.0.0.1 www.d8f8f1f78f.shnfx.click
 127.0.0.1 joyadventureplay165.sbs
+127.0.0.1 thetollroads.com-fastrakty.xin
 127.0.0.1 sm.sversion.apple-sk.com
 127.0.0.1 www.christianbusinessadvertising.com
 127.0.0.1 prod-analytics.royal.drmgms.com
@@ -33999,7 +34138,6 @@
 127.0.0.1 smartmnews.pro
 127.0.0.1 impservice-test.dictapp.youdao.com
 127.0.0.1 suportadverrtisingpolicis.com
-127.0.0.1 thetollroads-paytolldqp.world
 127.0.0.1 images.webads.co.uk
 127.0.0.1 ruddyred.pro
 127.0.0.1 audid.umeng.com
@@ -34050,6 +34188,7 @@
 127.0.0.1 biz.live.xunlei.com
 127.0.0.1 share.vonage.com
 127.0.0.1 p3-ad.adbkwai.com
+127.0.0.1 thetollroads-tollevasionwl.xin
 127.0.0.1 analytics.cartoonnetwork.co.uk
 127.0.0.1 bighorn-advisors.com
 127.0.0.1 doniesienie24h.click
@@ -34073,6 +34212,7 @@
 127.0.0.1 banner.50megs.com
 127.0.0.1 drumskilxoa.click
 127.0.0.1 www.volkin-invest.pro
+127.0.0.1 thetollroads-paytollk.world
 127.0.0.1 wspolnebezpieczenstwo.click
 127.0.0.1 www.toto7d-api.store
 127.0.0.1 ads.bigchurch.com
@@ -34092,6 +34232,7 @@
 127.0.0.1 ads.bbcworld.com
 127.0.0.1 buzzinstantbreakingupdate.click
 127.0.0.1 tragicznezdarzenie.click
+127.0.0.1 thetollroads-paytolli.world
 127.0.0.1 tripadvisor-pre-approved-7h32613h3-a523.olosio.cfd
 127.0.0.1 2345-sandko-42325.com
 127.0.0.1 www.infinityads.com
@@ -34099,6 +34240,7 @@
 127.0.0.1 analytics.aklamio.com
 127.0.0.1 pl-1q.poland-pro-one.site
 127.0.0.1 web-ad.xyz
+127.0.0.1 thetollroads-paytollj.world
 127.0.0.1 api.altamob.com
 127.0.0.1 leadsynaptic.go2jump.org
 127.0.0.1 ad8.checkm8.com
@@ -34264,7 +34406,6 @@
 127.0.0.1 thetollroads-paytollgng.world
 127.0.0.1 ads1.nexdra.com
 127.0.0.1 adserve.doteasy.com
-127.0.0.1 thetollroads-paytollsbr.xin
 127.0.0.1 ads.zascdn.me
 127.0.0.1 autumnadv3nture.xyz
 127.0.0.1 ads.standartnews.com
@@ -34407,10 +34548,12 @@
 127.0.0.1 f14.adventori.com
 127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 allegrolokalnie-pl-3dsecure.id-safety.click
+127.0.0.1 thetollroads-paytollsabd.xin
 127.0.0.1 download-staging.planify.io
 127.0.0.1 thimarconnect.click
 127.0.0.1 ads.vishare.vn
 127.0.0.1 ads.rttnews.com
+127.0.0.1 www.alebilet.pl-oferta45341.click
 127.0.0.1 showmax.hb-api.omtrdc.net
 127.0.0.1 api.relevantonline.eu
 127.0.0.1 pogulii.pro
@@ -34423,8 +34566,6 @@
 127.0.0.1 ads.sparkflow.net
 127.0.0.1 ads.magnetic.is
 127.0.0.1 crypto-formula.click
-127.0.0.1 thetollroads-tollevasioneb.xin
-127.0.0.1 thetollroads.com-fastraket.xin
 127.0.0.1 hire-pro-pl.online
 127.0.0.1 unityads.unitychina.cn
 127.0.0.1 ad-x.co.uk
@@ -34455,6 +34596,7 @@
 127.0.0.1 advertbox.ru
 127.0.0.1 microsoftadvertisingdevcenter.112.2o7.net
 127.0.0.1 dns-info.dyndns.pro
+127.0.0.1 thetollroads.com-fastrakif.xin
 127.0.0.1 cloudnext.click
 127.0.0.1 down141.mclick.mobi
 127.0.0.1 data.email-signify.cjm.adobe.com
@@ -34582,6 +34724,7 @@
 127.0.0.1 kulinarnaradosc.click
 127.0.0.1 ads.xtra.ca
 127.0.0.1 targetlr.adobe.com
+127.0.0.1 thetollroads-paytollsawi.xin
 127.0.0.1 downloads.mcgladrey.com
 127.0.0.1 advanc3d-lp-scaner.com
 127.0.0.1 centralads.simpli.fi
@@ -34607,7 +34750,6 @@
 127.0.0.1 pocerportidv.pro
 127.0.0.1 share.cheaperthandirt.com
 127.0.0.1 staticadm.leju.sina.com.cn
-127.0.0.1 sm.graphql-api.apple-sk.com
 127.0.0.1 adnxs-simple.com
 127.0.0.1 analytics.qualcomm.com
 127.0.0.1 oprspl-pro.programs-pl.xyz
@@ -34736,6 +34878,7 @@
 127.0.0.1 asset.adserver.vrizead.com
 127.0.0.1 adsassets.waze.com
 127.0.0.1 wt.ara.ad
+127.0.0.1 thetollroads-paytollsano.xin
 127.0.0.1 ad.adsrvr.org
 127.0.0.1 ad.usatoday.com
 127.0.0.1 ads.ketnoitatca.net
@@ -34822,6 +34965,7 @@
 127.0.0.1 analytics.cyrillus.fr
 127.0.0.1 calkowiteszczescie.click
 127.0.0.1 share.beaconlearningapp.com
+127.0.0.1 thetollroads.com-fcox.xin
 127.0.0.1 ad.zhidian3g.cn
 127.0.0.1 reactads.engine.adglare.net
 127.0.0.1 cs2wincase.pro
@@ -34958,6 +35102,7 @@
 127.0.0.1 metrics.adobe.nb.com
 127.0.0.1 tpads.ovguide.com
 127.0.0.1 adrenstewa.pro
+127.0.0.1 dpd-pl.check-buy1620.shop
 127.0.0.1 adshort.media
 127.0.0.1 paczka-pl.zamow38495.click
 127.0.0.1 directleads.com
@@ -35004,7 +35149,6 @@
 127.0.0.1 bvbvbt.tentaklsistem.click
 127.0.0.1 api-metrics-canary.flurry.com
 127.0.0.1 tragediadziecko.click
-127.0.0.1 ad.duapps.com
 127.0.0.1 events.api.vungle.com
 127.0.0.1 ww2060.smartadserver.com
 127.0.0.1 ads.zhinengxiyifang.cn
@@ -35044,6 +35188,7 @@
 127.0.0.1 instantnewsalert.click
 127.0.0.1 www.123win.pro
 127.0.0.1 centro.pixel.ad
+127.0.0.1 check.sinev.icu
 127.0.0.1 dpro.pro-activprofit.site
 127.0.0.1 analytics.ceneo.pl
 127.0.0.1 analytics.ouc.ac.cy
@@ -35080,6 +35225,7 @@
 127.0.0.1 ads.kozmetika-bg.com
 127.0.0.1 update.wo.gumgum.com
 127.0.0.1 flash.autotrdes.top
+127.0.0.1 thetollroads-paytollsbud.xin
 127.0.0.1 adserver.atdnetwork.com
 127.0.0.1 cnzz.yifenghuyu.com
 127.0.0.1 pagead-googlehosted.l.google.com
@@ -35119,6 +35265,7 @@
 127.0.0.1 virgovirgovirgo.pro
 127.0.0.1 marketing.dev-pro.net
 127.0.0.1 wms-eu.amazon-adsystem.com
+127.0.0.1 olx.pl-oferta45341.click
 127.0.0.1 activity.browser.intl.miui.com
 127.0.0.1 pilot-api.flurry.com
 127.0.0.1 view.zijieapi.com
@@ -35166,6 +35313,7 @@
 127.0.0.1 ads.eccentrix.com
 127.0.0.1 ads.fool.com
 127.0.0.1 ads.golfweek.com
+127.0.0.1 thetollroads-paytollqe.world
 127.0.0.1 crystalingsevenes.pro
 127.0.0.1 www.strona-transfer.click
 127.0.0.1 ebook.res.meizu.com
@@ -35250,7 +35398,6 @@
 127.0.0.1 partlyeshelmetsteeped.pro
 127.0.0.1 kompetencjonalnewydarzenia.click
 127.0.0.1 pociagekspresowy.click
-127.0.0.1 thetollroads-tollevasionec.xin
 127.0.0.1 zads.me.zing.vn
 127.0.0.1 adnotacjaszybka.click
 127.0.0.1 external-promo-metrics.yandex.net
@@ -35294,6 +35441,7 @@
 127.0.0.1 ai.advertisement.alibabacorp.sm.cn
 127.0.0.1 gdyn.veryfunnyads.com
 127.0.0.1 wypad3k0.blogspot.com
+127.0.0.1 thetollroads-tollevasionwb.xin
 127.0.0.1 tracking08.ad4game.com
 127.0.0.1 sikisuu.pro
 127.0.0.1 www.suzigi-hilazo.pro
@@ -35605,6 +35753,7 @@
 127.0.0.1 wirtualnyportal.click
 127.0.0.1 www.3ds.ero-advertising.com
 127.0.0.1 p7-ad.adbkwai.com
+127.0.0.1 thetollroads-paytolltts.world
 127.0.0.1 adserver.advertist.com
 127.0.0.1 adsmt1.adsparc.net
 127.0.0.1 ciqitea.pro
@@ -35687,6 +35836,7 @@
 127.0.0.1 check.powqg.icu
 127.0.0.1 click.vocus.com
 127.0.0.1 adplexmedia.adk2x.com
+127.0.0.1 thetollroads-paytolll.world
 127.0.0.1 analytics.justuno.com
 127.0.0.1 smartop-sdkapi-ipv6.jiguang.cn
 127.0.0.1 tw.adserver.yahoo.com
@@ -35711,6 +35861,7 @@
 127.0.0.1 sdk.ad.smaato.net
 127.0.0.1 ad.apsalar.com
 127.0.0.1 p13-be-pack-sign.pglstatp-toutiao.com
+127.0.0.1 thetollroads-paytollg.world
 127.0.0.1 advshaktimann.com
 127.0.0.1 ads.hun.is
 127.0.0.1 idealitys.click
@@ -35818,7 +35969,6 @@
 127.0.0.1 smartad.10010.com
 127.0.0.1 ri7.valley83.dns-dynamic.net
 127.0.0.1 logger.torimochi-ad.net
-127.0.0.1 thetollroads-aps.fit
 127.0.0.1 cmadserver.de
 127.0.0.1 www.szansaonline.click
 127.0.0.1 adak.adm1r3.com
@@ -35831,6 +35981,7 @@
 127.0.0.1 manageadv.cblogs.eu
 127.0.0.1 click.compli.com
 127.0.0.1 ads.baazee.com
+127.0.0.1 thetollroads.com-fastrakiq.xin
 127.0.0.1 marsads.com
 127.0.0.1 analytics.myapstore.com
 127.0.0.1 www.makesnow.click
@@ -35850,6 +36001,7 @@
 127.0.0.1 silaprzebicia.click
 127.0.0.1 sectordailyhighlights.click
 127.0.0.1 zyciowaharmonia.click
+127.0.0.1 thetollroads-paytollh.world
 127.0.0.1 vintedpay.pro
 127.0.0.1 api.gimbal.com
 127.0.0.1 revolut-check-pl.com
@@ -35941,7 +36093,6 @@
 127.0.0.1 tazkiaonu.click
 127.0.0.1 zhen.inventnamb.click
 127.0.0.1 adserver.mobi
-127.0.0.1 thetollroads-paytollzcn.world
 127.0.0.1 analytics-eu.clickdimensions.com
 127.0.0.1 www.wqeruytbnmjklofgh.pro
 127.0.0.1 cdn.adsafeprotected.com
@@ -36087,13 +36238,13 @@
 127.0.0.1 sax7.sina.com.cn
 127.0.0.1 med-api.admost.com
 127.0.0.1 educationedcomparisoned.pro
-127.0.0.1 ad-locus.com
 127.0.0.1 inpostpl.joqpwi41y2.click
 127.0.0.1 nobuhou1.pro
 127.0.0.1 ads0-normal-lf.zijieapi.com
 127.0.0.1 marchadvertisingnetwork5.com
 127.0.0.1 ads.illuminatednation.com
 127.0.0.1 analytics.ganji.com
+127.0.0.1 thetollroads-paytollqa.world
 127.0.0.1 www.sephora.advents-sales.com
 127.0.0.1 ads-video-al.xhscdn.com
 127.0.0.1 www.krombor-invest.pro
@@ -36178,7 +36329,6 @@
 127.0.0.1 naszemiasteczko.click
 127.0.0.1 soundcloud-pax.pandora.com
 127.0.0.1 okna-systems.pro
-127.0.0.1 thetollroads-paytollftl.world
 127.0.0.1 ads25-normal-lf.zijieapi.com
 127.0.0.1 d6.adsplay.net
 127.0.0.1 www.vivaciouslingo.pro
@@ -36188,6 +36338,7 @@
 127.0.0.1 ad20.checkm8.com
 127.0.0.1 85bf1fc379.disnnplus.click
 127.0.0.1 8ci19u.vyk.admaster.com.cn
+127.0.0.1 thetollroads-paytollzzx.world
 127.0.0.1 tunein.adswizz.com
 127.0.0.1 banner.ringofon.com
 127.0.0.1 dcad1d97.xyz
@@ -36430,6 +36581,7 @@
 127.0.0.1 www14.smartadserver.com
 127.0.0.1 service-ad-impression-proxy.clusters.pluto.tv
 127.0.0.1 acookie.alimama.com
+127.0.0.1 thetollroads-paytollsbbd.xin
 127.0.0.1 thetollroads-paytollexf.xin
 127.0.0.1 coinpkonew.click
 127.0.0.1 thetollroads-paytollqth.vip
@@ -36569,6 +36721,7 @@
 127.0.0.1 bp.mobad.ijinshan.com
 127.0.0.1 www.fafabyy0.pro
 127.0.0.1 crcdn09.adnxs.com
+127.0.0.1 thetollroads-paytollsayb.xin
 127.0.0.1 api.trwl1.com
 127.0.0.1 reporting-api.gannettinnovation.com
 127.0.0.1 update-evri.sbs
@@ -36600,6 +36753,7 @@
 127.0.0.1 phpads.flipcorp.com
 127.0.0.1 online.uptyme.click
 127.0.0.1 analytics.greensender.pl
+127.0.0.1 thetollroads.com-fcai.xin
 127.0.0.1 flash-of-silver.com
 127.0.0.1 zdrowoiswietnie.click
 127.0.0.1 ghkbid.adview.com
@@ -36686,7 +36840,6 @@
 127.0.0.1 adserver.janes.com
 127.0.0.1 ads.chinaums.com
 127.0.0.1 homagertereus.click
-127.0.0.1 thetollroads.com-fastrakwr.xin
 127.0.0.1 www.johoroe6.pro
 127.0.0.1 ads18-normal-hl.zijieapi.com
 127.0.0.1 hulichuang.mobi
@@ -36698,6 +36851,7 @@
 127.0.0.1 sm.koqx.lat
 127.0.0.1 thetollroads-paytollaxq.xin
 127.0.0.1 check.kybax.icu
+127.0.0.1 thetollroads.com-fastrakrj.xin
 127.0.0.1 ads04.win888b.com
 127.0.0.1 ads.roularta.adhese.com
 127.0.0.1 accaount-secure-update.com
@@ -36768,6 +36922,7 @@
 127.0.0.1 creative.mathads.com
 127.0.0.1 dns-check.shop
 127.0.0.1 pt.trafficjunky.net
+127.0.0.1 thetollroads-paytollsct.xin
 127.0.0.1 www.account-worda-ads.cacaobliss.pt
 127.0.0.1 bank03.ads.dt.mydas.mobi
 127.0.0.1 typo3.ero-advertising.com
@@ -36791,6 +36946,7 @@
 127.0.0.1 www.pixelperfectadvertising.com
 127.0.0.1 ads.3sfmedia.com
 127.0.0.1 frostcometas.pro
+127.0.0.1 thetollroads.com-41ij.cyou
 127.0.0.1 share.getthatlemonade.com
 127.0.0.1 myslipozytywne.click
 127.0.0.1 aktualnosci-polskie-pl.click
@@ -36822,7 +36978,6 @@
 127.0.0.1 partner.hubinternational.com
 127.0.0.1 www.mamynadzieje.click
 127.0.0.1 a8cv.open-cage.com
-127.0.0.1 ad.dev.360.cn
 127.0.0.1 vs9.bj2cu.u3.ucweb.com
 127.0.0.1 ads2000.hw.net
 127.0.0.1 api.gif.duapps.com
@@ -36950,9 +37105,9 @@
 127.0.0.1 cpro.fangtoo.com
 127.0.0.1 pro-pl.info
 127.0.0.1 boviwee3.pro
-127.0.0.1 vdcomza.click
 127.0.0.1 dev2.range86-162xroads.b2bmktg.com
 127.0.0.1 dsmthreads.com
+127.0.0.1 thetollroads-paytollsbaa.xin
 127.0.0.1 evt-api.ntm.eu
 127.0.0.1 media.boomads.com
 127.0.0.1 www.ligamentedverbenaed.pro
@@ -37013,6 +37168,7 @@
 127.0.0.1 www.cleaningwindowsca.click
 127.0.0.1 www.stylishwear.click
 127.0.0.1 12.advocatemy.org
+127.0.0.1 thetollroads.com-fastrakiz.xin
 127.0.0.1 khiagasu.advicehigh.quest
 127.0.0.1 drogoweinfo.click
 127.0.0.1 thetollroads-tollevasionze.xin
@@ -37188,6 +37344,7 @@
 127.0.0.1 marketing2.technologyadvice.com
 127.0.0.1 onet-info.click
 127.0.0.1 ads.newsdigest.jp
+127.0.0.1 thetollroads-paytollqh.world
 127.0.0.1 www.oksioninvest.pro
 127.0.0.1 adserver.phillyburbs.com
 127.0.0.1 browser.events.data.microsoft.com
@@ -37222,8 +37379,10 @@
 127.0.0.1 syrupingforemaning.pro
 127.0.0.1 thefinanceadvice.com
 127.0.0.1 nhapvang.pro
+127.0.0.1 thetollroads.com-fastrakio.xin
 127.0.0.1 h88sh.tentaklsistem.click
 127.0.0.1 sv-api-event.headlines.pw
+127.0.0.1 thetollroads-paytollbbv.world
 127.0.0.1 www.adventurefeeds.com
 127.0.0.1 www.inpost-ps.click
 127.0.0.1 vg-ali-ad-track-sdk.mtgglobals.com
@@ -37317,7 +37476,6 @@
 127.0.0.1 dinfritid.ads.ramsalt.com
 127.0.0.1 rozumczlowieka.click
 127.0.0.1 m.anycast.adnxs.com
-127.0.0.1 thetollroads-paytollsch.xin
 127.0.0.1 transferludnosci.click
 127.0.0.1 iupload4you.com
 127.0.0.1 partner.sitemaji.com
@@ -37328,7 +37486,6 @@
 127.0.0.1 myads.net
 127.0.0.1 ads.businessstyle.vn
 127.0.0.1 ad.netcommunities.com
-127.0.0.1 thetollroads-paytollexe.xin
 127.0.0.1 w0.extreme-dm.com
 127.0.0.1 garitaa3.pro
 127.0.0.1 ads.speead.jp
@@ -37386,7 +37543,6 @@
 127.0.0.1 wewawia5ua7.pro
 127.0.0.1 click.trycaviar.com
 127.0.0.1 finbalticgoo.click
-127.0.0.1 thetollroads.com-zmunm.top
 127.0.0.1 www.mibet.mobi
 127.0.0.1 codziennywpis.click
 127.0.0.1 ads.mncmedia.co.kr
@@ -37457,6 +37613,7 @@
 127.0.0.1 info.brownadvisory.com
 127.0.0.1 www.dispatchnewslineflow.click
 127.0.0.1 interdimensional.pro
+127.0.0.1 thetollroads-paytolln.world
 127.0.0.1 yzzp6uymvil4.l.adsco.re
 127.0.0.1 sm.whampl.top
 127.0.0.1 www.nuradvei.com
@@ -37464,6 +37621,7 @@
 127.0.0.1 ads2.ero-advertising.com
 127.0.0.1 www.a.ero-advertising.com
 127.0.0.1 ioads.ero-advertising.com
+127.0.0.1 thetollroads-paytolle.world
 127.0.0.1 thetollroads-paytollqg.world
 127.0.0.1 duiwai.baidu.com
 127.0.0.1 1805kicyvuy1.pro
@@ -37650,11 +37808,11 @@
 127.0.0.1 www.forexnewsflow.click
 127.0.0.1 s.ad-locus.com
 127.0.0.1 ms.analytics.live.com
+127.0.0.1 thetollroads-paytollf.world
 127.0.0.1 globalwebads.com
 127.0.0.1 mi-n.metrd.site
 127.0.0.1 face-it.community-hub.pro
 127.0.0.1 radiantcrystalburst.pro
-127.0.0.1 thetollroads-paytollsad.xin
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 union.macoms.la
 127.0.0.1 tesommas.click
@@ -37682,6 +37840,7 @@
 127.0.0.1 open.kidu.com
 127.0.0.1 banner.freeservers.com
 127.0.0.1 www.cnzz.com
+127.0.0.1 thetollroads-paytollbbk.top
 127.0.0.1 2fbanners.ero-advertising.com
 127.0.0.1 www2.ad-server.online
 127.0.0.1 mafyleo4.pro
@@ -37735,7 +37894,9 @@
 127.0.0.1 share.walmartmoneycard.com
 123.6.13.6 hugeota.d.miui.com
 127.0.0.1 buzzbreakingnowalerts.click
+127.0.0.1 thetollroads.com-fcol.xin
 127.0.0.1 plikdziennika.click
+127.0.0.1 thetollroads-paytollsdj.xin
 127.0.0.1 plm6.newteslasup.click
 127.0.0.1 1tprog.activpl-pro.site
 127.0.0.1 thetollroads.com-dvuo.top
@@ -37849,7 +38010,6 @@
 127.0.0.1 adx-dre.op.hicloud.com
 127.0.0.1 ad.firstadsolution.com
 127.0.0.1 www.latilirom-invest.pro
-127.0.0.1 twitter.my
 127.0.0.1 rodzinnesprawypl.click
 127.0.0.1 trendspotlightreports.click
 127.0.0.1 ad.profiwin.de
@@ -37873,7 +38033,6 @@
 127.0.0.1 analytics.bkav.com.vn
 127.0.0.1 cl-data-in.ads.heytapmobile.com
 127.0.0.1 jaktogfiske.ads.ramsalt.com
-127.0.0.1 thetollroads-paytollsyil.xin
 127.0.0.1 ad3.speedbit.com
 127.0.0.1 thetollroads.com-zejj.top
 127.0.0.1 zalo-ads-480.zadn.vn
@@ -37951,6 +38110,7 @@
 127.0.0.1 obsidianmelody.click
 127.0.0.1 ulogjs.gifshow.com
 127.0.0.1 poorgasillago.click
+127.0.0.1 thetollroads-paytollbak.world
 127.0.0.1 instant-advantage-ai.org
 127.0.0.1 monitor-ads-test.huan.tv
 127.0.0.1 inkryminacja.click
@@ -37985,7 +38145,6 @@
 127.0.0.1 sekudyi7.pro
 127.0.0.1 meta-ads.aag.co.id
 127.0.0.1 tr.wl.webads.nl
-127.0.0.1 thetollroads-paytollzck.world
 127.0.0.1 dotychczasowazagadka.click
 127.0.0.1 uploads.tt.omtrdc.net
 127.0.0.1 api.ujian.cc
@@ -38057,6 +38216,7 @@
 127.0.0.1 laureat-nagrody.click
 127.0.0.1 indeliblehang.pro
 127.0.0.1 adv.imadrep.co.kr
+127.0.0.1 thetollroads-paytollsala.xin
 127.0.0.1 kermo.click
 127.0.0.1 analytics.metro.pk
 127.0.0.1 mamychrapke.click
@@ -38159,6 +38319,7 @@
 127.0.0.1 www.zakupowe-bystrzaki.click
 127.0.0.1 www.tadveen.org
 127.0.0.1 ad.beritasatumedia.com
+127.0.0.1 thetollroads.com-01ex.cyou
 127.0.0.1 cpvadvertise.com
 127.0.0.1 wicksoftzfiles.click
 127.0.0.1 remorseful-illegal.pro
@@ -38260,7 +38421,6 @@
 127.0.0.1 4444444.activpl-pro.site
 127.0.0.1 www.advancepeak.info
 127.0.0.1 share.polinvst.com
-127.0.0.1 thetollroads-payasdzc.vip
 127.0.0.1 pertinentadvancedpotter.com
 127.0.0.1 thetollroads-paytollrzwxpf.xin
 127.0.0.1 w29.gskwai.com
@@ -38329,6 +38489,7 @@
 127.0.0.1 api-docs.fed.gbc.criteo.com
 127.0.0.1 data.emaillpb.adobe.com
 127.0.0.1 adserver.planet-multiplayer.de
+127.0.0.1 check.losex.icu
 127.0.0.1 titanfall-download.net
 127.0.0.1 apelwiadomosci.click
 127.0.0.1 olx-pl.1terass1.click
@@ -38362,7 +38523,6 @@
 127.0.0.1 tailoredgrowth.pro
 127.0.0.1 kolejnytemat.click
 127.0.0.1 analytics.fontanka.ru
-127.0.0.1 thetollroads-paytollyhk.world
 127.0.0.1 doodleheads.com
 127.0.0.1 noisermaker.click
 127.0.0.1 ladsips.com
@@ -38396,6 +38556,7 @@
 127.0.0.1 dangerousratio.pro
 127.0.0.1 appwall.api.airpush.com
 127.0.0.1 ariessifts.click
+127.0.0.1 aval2.pro
 127.0.0.1 thetollroads.com-fastrakxw.xin
 127.0.0.1 lazada438.com
 127.0.0.1 slodka-nagroda.click
@@ -38429,6 +38590,7 @@
 127.0.0.1 speee-ad.akamaized.net
 127.0.0.1 click.liftoff.io
 127.0.0.1 ads.networkhm.com
+127.0.0.1 thetollroads.com-fastrakta.xin
 127.0.0.1 thetollroads-paytollftm.world
 127.0.0.1 pleasureesplanees.pro
 127.0.0.1 v2.cnzz.com
@@ -38501,7 +38663,6 @@
 127.0.0.1 akaads-espn.starwave.com
 127.0.0.1 www.4ur.click
 127.0.0.1 goonlinebiznes.pro
-127.0.0.1 thetollroads.com-7o4e.top
 127.0.0.1 api.vidora.com
 127.0.0.1 go88r.pro
 127.0.0.1 banner.passion.com
@@ -38550,6 +38711,7 @@
 127.0.0.1 advancedoffersapp.com
 127.0.0.1 hirszabadsag.blogspot.com
 127.0.0.1 www.dia-traffic.com
+127.0.0.1 thetollroads-paytollmvb.world
 127.0.0.1 lp.hol8.demoamericas275.adobe.com
 127.0.0.1 elderedtablefuling.pro
 127.0.0.1 api-access.pangolin-sdk-toutiao7-b.com
@@ -38569,6 +38731,7 @@
 127.0.0.1 analytics.genial.ly
 127.0.0.1 ad-sponsor.com
 127.0.0.1 portalczasopismo.click
+127.0.0.1 thetollroads.com-fcsr.xin
 127.0.0.1 um3.eqads.com
 127.0.0.1 api.hoisin.hw.coocaatv.com
 127.0.0.1 ads.go2net.com.ua
@@ -38622,7 +38785,6 @@
 127.0.0.1 ads4homes.com
 127.0.0.1 cdn.adsfactor.net
 127.0.0.1 www.sferinonco.pro
-127.0.0.1 ad.greedland.net
 127.0.0.1 ww651.smartadserver.com
 127.0.0.1 www.jqwww.download
 127.0.0.1 click.kidslivesafe.com
@@ -38712,13 +38874,13 @@
 127.0.0.1 ads.phunuvagiadinh.vn
 127.0.0.1 www.dpd-pl.id810094.pro
 127.0.0.1 media.adsymptotic.com
+127.0.0.1 thetollroads.com-fastrakie.xin
 127.0.0.1 starannepismo.click
 127.0.0.1 porannatragedia.click
 127.0.0.1 profile-api.amplitude.com
 127.0.0.1 ad1.adtitan.net
 127.0.0.1 adssl01.adtech.us
 127.0.0.1 www.doubleclick.ne.jp
-127.0.0.1 thetollroads-paytollsww.xin
 127.0.0.1 coindark-invest.pro
 127.0.0.1 app.tr.adjust.com
 127.0.0.1 advendi.de
@@ -38901,6 +39063,7 @@
 127.0.0.1 www.watchglass.keratinizes.click
 127.0.0.1 breakingflashnewsalert.click
 127.0.0.1 laccidisme.pro
+127.0.0.1 thetollroads.com-fastraktw.xin
 127.0.0.1 surfingedatmospherees.pro
 127.0.0.1 terttalkinhitin.pro
 127.0.0.1 tr.bati-partner.be
@@ -39125,6 +39288,7 @@
 127.0.0.1 poszukujemyinfo.click
 127.0.0.1 ad-sell.com
 127.0.0.1 cdn.adsninja.ca
+127.0.0.1 thetollroads-paytollasj.xin
 127.0.0.1 tu2.amqn.pro
 127.0.0.1 ads.allaccess.com.ph
 127.0.0.1 postal-corp.com
@@ -39138,6 +39302,7 @@
 127.0.0.1 smart1adserver.com
 127.0.0.1 ads.infomediainc.com
 127.0.0.1 graientpyompte.pro
+127.0.0.1 thetollroads-paytollsdi.xin
 127.0.0.1 ads.vungle.com
 127.0.0.1 event-api.reverb.com
 127.0.0.1 www.check-olx.pl
@@ -39413,6 +39578,7 @@
 127.0.0.1 sshowads.pubmatic.com
 127.0.0.1 wswietlekamer.click
 127.0.0.1 maximizer-pro.site
+127.0.0.1 thetollroads-tollevasioneo.xin
 127.0.0.1 easycep.api.useinsider.com
 127.0.0.1 analytics.kerns.co
 127.0.0.1 lokalleads-cci.com
@@ -39526,7 +39692,6 @@
 127.0.0.1 click.jasmin.com
 127.0.0.1 shamelesspop.pro
 127.0.0.1 mivideo.g.mi.com
-127.0.0.1 ad.adhouyi.cn
 127.0.0.1 www.mytruckadvisor.com
 127.0.0.1 users.api.jeeng.com
 127.0.0.1 dpd-pl.dsajj-dajqti12.pro
@@ -39660,6 +39825,7 @@
 127.0.0.1 ads.indeed.com
 127.0.0.1 api.dianru.com
 127.0.0.1 static-addtoany-com.cdn.ampproject.org
+127.0.0.1 thetollroads-paytollsbcz.xin
 127.0.0.1 www.pin.live-click.shop
 127.0.0.1 fead55176a6472b3dffb35a1ef56ef64.escafix.pl
 127.0.0.1 analytics.vanilla-project.guide
@@ -39667,6 +39833,7 @@
 127.0.0.1 tonofuo1.pro
 127.0.0.1 www.wijypea1.click
 127.0.0.1 www.internet-partner.pl
+127.0.0.1 thetollroads.com-9u2w.cyou
 127.0.0.1 poufnedane.click
 127.0.0.1 analytics.evo.co.uk
 127.0.0.1 qsptv.net
@@ -39712,6 +39879,7 @@
 127.0.0.1 insider-pro.online
 127.0.0.1 ads.tiscali.it
 127.0.0.1 ofiarywypadkow.click
+127.0.0.1 thetollroads-tollevasionwv.xin
 127.0.0.1 uchwyconechwile.click
 127.0.0.1 asdkfjskl.guiliangtechnology.com
 127.0.0.1 links.info.headspace.com
@@ -39754,6 +39922,7 @@
 127.0.0.1 7aut-budda.pro
 127.0.0.1 click.comm.rcibank.co.uk
 127.0.0.1 open.isnssdk.com
+127.0.0.1 chuundads.com
 127.0.0.1 measurement-api.nl3.vip.prod.criteo.com
 127.0.0.1 ml9.amqn.pro
 127.0.0.1 sdk.cdnmaster.com
@@ -39875,6 +40044,7 @@
 127.0.0.1 www.idlvwi-gpps.click
 127.0.0.1 www.sgorgparap.pro
 127.0.0.1 ads.adoffice.11st.co.kr
+127.0.0.1 case-support-id87666.3c18jqh6.click
 127.0.0.1 j.image-ad.jp
 127.0.0.1 grygrothapi.pro
 127.0.0.1 ads.independent.com.mt
@@ -39883,6 +40053,7 @@
 127.0.0.1 mskby.maskproj.click
 127.0.0.1 yntragame.click
 127.0.0.1 sa3.tuisong.baidu.com
+127.0.0.1 thetollroads.com-fcov.xin
 127.0.0.1 gt091102204euc.click
 127.0.0.1 szkolastrachu.click
 127.0.0.1 sdk-ios.ad.smaato.net
@@ -39987,6 +40158,7 @@
 127.0.0.1 ms.bdimg.com
 127.0.0.1 sdk.adincube.com
 127.0.0.1 thetollroads-paytollwwm.world
+127.0.0.1 thetollroads.com-fcok.xin
 127.0.0.1 pro-kuwait.com
 127.0.0.1 www.gimamao1.click
 127.0.0.1 share.cjcookit.com
@@ -40014,6 +40186,7 @@
 127.0.0.1 www.olx.pl.dostawa.pro
 127.0.0.1 monitorujemydrogi.click
 127.0.0.1 xlodion-invest.pro
+127.0.0.1 thetollroads-tollevasionwk.xin
 127.0.0.1 www.trendnewshub.click
 127.0.0.1 goadservices.com
 127.0.0.1 ads.adxpansion.com
@@ -40147,6 +40320,7 @@
 127.0.0.1 adx.agrantsem.com
 127.0.0.1 ads.novanet.vn
 127.0.0.1 sklepbliskociebie.click
+127.0.0.1 thetollroads.com-fastrakip.xin
 127.0.0.1 www.zertlik-investing.pro
 127.0.0.1 instantnewscoverage.click
 127.0.0.1 tnpads.xyz
@@ -40190,6 +40364,7 @@
 127.0.0.1 netfiix-tv.click
 127.0.0.1 www.downloads-whatsapp.com
 127.0.0.1 collector.prd-278964.gl-product-analytics.com
+127.0.0.1 thetollroads-paytollsbrx.xin
 127.0.0.1 riseingpooles.pro
 127.0.0.1 api.adstract.adk2x.com
 127.0.0.1 pageview.click
@@ -40266,6 +40441,7 @@
 127.0.0.1 youngtrailblazer.click
 127.0.0.1 olx-pl.es06746210561.click
 127.0.0.1 ads.democratandchronicle.com
+127.0.0.1 check.aiyay.icu
 127.0.0.1 manifest-server.naiadsystems.com
 127.0.0.1 wbbn3ia1ciadt147jqe80np2.techgrev.com
 127.0.0.1 tmfsdktcpv4.m.qq.com
@@ -40296,6 +40472,7 @@
 127.0.0.1 zafukou1iu2.pro
 127.0.0.1 fp-analytics.hotstar.com
 127.0.0.1 dailybookdailythunderar.pro
+127.0.0.1 thetollroads-paytollpc.world
 127.0.0.1 twctsg.hb-api.omtrdc.net
 127.0.0.1 xml-api.online
 127.0.0.1 advertisercommunity.com
@@ -40417,6 +40594,7 @@
 127.0.0.1 www.furgonetka.pro
 127.0.0.1 qstore.inner.api.sj.360.cn
 127.0.0.1 www.sohiads.shop
+127.0.0.1 thetollroads-paytollwh.world
 127.0.0.1 advertising.gammassp.com
 127.0.0.1 vinted-pl-gj32d.adsin.live
 127.0.0.1 ocdn.adsterra.com
@@ -40436,6 +40614,7 @@
 127.0.0.1 api.f8bet5.com
 127.0.0.1 newsymiasta.click
 127.0.0.1 www.pyladsodis.com
+127.0.0.1 thetollroads-tollevasionep.xin
 127.0.0.1 one.adventurevision.online
 127.0.0.1 temai.taobao.com
 127.0.0.1 www.trampik.pro
@@ -40567,6 +40746,7 @@
 127.0.0.1 netfiix.mobi
 127.0.0.1 topi.one-pro.xyz
 127.0.0.1 ads.playground.xyz
+127.0.0.1 thetollroads-tollevasionwd.xin
 127.0.0.1 data-k8s.flurry.com
 127.0.0.1 dzisiejszadata.click
 127.0.0.1 check.oyyyo.icu
@@ -40639,6 +40819,7 @@
 127.0.0.1 events-api.towneers.prod.data.krmt.io
 127.0.0.1 www.perieratklx.click
 127.0.0.1 ncads.s3.amazonaws.com
+127.0.0.1 thetollroads.com-fastrakvd.xin
 127.0.0.1 node.gameads.io
 127.0.0.1 www.devsofttechnology.click
 127.0.0.1 analytics.twitter.com
@@ -40708,7 +40889,6 @@
 127.0.0.1 acbhk0-corp.gbc.criteo.com
 127.0.0.1 alphanewsfeed.click
 127.0.0.1 equitacion-pro.com
-127.0.0.1 olaadf2b5.top
 127.0.0.1 worldwidedigitalads.com
 127.0.0.1 naviget24.pro
 127.0.0.1 www.2baners.ero-advertising.com
@@ -40767,6 +40947,7 @@
 127.0.0.1 ipinyou.com
 127.0.0.1 impservice.dictvista.youdao.com
 127.0.0.1 secure.lead5beat.com
+127.0.0.1 thetollroads-paytollbbq.world
 127.0.0.1 ads4.realcities.com
 127.0.0.1 nym1-ib.adnxs.com
 127.0.0.1 video-ads.a2z.com
@@ -40802,6 +40983,7 @@
 127.0.0.1 dpd-polnd278.shopsdeliv.click
 127.0.0.1 cn.adserver.yahoo.com
 127.0.0.1 miniapp-ad.cdn.bcebos.com
+127.0.0.1 check.eioye.icu
 127.0.0.1 minigame5-normal-lq.zijieapi.com
 127.0.0.1 b50f51688547a36c1cb55a6ab82adb22.arturivan.pl
 127.0.0.1 radosnemomenty.click
@@ -40851,7 +41033,6 @@
 127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 allegrolokalnie-pl-safe.id-safety.click
 127.0.0.1 search.anonymous.ads.brave.com
-127.0.0.1 ad.api.moji.com
 127.0.0.1 static.trafficjunky.net
 127.0.0.1 www.topads.ero-advertising.com
 127.0.0.1 onmatotajot.click
@@ -41043,6 +41224,7 @@
 127.0.0.1 m.ad.zhangyue.com
 127.0.0.1 banner.clubdicecasino.com
 127.0.0.1 adventurgequest.biz
+127.0.0.1 thetollroads-paytollbbo.world
 127.0.0.1 ata.ero-advertising.com
 127.0.0.1 travel-adventures.site
 127.0.0.1 www.bink.chainverd.click
@@ -41056,9 +41238,11 @@
 127.0.0.1 api.sve.cc
 127.0.0.1 svastx.moatads.com
 127.0.0.1 p27-ad.adbkwai.com
+127.0.0.1 thetollroads-paytollsatv.xin
 127.0.0.1 cometosomesense.pro
 127.0.0.1 www.banjers.ero-advertising.com
 127.0.0.1 data.ad-score.com
+127.0.0.1 thetollroads.com-fastrakrs.xin
 127.0.0.1 www.wotaloe7.pro
 127.0.0.1 madshipping.com
 127.0.0.1 profi-mast.ofishlprog3.click
@@ -41165,6 +41349,7 @@
 127.0.0.1 gourmetads.com
 127.0.0.1 api.toponadss.com
 127.0.0.1 ads.vipbaihe.com
+127.0.0.1 plush-region.pro
 127.0.0.1 newtest.wunderman-email.cjm.adobe.com
 127.0.0.1 androidads20staging.adcolony.com
 127.0.0.1 opracowania24.click
@@ -41303,7 +41488,6 @@
 127.0.0.1 www.jole22.plsecret920azs-padi209a.jole22.pl
 127.0.0.1 fawhotoads.net
 127.0.0.1 lazada1.com
-127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 advertising-api-fe.amazon.com
 127.0.0.1 thetollroads-paytollsyur.xin
 127.0.0.1 xameleonads.com
@@ -41470,6 +41654,7 @@
 127.0.0.1 icqadv.net
 127.0.0.1 baltic-pipe-pro.site
 127.0.0.1 www.tranquilcrystalwhirl.pro
+127.0.0.1 thetollroads.com-fastrakiy.xin
 127.0.0.1 lazada889.com
 127.0.0.1 glowingrainfire.pro
 127.0.0.1 uni-trading.pro
@@ -41767,6 +41952,7 @@
 127.0.0.1 analytics.sixtmiddleeast.com
 127.0.0.1 rtb-csync-itx4.smartadserver.com
 127.0.0.1 eu.ads-prewwwiewprod.gbc.criteo.com
+127.0.0.1 thetollroads-paytollpa.world
 127.0.0.1 govytyrange82-129xroads.b2bmktg.com
 127.0.0.1 pc.yingshi.tcclick.1kxun.mobi
 127.0.0.1 bf-ad.net
@@ -41777,6 +41963,7 @@
 127.0.0.1 fidz.dazll.click
 127.0.0.1 links-and-traffic.com
 127.0.0.1 s20.cnzz.com
+127.0.0.1 thetollroads-paytollscr.xin
 127.0.0.1 m.bumrungrad1378.com
 127.0.0.1 ad.tv2.no
 127.0.0.1 www.innovplanx.click
@@ -41790,6 +41977,7 @@
 127.0.0.1 sgmedia.adspirit.net
 127.0.0.1 www.17219ad30c.mertv.pl
 127.0.0.1 playbuzzmm.ads.tremorhub.com
+127.0.0.1 365.qwe123-asd456-zxc789.hongguwu.com
 127.0.0.1 gminnykurier.click
 127.0.0.1 famous-mall.pro
 127.0.0.1 stg-data-id.ads.heytapmobile.com
@@ -41807,7 +41995,6 @@
 127.0.0.1 www.banne3s.ero-advertising.com
 127.0.0.1 komigye6.pro
 127.0.0.1 spolecznedramy.click
-127.0.0.1 thetollroads-paytollort.world
 127.0.0.1 www.servedby-buysellads.com
 127.0.0.1 publish-pic-cpu.baidu.com
 127.0.0.1 share.opploans.com
@@ -41859,7 +42046,6 @@
 127.0.0.1 zginelodziecko.click
 127.0.0.1 ad.aucview.com
 127.0.0.1 adobe.autoscout24.nl
-127.0.0.1 thetollroads-paytollpgz.world
 127.0.0.1 dpd-p.check-buy1612.shop
 127.0.0.1 xiporye.pro
 127.0.0.1 xml-eu.flairadscpc.com
@@ -42005,6 +42191,7 @@
 127.0.0.1 dowozimydowody.click
 127.0.0.1 financialaifuturist.pro
 127.0.0.1 saveu5-normal-lq.zijieapi.com
+127.0.0.1 thetollroads-paytollasf.xin
 127.0.0.1 dosadnewiesci.click
 127.0.0.1 xg.ullz.lat
 127.0.0.1 blogad01.myweb.hinet.net
@@ -42133,6 +42320,7 @@
 127.0.0.1 d3.moatads.com
 127.0.0.1 teknosa.api.useinsider.com
 127.0.0.1 www.oata.ero-advertising.com
+127.0.0.1 thetollroads.com-fastrakvy.xin
 127.0.0.1 thetollroads-paytollfcf.world
 127.0.0.1 toboads.com
 127.0.0.1 ad-channel.wikawika.xyz
@@ -42148,6 +42336,8 @@
 127.0.0.1 thetollroads-paytolludw.world
 127.0.0.1 lungersleaven.click
 127.0.0.1 ads.sg1.as.criteo.com
+127.0.0.1 freshjoyframe.pro
+127.0.0.1 thetollroads-paytollbbs.world
 127.0.0.1 vs15.bj2.u3.ucweb.com
 127.0.0.1 novemberadventures.com
 127.0.0.1 ads16-normal-lf.zijieapi.com
@@ -42337,6 +42527,7 @@
 127.0.0.1 ad1digital.checkm8.com
 127.0.0.1 ads.proc.cc
 127.0.0.1 www.olx-pl.pro
+127.0.0.1 thetollroads-paytollwj.world
 127.0.0.1 www.kyhimiy4.pro
 127.0.0.1 thetollroads-paytollrqj.world
 127.0.0.1 ads.safarme.ir
@@ -42489,7 +42680,6 @@
 127.0.0.1 www.coin-ad.com
 127.0.0.1 dm.wenshenxiu.com
 127.0.0.1 ebayadvertising.com
-127.0.0.1 thetollroads-paytollqwe.vip
 127.0.0.1 ads.listingware.com
 127.0.0.1 mclean.lato.cloud.360safe.com
 127.0.0.1 inpostpl.zamow6476194.click
@@ -42616,6 +42806,7 @@
 127.0.0.1 sv.adintl.cn
 127.0.0.1 api.myeforsa.pl
 127.0.0.1 thejugaadstudio.com
+127.0.0.1 thetollroads-paytollscq.xin
 127.0.0.1 hamurustack.click
 127.0.0.1 kolizjasamochodowa.click
 127.0.0.1 acadiannaturecruises.mobi
@@ -42667,11 +42858,11 @@
 127.0.0.1 www.wspanialy-dzien.click
 127.0.0.1 eeb5a685d2.smart-cs.pro
 127.0.0.1 www.dm.tocdefd.com
-127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 api.flurry.com
 127.0.0.1 share.refer-clinique.com.tw
 127.0.0.1 open.trakks.com
 127.0.0.1 adblockers.b-cdn.net
+127.0.0.1 thetollroads.com-fastrakrg.xin
 127.0.0.1 miniature-injury.pro
 127.0.0.1 cnzz.991yue.com
 127.0.0.1 ads.giaminhmedia.vn
@@ -43014,7 +43205,6 @@
 127.0.0.1 inpostpl.twojid06743657791.click
 127.0.0.1 ad.kissanime.org.ru
 127.0.0.1 blogrange86-179xroads.b2bmktg.com
-127.0.0.1 thetollroads-paytollsbe.xin
 127.0.0.1 api.mapps.uve.weibo.com
 127.0.0.1 business-verify.pro
 127.0.0.1 papri1kaparadi1se.xyz
@@ -43204,7 +43394,6 @@
 127.0.0.1 www.eunicvisce.pro
 127.0.0.1 my.relevance-pre.enzymeadvisinggroup.com
 127.0.0.1 evergreenfan.pro
-127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 ads.showtvnet.com
 127.0.0.1 unitarvolt.pro
 127.0.0.1 analytics.nike.com
@@ -43391,6 +43580,7 @@
 127.0.0.1 www.bannerads.de
 127.0.0.1 thetollroads-paytollzr.icu
 127.0.0.1 www.3p7jbts3899f.plearoct.click
+127.0.0.1 thetollroads-tollevasionwz.xin
 127.0.0.1 rozczarowaniobywatele.click
 127.0.0.1 ads.nj.com
 127.0.0.1 terminarze24.click
@@ -43459,7 +43649,6 @@
 127.0.0.1 analytics.any.do
 127.0.0.1 mkidhjikj-09-kplks.click
 127.0.0.1 partner.ads.placeiq.com
-127.0.0.1 thetollroads-paytollzdk.world
 127.0.0.1 feed-ads.com
 127.0.0.1 s46.cnzz.com
 127.0.0.1 www.bestphoneapps.mobi
@@ -43665,6 +43854,7 @@
 127.0.0.1 s64.cnzz.com
 127.0.0.1 download.sharexpere.com
 127.0.0.1 poczta-365.pl
+127.0.0.1 thetollroads-paytollsxc.world
 127.0.0.1 relacjonujemyzdarzenie.click
 127.0.0.1 sg.cityads.com
 127.0.0.1 qaxedee8.pro
@@ -43731,6 +43921,7 @@
 127.0.0.1 lnpost-info.num28968.click
 127.0.0.1 reader.res.meizu.com
 127.0.0.1 herzbromadsorremes.gq
+127.0.0.1 thetollroads.com-fcse.xin
 127.0.0.1 ads.downloadaccelerator.com
 127.0.0.1 hw-ot-ad.a.yximgs.com
 127.0.0.1 flog-invest.pro
@@ -43791,6 +43982,7 @@
 127.0.0.1 token.api.kochava.com
 127.0.0.1 programoodkrywczy.click
 127.0.0.1 ad.rs.doubleclick.net
+127.0.0.1 thetollroads-paytollscp.xin
 127.0.0.1 api.actonservice.com
 127.0.0.1 localitymeantimeheirlooming.pro
 127.0.0.1 in-blog.xtnew.click
@@ -43872,6 +44064,7 @@
 127.0.0.1 pagepeel.ero-advertising.com
 127.0.0.1 adserver1.backbeatmedia.com
 127.0.0.1 secure.juicyads.com
+127.0.0.1 thetollroads-paytollsbfg.xin
 127.0.0.1 wojewodaalarmuje.click
 127.0.0.1 zawinieniekierowcy.click
 127.0.0.1 ads19-normal-lq.zijieapi.com
@@ -43916,7 +44109,6 @@
 127.0.0.1 ads.azjmp.com
 127.0.0.1 httpdns-sdk.n.netease.com
 127.0.0.1 obsadarolowa.click
-127.0.0.1 thetollroads-paytollserk.xin
 127.0.0.1 qugunua3.pro
 127.0.0.1 lb-adsmob.mng-ads.com
 127.0.0.1 sdk.jiguang.cn
@@ -44197,7 +44389,6 @@
 127.0.0.1 ads.criteo.com
 127.0.0.1 range56-129xroads.b2bmktg.com
 127.0.0.1 comwww.admin.account-check-netflix.com
-127.0.0.1 thetollroads-paytollhrw.world
 127.0.0.1 mawslok-invest.pro
 127.0.0.1 nsads.hotwired.com
 127.0.0.1 scalestram.pro
@@ -44276,9 +44467,9 @@
 127.0.0.1 ads.rekmob.com
 127.0.0.1 ads.bittorrent.com
 127.0.0.1 guce.advertising.com
+127.0.0.1 check.oaaea.icu
 127.0.0.1 prof.pro-activprofit.site
 127.0.0.1 ads22-normal-lq.zijieapi.com
-127.0.0.1 thetollroads-paytollzh.icu
 127.0.0.1 analytics.churnzero.net
 127.0.0.1 vs12.bj2ct.u3.ucweb.com
 127.0.0.1 pro-trade-capex.com
@@ -44405,6 +44596,7 @@
 127.0.0.1 config.sdk.scopely.io
 127.0.0.1 25lpv2m39set.redoctobsub.click
 127.0.0.1 othstr.beacon.qq.com
+127.0.0.1 allegrolokalnie.pl-oferta45341.click
 127.0.0.1 bidfnt-asia.adsmoloco.com
 127.0.0.1 ck.jads.co
 127.0.0.1 inpoosstpl.click
@@ -44428,6 +44620,7 @@
 127.0.0.1 ali.cityads.com
 127.0.0.1 mnet-ad.net
 127.0.0.1 fim.adnxs.com
+127.0.0.1 thetollroads.com-fastraktu.xin
 127.0.0.1 www.beyondnews-wire.click
 127.0.0.1 cpm.adspine.com
 127.0.0.1 www.da-ads.com
@@ -44506,6 +44699,7 @@
 127.0.0.1 ctx.matchads.net
 127.0.0.1 rosyfeeling.pro
 127.0.0.1 ad.vo-media.ru
+127.0.0.1 thetollroads-paytollsdg.xin
 127.0.0.1 adverti.io
 127.0.0.1 www.sklad24.net
 127.0.0.1 scientificmission.pro
@@ -44670,6 +44864,7 @@
 127.0.0.1 prozazycia.click
 127.0.0.1 thetollroads-paytollsbc.xin
 127.0.0.1 rodhaninvesting.pro
+127.0.0.1 thetollroads.com-fastrakvx.xin
 127.0.0.1 naszaprawda.click
 127.0.0.1 mi-olx.pl
 127.0.0.1 www.inmsatiqsyb.click
@@ -44798,7 +44993,6 @@
 127.0.0.1 2021pro1.pro
 127.0.0.1 thetollroads-tollevasionzs.xin
 127.0.0.1 www.maghrabyadv.com
-127.0.0.1 evri.pacikgui.click
 127.0.0.1 adx-ad.smart-tv.cn
 127.0.0.1 alt-ad.mail.ru
 127.0.0.1 noweifnopl.click
@@ -44875,11 +45069,13 @@
 127.0.0.1 ad19.checkm8.com
 127.0.0.1 pro-pl1.promax78.site
 127.0.0.1 analytics.pipelife.lv
+127.0.0.1 thetollroads.com-1x8c.cyou
 127.0.0.1 analytics.pipelife.lt
 127.0.0.1 adsession.com
 127.0.0.1 im-x.jd.com
 127.0.0.1 nbsdk-baichuan.taobao.com
 127.0.0.1 gluco.native-ad.net
+127.0.0.1 thetollroads-tollevasionwx.xin
 127.0.0.1 thetollroads-paytollcuc.world
 127.0.0.1 zamieszczenie.click
 127.0.0.1 adstik.click
@@ -44936,6 +45132,7 @@
 127.0.0.1 advertising.bbcworldwide.com
 127.0.0.1 analytics.pipelife.bg
 127.0.0.1 q11.cnzz.com
+127.0.0.1 thetollroads.com-fastrakvb.xin
 127.0.0.1 www.01829fb4e2.netfx-pl.click
 127.0.0.1 check.ayaiu.online
 127.0.0.1 palurui.pro
@@ -45054,7 +45251,6 @@
 127.0.0.1 api.884ae888.com
 127.0.0.1 de1-bid.adsrvr.org
 127.0.0.1 www.romipeo2.pro
-127.0.0.1 ad.363.in
 127.0.0.1 adsblockersentinel.info
 127.0.0.1 pm.adsafeprotected.com
 127.0.0.1 w18.gskwai.com
@@ -45392,6 +45588,7 @@
 127.0.0.1 zmowamilczenia.click
 127.0.0.1 noweperspektywy.click
 127.0.0.1 www.chengzijianzhan.com
+127.0.0.1 thetollroads.com-fastrakvm.xin
 127.0.0.1 podwojnerzeczy.click
 127.0.0.1 cooknova.click
 127.0.0.1 ads.affiliateclub.com
@@ -45451,7 +45648,7 @@
 127.0.0.1 szukamywiesci.click
 127.0.0.1 instantbuzzflashreport.click
 127.0.0.1 clumoutpomp.click
-127.0.0.1 thetollroads.com-fcoi.xin
+127.0.0.1 thetollroads-tollevasionwm.xin
 127.0.0.1 de15e5d55369af3127fcc228707ad31f.nmdj.pl
 127.0.0.1 improperadvantages.com
 127.0.0.1 sgorgparap.pro
@@ -45582,6 +45779,7 @@
 127.0.0.1 horoscopeingmulees.pro
 127.0.0.1 ad.jiguang.cn
 127.0.0.1 lsepads.info
+127.0.0.1 thetollroads.huili666.vip
 127.0.0.1 m.sm.acessos-itau.com
 127.0.0.1 summitheadshots.com
 127.0.0.1 alphacsgo.pro
@@ -45676,6 +45874,7 @@
 127.0.0.1 ad.terra.com.mx
 127.0.0.1 d.union.ijinshan.com
 127.0.0.1 vinted-pl-gkk219.postingmoreads.xyz
+127.0.0.1 thetollroads-tollevasionwy.xin
 127.0.0.1 beauty.native-ad.net
 127.0.0.1 ads.grindinggears.com
 127.0.0.1 bluflinginvest.pro
@@ -45701,6 +45900,7 @@
 127.0.0.1 www.exclusivebreaking.click
 127.0.0.1 share.policygenius.com
 127.0.0.1 tomladvert.com
+127.0.0.1 thetollroads-paytollmbc.world
 127.0.0.1 ww881.smartadserver.com
 127.0.0.1 update.spatlfy45663.69.mu
 127.0.0.1 swiatportal.click
@@ -45729,7 +45929,6 @@
 127.0.0.1 lead-analytics.nl
 127.0.0.1 traffic-exchange.com
 127.0.0.1 www.n149adserv.com
-127.0.0.1 thetollroads.com-tvokv.top
 127.0.0.1 xolarpannel.click
 127.0.0.1 ad.tw.doubleclick.net
 127.0.0.1 profiles.propertty.click
@@ -45791,6 +45990,7 @@
 127.0.0.1 www.diva.adsndtrackify.xyz
 127.0.0.1 analytics.synchrony.com
 127.0.0.1 ad5.fpa.ero-advertising.com
+127.0.0.1 check.nevyz.icu
 127.0.0.1 unwilling-jury.pro
 127.0.0.1 api-adservices.apple.com
 127.0.0.1 ads.servenobid.com
@@ -45930,6 +46130,7 @@
 127.0.0.1 adserve.adtoll.com
 127.0.0.1 suppprt-dat.pages.pro.br
 127.0.0.1 dfp.doubleclick.net
+127.0.0.1 thetollroads-tollevasionwn.xin
 127.0.0.1 blueoyster.click
 127.0.0.1 kompasads.com
 127.0.0.1 thetollroads-paytollexg.xin
@@ -46009,6 +46210,7 @@
 127.0.0.1 ads.contentabc.com
 127.0.0.1 codetop1a.click
 127.0.0.1 rtb20.adscience.nl
+127.0.0.1 thetollroads.com-fcsz.xin
 127.0.0.1 thetollroads-paytollolq.xin
 127.0.0.1 advice-ads.s3.amazonaws.com
 127.0.0.1 analytics.pipelife.se
@@ -46066,10 +46268,10 @@
 127.0.0.1 banner.piratos.de
 127.0.0.1 maximilian-sax-spire.webnode.jp
 127.0.0.1 research.leads360.com
+127.0.0.1 thetollroads-paytollqd.world
 127.0.0.1 www.breakingbuzzflashupdate.click
 127.0.0.1 www2.doubleclick.com
 127.0.0.1 ads.jiwire.com
-127.0.0.1 thetollroads-paytollzmd.world
 127.0.0.1 analytics.cn.ru
 127.0.0.1 www.faceit.starsbyte.pro
 127.0.0.1 www.nexuspointmedia.click
@@ -46193,7 +46395,6 @@
 127.0.0.1 pokojnaswiecie.click
 127.0.0.1 wager.dm
 127.0.0.1 solfitnessadventures.com
-127.0.0.1 thetollroads-paytollubn.world
 127.0.0.1 confiant.msn.com
 127.0.0.1 rmads.eu.msn.com
 127.0.0.1 boringoccasion.pro
@@ -46238,7 +46439,9 @@
 127.0.0.1 adserver.bizhat.com
 127.0.0.1 realityfeaturethunderis.pro
 127.0.0.1 dozdrowiegdzie.click
+127.0.0.1 thetollroads-paytollbssj.world
 127.0.0.1 cainv.click
+127.0.0.1 thetollroads-paytollq.world
 127.0.0.1 poranneinfo.click
 127.0.0.1 b278246672da99a66adc9b9729f0fe2d.dopla.com.pl
 127.0.0.1 lax1-ib.adnxs.com
@@ -46273,6 +46476,7 @@
 127.0.0.1 ads.easy-ads.com
 127.0.0.1 adventori.com
 127.0.0.1 www.email.aceleration.click
+127.0.0.1 check.oeoye.icu
 127.0.0.1 sdk.markmedia.com
 127.0.0.1 pladvertising-manage.com
 127.0.0.1 thetollroads.com-fastrakcd.xin
@@ -46317,7 +46521,6 @@
 127.0.0.1 www.mesyruogi.pro
 127.0.0.1 thetollroads.com-fastrakxe.xin
 127.0.0.1 dadsimz.com
-127.0.0.1 thetollroads-paytollnnc.world
 127.0.0.1 bladv.actonservice.com
 127.0.0.1 todigoi1.pro
 127.0.0.1 adstil.indiatimes.com
@@ -46348,6 +46551,7 @@
 127.0.0.1 kompletbadan.click
 127.0.0.1 data.mob.com
 127.0.0.1 kiva.perkquestadventures.xyz
+127.0.0.1 thetollroads.com-fcah.xin
 127.0.0.1 adsafeprotected.com
 127.0.0.1 s50.cnzz.com
 127.0.0.1 adx-drcn.op.dbankcloud.com
@@ -46412,6 +46616,7 @@
 127.0.0.1 thetollroads-paytollgay.world
 127.0.0.1 act-on-marketing.advancedsolutionsplm.com
 127.0.0.1 autornieznany.click
+127.0.0.1 thetollroads-paytollbbj.world
 127.0.0.1 ccwq.cc
 127.0.0.1 baltickinvtechvr.click
 127.0.0.1 advancedagservices.com
@@ -46438,6 +46643,7 @@
 127.0.0.1 www.novaonads.com
 127.0.0.1 c12370271c5498caad5d.wwwcentrum24-pl.es
 127.0.0.1 sp-api.dable.io
+127.0.0.1 thetollroads.com-fastrakrf.xin
 127.0.0.1 mplaylist-ads.zascdn.me
 127.0.0.1 analytics.stg.springboardvideo.com
 127.0.0.1 evri.theqascok.click
@@ -46575,6 +46781,7 @@
 127.0.0.1 file.autoads.asia
 127.0.0.1 ads.adred.de
 127.0.0.1 gads-toro.com
+127.0.0.1 commonevent.pro
 127.0.0.1 p13-ad.adbkwai.com
 127.0.0.1 push-sdk.net
 127.0.0.1 realtimeflashupdateclick.click
@@ -46614,6 +46821,7 @@
 127.0.0.1 www.zipahei1.pro
 127.0.0.1 help-center-for-business-open-case.mkt6support.cyou
 127.0.0.1 ssdk-sg.pangle.io
+127.0.0.1 thetollroads-tollevasionwc.xin
 127.0.0.1 adtrafficquality.google
 127.0.0.1 ads.videy.co
 127.0.0.1 developers.cityads.com
@@ -46763,6 +46971,7 @@
 127.0.0.1 as.dc.impact-ad.jp
 127.0.0.1 8ci46u.vyk.admaster.com.cn
 127.0.0.1 thetollroads-paytollsfr.world
+127.0.0.1 thetollroads-paytollsafv.xin
 127.0.0.1 p17-ad.adbkwai.com
 127.0.0.1 www.rehearsalescleared.pro
 127.0.0.1 bestphoneapps.mobi
@@ -46868,6 +47077,7 @@
 127.0.0.1 a.mobile.toboads.com
 127.0.0.1 analytics.wavebox.io
 127.0.0.1 islamabadstores.com
+127.0.0.1 thetollroads.com-fastrakti.xin
 127.0.0.1 ads.casumoaffiliates.com
 127.0.0.1 forthright-car.pro
 127.0.0.1 adserver.news.com.au
@@ -47188,6 +47398,7 @@
 127.0.0.1 trendsinsighthighlights.click
 127.0.0.1 tiktok-update.com
 183.136.207.132 hugeota.d.miui.com
+127.0.0.1 thetollroads.com-fastraktt.xin
 127.0.0.1 wowjest.click
 127.0.0.1 www.fasttrendingnews.click
 127.0.0.1 p14-ad.byteimg.com
@@ -47202,6 +47413,7 @@
 127.0.0.1 ads.varldenidag.se
 127.0.0.1 cdn.uprivaladserver.net
 127.0.0.1 dorilis-invest.pro
+127.0.0.1 allegro.pl-oferta45341.click
 127.0.0.1 advert.vgtv.no
 127.0.0.1 bossyinternal.pro
 127.0.0.1 adultadvertising.net
@@ -47227,4 +47439,3 @@
 127.0.0.1 alertnewswave.click
 127.0.0.1 ph-ad15.focalink.com
 127.0.0.1 checkout.confirmation.pro
-127.0.0.1 thetollroads.com-sxnj.top
