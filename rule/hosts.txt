@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2025-03-07 22:21:48（北京时间）
+# 更新时间于: 2025-03-08 10:31:37（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 127.0.0.1 c.sayhi.360.cn
@@ -72,6 +72,7 @@
 127.0.0.1 req.appads.com
 127.0.0.1 bill.agent.v-56.com
 127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 a.baidu.com
 127.0.0.1 au.w.inmobi.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.leadboltapps.net
@@ -960,6 +961,7 @@
 127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 jfdaily.adsame.com
 127.0.0.1 static.doubleclick.net
+127.0.0.1 ad-locus.com
 127.0.0.1 s95.cnzz.com
 127.0.0.1 livec.l.qq.com
 127.0.0.1 adfilter.imtt.qq.com
@@ -1020,6 +1022,7 @@
 127.0.0.1 ads.fetnet.net
 127.0.0.1 m.adpro.cn
 127.0.0.1 www.mmnetwork.mobi
+127.0.0.1 ad.adhouyi.cn
 127.0.0.1 a.tn.token-ad.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 ort.stsdk.vivo.com.cn
@@ -1256,6 +1259,7 @@
 127.0.0.1 rtb.adview.cn
 127.0.0.1 baofeng.m.cn.miaozhen.com
 127.0.0.1 www.adsame.com
+127.0.0.1 ad.363.in
 127.0.0.1 f.aty.sohu.com
 127.0.0.1 msga.cupid.iqiyi.com
 127.0.0.1 g.cn.miaozhen.com
@@ -19981,7 +19985,6 @@
 127.0.0.1 ads14-normal-lq.zijieapi.com
 127.0.0.1 ys2000.cdn.bcebos.com
 127.0.0.1 filter-eu.hueadsxml.com
-127.0.0.1 a.baidu.com
 127.0.0.1 razmokl-invest.pro
 127.0.0.1 banner.media-system.de
 127.0.0.1 www.mebugay3.pro
@@ -38034,7 +38037,6 @@
 127.0.0.1 www.adxcorp.kr
 127.0.0.1 med-api.admost.com
 127.0.0.1 educationedcomparisoned.pro
-127.0.0.1 ad-locus.com
 127.0.0.1 nobuhou1.pro
 127.0.0.1 ads0-normal-lf.zijieapi.com
 127.0.0.1 marchadvertisingnetwork5.com
@@ -41766,7 +41768,6 @@
 127.0.0.1 partner.olo.cz
 127.0.0.1 www.madserve.org
 127.0.0.1 mivideo.g.mi.com
-127.0.0.1 ad.adhouyi.cn
 127.0.0.1 www.mytruckadvisor.com
 127.0.0.1 users.api.jeeng.com
 127.0.0.1 dpd-pl.dsajj-dajqti12.pro
@@ -47914,7 +47915,6 @@
 127.0.0.1 de1-bid.adsrvr.org
 127.0.0.1 motm.adp.ca
 127.0.0.1 www.romipeo2.pro
-127.0.0.1 ad.363.in
 127.0.0.1 adsblockersentinel.info
 127.0.0.1 adx-ads-fr.heytapmobile.com
 127.0.0.1 wammukadsr.com
