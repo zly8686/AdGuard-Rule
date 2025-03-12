@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2025-03-11 22:23:45（北京时间）
+# 更新时间于: 2025-03-12 10:57:44（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 127.0.0.1 c.sayhi.360.cn
@@ -55,6 +55,7 @@
 127.0.0.1 push.pgl.qq.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 ggx.cmvideo.cn
+127.0.0.1 ad.dev.360.cn
 127.0.0.1 sdu.adwo.com
 127.0.0.1 adimg.mobile.sina.cn
 127.0.0.1 config.mobisage.cn
@@ -71,6 +72,7 @@
 127.0.0.1 req.appads.com
 127.0.0.1 bill.agent.v-56.com
 127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 a.baidu.com
 127.0.0.1 au.w.inmobi.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.leadboltapps.net
@@ -101,6 +103,7 @@
 127.0.0.1 cl2.webterren.com
 127.0.0.1 pub.funshion.com
 127.0.0.1 doubleclick.net
+127.0.0.1 ad.caiyunapp.com
 127.0.0.1 dfe.mic.mob.com
 127.0.0.1 log.qchannel03.cn
 127.0.0.1 app.appsflyer.com
@@ -650,6 +653,7 @@
 127.0.0.1 hzs13.cnzz.com
 127.0.0.1 t.ads.sohu.com
 127.0.0.1 report-stats.ad.jiguang.cn
+127.0.0.1 ad.api.moji.com
 127.0.0.1 wxsnsdy.tc.qq.com
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 zz.bdstatic.com
@@ -805,6 +809,7 @@
 127.0.0.1 adx.apiok.net
 127.0.0.1 jnn-pa.googleapis.com
 127.0.0.1 www3.smartadserver.com
+127.0.0.1 aaid.umeng.com
 127.0.0.1 kpstaticbj.wx.ckjr001.com
 127.0.0.1 mob.adwhirl.com
 127.0.0.1 download.adsage.com
@@ -957,6 +962,8 @@
 127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 jfdaily.adsame.com
 127.0.0.1 static.doubleclick.net
+127.0.0.1 ad-locus.com
+127.0.0.1 ad-bg.adwo.com
 127.0.0.1 s95.cnzz.com
 127.0.0.1 livec.l.qq.com
 127.0.0.1 adfilter.imtt.qq.com
@@ -1017,11 +1024,13 @@
 127.0.0.1 ads.fetnet.net
 127.0.0.1 m.adpro.cn
 127.0.0.1 www.mmnetwork.mobi
+127.0.0.1 ad.adhouyi.cn
 127.0.0.1 a.tn.token-ad.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 ort.stsdk.vivo.com.cn
 127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 h-adashx.ut.youku.com
+127.0.0.1 ad-delivery.net
 127.0.0.1 lc.getui.com
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 config.inmobi.com
@@ -1253,6 +1262,7 @@
 127.0.0.1 rtb.adview.cn
 127.0.0.1 baofeng.m.cn.miaozhen.com
 127.0.0.1 www.adsame.com
+127.0.0.1 ad.363.in
 127.0.0.1 f.aty.sohu.com
 127.0.0.1 msga.cupid.iqiyi.com
 127.0.0.1 g.cn.miaozhen.com
@@ -1287,6 +1297,7 @@
 127.0.0.1 sdkconfig.play.aiseet.atianqi.com
 127.0.0.1 adapi.lenovogame.com
 127.0.0.1 rt.applovin.com
+127.0.0.1 ad-count.adwo.com
 127.0.0.1 hzs12.cnzz.com
 127.0.0.1 ad.ikonke.com
 127.0.0.1 bdplus.baidu.com
@@ -20004,7 +20015,6 @@
 127.0.0.1 ads14-normal-lq.zijieapi.com
 127.0.0.1 ys2000.cdn.bcebos.com
 127.0.0.1 filter-eu.hueadsxml.com
-127.0.0.1 a.baidu.com
 127.0.0.1 razmokl-invest.pro
 127.0.0.1 banner.media-system.de
 127.0.0.1 www.mebugay3.pro
@@ -25203,7 +25213,6 @@
 127.0.0.1 pay-click.ru
 127.0.0.1 workatadvise.com
 127.0.0.1 topadsservices.com
-127.0.0.1 ad-count.adwo.com
 127.0.0.1 adviceth.api.useinsider.com
 127.0.0.1 share.desmoinesregister.com
 127.0.0.1 www.api-olx.place-ssl.shop
@@ -28611,7 +28620,6 @@
 127.0.0.1 adv.resto.kharkov.ua
 127.0.0.1 adm67dh9m.pages.pro.br
 127.0.0.1 ads28-normal.zijieapi.com
-127.0.0.1 ad-bg.adwo.com
 127.0.0.1 vs16.bj2cu.u3.ucweb.com
 127.0.0.1 ad.kau.li
 127.0.0.1 ff.doubleclick.net
@@ -35102,7 +35110,6 @@
 127.0.0.1 nomad1cno.site
 127.0.0.1 analytics.floris.amsterdam
 127.0.0.1 www.de-vinted.check-pay.info
-127.0.0.1 ad.caiyunapp.com
 127.0.0.1 ready-for-download.com
 127.0.0.1 mtgylw.raadshop.com
 127.0.0.1 psd-ad.top
@@ -37852,7 +37859,6 @@
 127.0.0.1 cdn.bidadx.com
 127.0.0.1 www.djaxadserver.com
 127.0.0.1 adsdkapi.dxys.pro
-127.0.0.1 aaid.umeng.com
 127.0.0.1 games.mochiads.com
 127.0.0.1 download.milkpot.com
 127.0.0.1 scripts.advmusic.com
@@ -38060,7 +38066,6 @@
 127.0.0.1 www.adxcorp.kr
 127.0.0.1 med-api.admost.com
 127.0.0.1 educationedcomparisoned.pro
-127.0.0.1 ad-locus.com
 127.0.0.1 nobuhou1.pro
 127.0.0.1 ads0-normal-lf.zijieapi.com
 127.0.0.1 marchadvertisingnetwork5.com
@@ -38865,7 +38870,6 @@
 127.0.0.1 adsb4track.com
 127.0.0.1 a8cv.open-cage.com
 127.0.0.1 partner.affilbox.com
-127.0.0.1 ad.dev.360.cn
 127.0.0.1 vs9.bj2cu.u3.ucweb.com
 127.0.0.1 ads2000.hw.net
 127.0.0.1 open.adsaide.cn
@@ -41797,7 +41801,6 @@
 127.0.0.1 partner.olo.cz
 127.0.0.1 www.madserve.org
 127.0.0.1 mivideo.g.mi.com
-127.0.0.1 ad.adhouyi.cn
 127.0.0.1 www.mytruckadvisor.com
 127.0.0.1 users.api.jeeng.com
 127.0.0.1 dpd-pl.dsajj-dajqti12.pro
@@ -43281,7 +43284,6 @@
 127.0.0.1 pbs2418030.adspsp.com
 127.0.0.1 trc.contextualadv.com
 127.0.0.1 search.anonymous.ads.brave.com
-127.0.0.1 ad.api.moji.com
 127.0.0.1 static.trafficjunky.net
 127.0.0.1 www.topads.ero-advertising.com
 127.0.0.1 api.mediation.amberweather.com
@@ -47659,7 +47661,6 @@
 127.0.0.1 ad4.contentabc.com
 127.0.0.1 qualityleadskeitaro.website
 127.0.0.1 open-iflow.meizu.com
-127.0.0.1 ad-delivery.net
 127.0.0.1 acclaimed-travel.pro
 127.0.0.1 awuse4.advanced-web-analytics.com
 127.0.0.1 vanderebony.pro
@@ -47928,7 +47929,6 @@
 127.0.0.1 de1-bid.adsrvr.org
 127.0.0.1 motm.adp.ca
 127.0.0.1 www.romipeo2.pro
-127.0.0.1 ad.363.in
 127.0.0.1 adsblockersentinel.info
 127.0.0.1 adx-ads-fr.heytapmobile.com
 127.0.0.1 wammukadsr.com
