@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2025-06-16 22:26:53（北京时间）
+# 更新时间于: 2025-06-17 11:20:35（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 127.0.0.1 c.sayhi.360.cn
@@ -2462,6 +2462,7 @@
 0.0.0.0 r.turn.com
 0.0.0.0 lib.pgmcdn.com
 0.0.0.0 common.ssl2.duapps.com
+0.0.0.0 doubleadserve.com
 0.0.0.0 pasta.da.duapps.com
 0.0.0.0 operatorexperienced.com
 0.0.0.0 loopassume.com
@@ -2884,6 +2885,7 @@
 0.0.0.0 otnolatrnup.com
 0.0.0.0 data.ads.heytapmobi.com
 0.0.0.0 adecn.com
+0.0.0.0 amz-ad.a8.net
 0.0.0.0 fp.advertising.microsoft.com
 0.0.0.0 static.dtadnetwork.com
 0.0.0.0 adbutler.de
@@ -4403,6 +4405,7 @@
 0.0.0.0 obnoljac.com
 0.0.0.0 a4.tl
 0.0.0.0 assemblyexchange.com
+0.0.0.0 cdn77.cityads.com
 0.0.0.0 grafana.staging.leanplum.com
 0.0.0.0 demo.wootric.com
 0.0.0.0 acuityplatform.com
@@ -6968,6 +6971,7 @@
 0.0.0.0 app.logrocket.com
 0.0.0.0 adswizz.com
 0.0.0.0 s-static.innovid.com
+0.0.0.0 cdn.serving.ad.org.vn
 0.0.0.0 ozmbzowg.com
 0.0.0.0 learnadmin.marketo.com
 0.0.0.0 openx.angelsgroup.org.uk
@@ -8050,6 +8054,7 @@
 0.0.0.0 www.artsai.com
 0.0.0.0 www.djaxadserver.com
 0.0.0.0 nytimes-d.openx.net
+0.0.0.0 cdn.mclick.mobi
 0.0.0.0 cdn45892007.ahacdn.me
 0.0.0.0 delivery.lavanetwork.net
 0.0.0.0 c.deployads.com
@@ -8759,6 +8764,7 @@
 0.0.0.0 glaignicmo.com
 0.0.0.0 technotology.com
 0.0.0.0 file-subiz.com
+0.0.0.0 click.vieon.vn
 0.0.0.0 slidbecauseemerald.com
 0.0.0.0 r.ivstracker.net
 0.0.0.0 ads.heyzap.com
@@ -10186,6 +10192,7 @@
 0.0.0.0 cdn40657009.ahacdn.me
 0.0.0.0 bannermarkt.nl
 0.0.0.0 nspapi.aiservice.vn
+0.0.0.0 cdn.proadscdn.com
 0.0.0.0 at.umeng.com
 0.0.0.0 jact.atdmt.com
 0.0.0.0 urgerrebasis.com
@@ -10885,7 +10892,6 @@
 0.0.0.0 apptornado.com
 0.0.0.0 hawkyeye5ssnd.com
 0.0.0.0 malatiswirled.com
-0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 m2.ai
 0.0.0.0 vietnamnetad.vn
 0.0.0.0 img.mobon.net
@@ -11628,7 +11634,6 @@
 0.0.0.0 stb.bfmio.com
 0.0.0.0 my.outbrain.com
 0.0.0.0 promo.badoink.com
-0.0.0.0 api.geniee.jp
 0.0.0.0 na-dmpsync.3lift.com
 0.0.0.0 logperf.vnexpress.net
 0.0.0.0 healflowers.com
@@ -11741,7 +11746,6 @@
 0.0.0.0 akxopgjuw.com
 0.0.0.0 www.voodoo-analytics.io
 0.0.0.0 cdn.mobilefuse.com
-0.0.0.0 aqua-adserver.com
 0.0.0.0 relievedgeoff.com
 0.0.0.0 qxadsk.com
 0.0.0.0 sensenetworks.com
@@ -12932,6 +12936,7 @@
 0.0.0.0 measure.pti.com.vn
 0.0.0.0 media.admob.com
 0.0.0.0 bridesmaidspamimmortal.com
+0.0.0.0 doublepimpads.com
 0.0.0.0 1ts21.top
 0.0.0.0 c.aaxads.com
 0.0.0.0 img.ads.tvb.com
@@ -13478,6 +13483,7 @@
 0.0.0.0 analytics.localytics.com
 0.0.0.0 stiad.eclick.vn
 0.0.0.0 checkbookdisgusting.com
+0.0.0.0 cdn.autoads.asia
 0.0.0.0 lem-computers.net
 0.0.0.0 dashapi.chartboost.com
 0.0.0.0 adprofile.net
@@ -14455,6 +14461,7 @@
 0.0.0.0 ef.alcmpn.com
 0.0.0.0 ahkoqzxuzsf.com
 0.0.0.0 cdn-t.amazon-adsystem.com
+0.0.0.0 adserve.mahimeta.com
 0.0.0.0 coxiesthubble.com
 0.0.0.0 usedirect.adsrvr.org
 0.0.0.0 dagd0kz7sipfl.cloudfront.net
@@ -14924,7 +14931,6 @@
 0.0.0.0 us.adserver.yahoo.com
 0.0.0.0 upi.adblade.com
 0.0.0.0 pixel.tapad.com
-0.0.0.0 10.afs.googleadservices.com
 0.0.0.0 user.trackpush.com
 0.0.0.0 alexisceilingrelease.com
 0.0.0.0 imp.m.ambientplatform.vn
@@ -15740,6 +15746,7 @@
 0.0.0.0 sp.alcmpn.com
 0.0.0.0 dist.belnk.com
 0.0.0.0 2445march2024.com
+0.0.0.0 doubleclick.de
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 partnercash.de
 0.0.0.0 cdn.indexww.com
@@ -16316,7 +16323,6 @@
 0.0.0.0 prebid.technoratimedia.com
 0.0.0.0 skylink.vn
 0.0.0.0 publishers.adasiaholdings.com
-0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 groumaux.net
 0.0.0.0 broadboundary.com
 0.0.0.0 prg.smartadserver.com
@@ -17015,6 +17021,7 @@
 0.0.0.0 simplewebanalysis.com
 0.0.0.0 google-shopping-v2.sapoapps.vn
 0.0.0.0 assets.triplelift.com
+0.0.0.0 doubleclick.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 www.lightboxcdn.com
 0.0.0.0 cdn.truffle.bid
@@ -17321,7 +17328,6 @@
 0.0.0.0 psausuck.net
 0.0.0.0 cdnads.com
 0.0.0.0 api.stickers.duapps.com
-0.0.0.0 api.ematicsolutions.com
 0.0.0.0 www.anymad.com
 0.0.0.0 yummy2.consumable.com
 0.0.0.0 ad.980x.com
@@ -17977,6 +17983,7 @@
 0.0.0.0 intranet.dcorp.com.vn
 0.0.0.0 onemboaran.com
 0.0.0.0 paid.outbrain.com
+0.0.0.0 cdn5.proadscdn.com
 0.0.0.0 itriyokj.com
 0.0.0.0 mmccint.com
 0.0.0.0 zoover.adtrackers.net
@@ -18271,6 +18278,7 @@
 0.0.0.0 adition.net
 0.0.0.0 ads.exosrv.com
 0.0.0.0 rtb2-eu.e-volution.ai
+0.0.0.0 cdn.cityads.com
 0.0.0.0 sf960.com
 0.0.0.0 blueprints.iad.apple.com
 0.0.0.0 statsperformdev.com
@@ -20333,7 +20341,6 @@
 0.0.0.0 www.harmoniousnest.pro
 0.0.0.0 charmingpuzzle.pro
 0.0.0.0 dentisepar.pro
-0.0.0.0 doubleadserve.com
 0.0.0.0 res4.hubcloud.com.cn
 0.0.0.0 resugricol.pro
 0.0.0.0 www.avvinsconv.pro
@@ -20968,7 +20975,6 @@
 0.0.0.0 www.scissisoco.pro
 0.0.0.0 www.sparkingsapphire.pro
 0.0.0.0 www.wordwhirls.pro
-0.0.0.0 amz-ad.a8.net
 0.0.0.0 counter.ksosoft.com
 0.0.0.0 guerrbairn.pro
 0.0.0.0 z13.cnzz.com
@@ -23116,7 +23122,6 @@
 0.0.0.0 ds.api.baifendian.com
 0.0.0.0 blustghind.pro
 0.0.0.0 www.blackcloudbluelan.pro
-0.0.0.0 cdn77.cityads.com
 0.0.0.0 traffic.getmyads.com
 0.0.0.0 www.lottery.tresdor.com
 0.0.0.0 ad.wabtec.com
@@ -26792,7 +26797,6 @@
 0.0.0.0 s1.adsplay.in
 0.0.0.0 chieraquot.pro
 0.0.0.0 aringdipos.pro
-0.0.0.0 cdn.serving.ad.org.vn
 0.0.0.0 www.nonagmotob.pro
 0.0.0.0 www.wisteriabull.pro
 0.0.0.0 sconcaeros.pro
@@ -28409,7 +28413,6 @@
 0.0.0.0 www.balesunwhi.pro
 0.0.0.0 spiritedmouflon.pro
 0.0.0.0 ads.sun.com
-0.0.0.0 cdn.mclick.mobi
 0.0.0.0 etl.xlmc.sec.miui.com
 0.0.0.0 cuestempace.pro
 0.0.0.0 precisecollie.pro
@@ -29448,7 +29451,6 @@
 0.0.0.0 pispidiplo.pro
 0.0.0.0 vendiodiar.pro
 0.0.0.0 acousticspider.pro
-0.0.0.0 click.vieon.vn
 0.0.0.0 paraccalci.pro
 0.0.0.0 progesempl.pro
 0.0.0.0 unrelinstr.pro
@@ -31437,7 +31439,6 @@
 0.0.0.0 ipinyou.cm.admaster.com.cn
 0.0.0.0 www.disaltste.pro
 0.0.0.0 infalundis.pro
-0.0.0.0 cdn.proadscdn.com
 0.0.0.0 static.avads.net
 0.0.0.0 www.possicontr.pro
 0.0.0.0 adf6.adf6.com
@@ -33364,6 +33365,7 @@
 0.0.0.0 velvetwhisk.pro
 0.0.0.0 www.raccacorra.pro
 0.0.0.0 ads.webcafe.bg
+0.0.0.0 api.geniee.jp
 0.0.0.0 www.keratvitto.pro
 0.0.0.0 www.bluesparrow.pro
 0.0.0.0 www.dia-traffic.com
@@ -38979,7 +38981,6 @@
 0.0.0.0 bradseguros.jrnidev.eu.looker.com
 0.0.0.0 vivacioustide.pro
 0.0.0.0 sorprprodu.pro
-0.0.0.0 doubleclick.de
 0.0.0.0 stanngangr.pro
 0.0.0.0 ads.nordichardware.se
 0.0.0.0 www.overlrifle.pro
@@ -39795,6 +39796,7 @@
 0.0.0.0 www.aleggsagli.pro
 0.0.0.0 gigglysprout.pro
 0.0.0.0 www.atomicnuclearanalysis.pro
+0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 statuv.metaxads.com
 0.0.0.0 www.charmingwordshub.pro
 0.0.0.0 www.grazinggopher.pro
@@ -40816,7 +40818,6 @@
 0.0.0.0 unsaljaspo.pro
 0.0.0.0 www.navigestre.pro
 0.0.0.0 adsvidsdouble.com
-0.0.0.0 doubleclick.com
 0.0.0.0 happyglimpser.pro
 0.0.0.0 www.rifabgermo.pro
 0.0.0.0 v2.green-ads.net
@@ -41212,6 +41213,7 @@
 0.0.0.0 capcityadvcom.112.2o7.net
 0.0.0.0 tongji.yicha.cn
 0.0.0.0 www.delightfulscorpion.pro
+0.0.0.0 api.ematicsolutions.com
 0.0.0.0 www.percuholop.pro
 0.0.0.0 castoexcus.pro
 0.0.0.0 www.rinvoanamn.pro
@@ -42573,7 +42575,6 @@
 0.0.0.0 giddyglitters.pro
 0.0.0.0 www.insalimbru.pro
 0.0.0.0 dermalitte.pro
-0.0.0.0 cdn.cityads.com
 0.0.0.0 www.mercifultiger.pro
 0.0.0.0 levigrethr.pro
 0.0.0.0 rasencrede.pro
@@ -56886,6 +56887,7 @@
 0.0.0.0 ads8.fpt.vn
 0.0.0.0 stylometro.pro
 0.0.0.0 bafybeieinfniokbzasdkpwazctmq3cgmzg3th4v44dkrjf3abl4o2zmjxy.ipfs.dweb.link
+0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 ads.mediatwo.com
 0.0.0.0 www.happychord.pro
 0.0.0.0 laughinggiraffe.pro
@@ -57945,6 +57947,7 @@
 0.0.0.0 openstorage.ad.cmvideo.cn
 0.0.0.0 ns2.cnzz.com
 0.0.0.0 nados-lb-iad.moatads.com
+0.0.0.0 aqua-adserver.com
 0.0.0.0 www.jinshcoinf.pro
 0.0.0.0 whitelinkplumapp.pro
 0.0.0.0 www.lamentrans.pro
@@ -59630,7 +59633,6 @@
 0.0.0.0 www.effinaccec.pro
 0.0.0.0 incrediblejaybird.pro
 0.0.0.0 www.cfyrjtaebnxt.pro
-0.0.0.0 doublepimpads.com
 0.0.0.0 apocrrappe.pro
 0.0.0.0 incruretin.pro
 0.0.0.0 protectionsessionactivitiesadvanced.top
@@ -60277,7 +60279,6 @@
 0.0.0.0 tagozuu5.pro
 0.0.0.0 debonairoriole.pro
 0.0.0.0 www.martyungle.pro
-0.0.0.0 cdn.autoads.asia
 0.0.0.0 realmchord.pro
 0.0.0.0 www.affetcocoa.pro
 0.0.0.0 edifiscagl.pro
@@ -61577,7 +61578,6 @@
 0.0.0.0 cedessmori.pro
 0.0.0.0 api.kostprice.com
 0.0.0.0 eroinattec.pro
-0.0.0.0 adserve.mahimeta.com
 0.0.0.0 www.quietvicugna.pro
 0.0.0.0 dilodiste.pro
 0.0.0.0 cdn.adsquirrel.ai
@@ -62193,6 +62193,7 @@
 0.0.0.0 rtb.adventurefeeds.com
 0.0.0.0 adx.admaster.com.cn
 0.0.0.0 fluitreaga.pro
+0.0.0.0 10.afs.googleadservices.com
 0.0.0.0 cadsuta.net
 0.0.0.0 unrecespur.pro
 0.0.0.0 ssqalpoxsvid.pro
@@ -66437,7 +66438,6 @@
 0.0.0.0 joyfuldrizzle.pro
 0.0.0.0 ww2026.smartadserver.com
 0.0.0.0 shadowwildcloud.pro
-0.0.0.0 cdn5.proadscdn.com
 0.0.0.0 cls.ad-tech.ru
 0.0.0.0 ads-2473g.iionads.com
 0.0.0.0 unfitstecc.pro
