@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2025-09-02 22:25:34（北京时间）
+# 更新时间于: 2025-09-03 10:58:40（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 127.0.0.1 c.sayhi.360.cn
@@ -1930,6 +1930,7 @@
 0.0.0.0 itop.cz
 0.0.0.0 bahmemohod.com
 0.0.0.0 log.btopenworld.com
+0.0.0.0 adstmanger.djaxadserver.com
 0.0.0.0 stereotypedsugar.com
 0.0.0.0 ads.livetv684.me
 0.0.0.0 pub.adflex.vn
@@ -2432,7 +2433,6 @@
 0.0.0.0 sc.pages03.net
 0.0.0.0 w.staging.sharethis.com
 0.0.0.0 logs.bilsyndication.com
-0.0.0.0 a.vserv.mobi
 0.0.0.0 mypagerank.net
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 tracker-mw-zlivestream.zapps.vn
@@ -7293,6 +7293,7 @@
 0.0.0.0 lg3.media.net
 0.0.0.0 img.accesstrade.net
 0.0.0.0 p278432.clksite.com
+0.0.0.0 adserver-toy.adtechjp.com
 0.0.0.0 pp.lp4.io
 0.0.0.0 matomo.bantheme.xyz
 0.0.0.0 ailab.criteo.com
@@ -7874,6 +7875,7 @@
 0.0.0.0 mplaylist-ads.zadn.vn
 0.0.0.0 www.your-notice.com
 0.0.0.0 tumblebit.com
+0.0.0.0 adserver.adtechjp.com
 0.0.0.0 cdn.impactserving.com
 0.0.0.0 www.themoneytizer.com
 0.0.0.0 xoom-ads.com
@@ -8134,7 +8136,6 @@
 0.0.0.0 www.artsai.com
 0.0.0.0 www.djaxadserver.com
 0.0.0.0 nytimes-d.openx.net
-0.0.0.0 cdn.mclick.mobi
 0.0.0.0 cdn45892007.ahacdn.me
 0.0.0.0 delivery.lavanetwork.net
 0.0.0.0 c.deployads.com
@@ -9032,6 +9033,7 @@
 0.0.0.0 log.ncaudienceexchange.com
 0.0.0.0 100008436.collect.igodigital.com
 0.0.0.0 rngpaluydont.com
+0.0.0.0 ads2.servebom.com
 0.0.0.0 ntvk1.ru
 0.0.0.0 ips-img.iperceptions.com
 0.0.0.0 vast.mathtag.com
@@ -10081,6 +10083,7 @@
 0.0.0.0 zpefriam.com
 0.0.0.0 x.everesttech.net
 0.0.0.0 mediation.adpushup.com
+0.0.0.0 adst.djaxadserver.com
 0.0.0.0 ocixbjnnmabufn.com
 0.0.0.0 ads.bid
 0.0.0.0 gallery.gumgum.com
@@ -12914,7 +12917,6 @@
 0.0.0.0 config.samsungads.com
 0.0.0.0 cwqljsecvr.com
 0.0.0.0 readserver.net
-0.0.0.0 dead-put.com
 0.0.0.0 gs.adspeed.net
 0.0.0.0 cdn.adt545.net
 0.0.0.0 clck.adskeeper.com
@@ -12952,7 +12954,6 @@
 0.0.0.0 lambingsyddir.com
 0.0.0.0 sharepointads.com
 0.0.0.0 js-sec.indexww.com
-0.0.0.0 dads.wedobest.com.cn
 0.0.0.0 outtimburrtor.com
 0.0.0.0 hkilops.com
 0.0.0.0 w.inmobi.com
@@ -13620,7 +13621,6 @@
 0.0.0.0 analytics.localytics.com
 0.0.0.0 stiad.eclick.vn
 0.0.0.0 checkbookdisgusting.com
-0.0.0.0 cdn.autoads.asia
 0.0.0.0 lem-computers.net
 0.0.0.0 dashapi.chartboost.com
 0.0.0.0 adprofile.net
@@ -18191,7 +18191,6 @@
 0.0.0.0 intranet.dcorp.com.vn
 0.0.0.0 onemboaran.com
 0.0.0.0 paid.outbrain.com
-0.0.0.0 cdn5.proadscdn.com
 0.0.0.0 itriyokj.com
 0.0.0.0 mmccint.com
 0.0.0.0 zoover.adtrackers.net
@@ -18489,7 +18488,6 @@
 0.0.0.0 adition.net
 0.0.0.0 ads.exosrv.com
 0.0.0.0 rtb2-eu.e-volution.ai
-0.0.0.0 cdn.cityads.com
 0.0.0.0 sf960.com
 0.0.0.0 blueprints.iad.apple.com
 0.0.0.0 statsperformdev.com
@@ -19568,7 +19566,6 @@
 0.0.0.0 ads.web1tv.de
 0.0.0.0 salegannul.pro
 0.0.0.0 www.researaspe.pro
-0.0.0.0 adstmanger.djaxadserver.com
 0.0.0.0 www.acclastern.pro
 0.0.0.0 www.talasnovigo.pro
 0.0.0.0 peritrivol.pro
@@ -25859,6 +25856,7 @@
 0.0.0.0 discodissu.pro
 0.0.0.0 www.roaringturaco.pro
 0.0.0.0 ads.sun.com
+0.0.0.0 cdn.mclick.mobi
 0.0.0.0 etl.xlmc.sec.miui.com
 0.0.0.0 cuestempace.pro
 0.0.0.0 precisecollie.pro
@@ -30567,6 +30565,7 @@
 0.0.0.0 api.proba.ai
 0.0.0.0 protogranu.pro
 0.0.0.0 infildeute.pro
+0.0.0.0 dead-put.com
 0.0.0.0 idealisticmarkhor.pro
 0.0.0.0 supercirco.pro
 0.0.0.0 banner.adserverpub.com
@@ -30615,6 +30614,7 @@
 0.0.0.0 contact-advertising2025.site
 0.0.0.0 www.comettrailblazespath.pro
 0.0.0.0 www.purgacarpi.pro
+0.0.0.0 dads.wedobest.com.cn
 0.0.0.0 circorimpi.pro
 0.0.0.0 www.inoltrindo.pro
 0.0.0.0 energspazz.pro
@@ -42458,7 +42458,6 @@
 0.0.0.0 steadfastcougar.pro
 0.0.0.0 www.zestysundae.pro
 0.0.0.0 jserr.cnzz.com
-0.0.0.0 adserver-toy.adtechjp.com
 0.0.0.0 nicenisubzo.pro
 0.0.0.0 disolarron.pro
 0.0.0.0 www.ricomsnamo.pro
@@ -48692,6 +48691,7 @@
 0.0.0.0 www.riletvulca.pro
 0.0.0.0 debonairoriole.pro
 0.0.0.0 www.purringmayfly.pro
+0.0.0.0 cdn.autoads.asia
 0.0.0.0 realmchord.pro
 0.0.0.0 www.affetcocoa.pro
 0.0.0.0 edifiscagl.pro
@@ -54895,6 +54895,7 @@
 0.0.0.0 2fbanners.ero-advertising.com
 0.0.0.0 www.acchicartw.pro
 0.0.0.0 ischericon.pro
+0.0.0.0 a.vserv.mobi
 0.0.0.0 ads.usersupportbusiness.site
 0.0.0.0 subybiu1.pro
 0.0.0.0 www.lyricalbloodhound.pro
@@ -60407,7 +60408,6 @@
 0.0.0.0 svinacelia.pro
 0.0.0.0 www.acervproli.pro
 0.0.0.0 ad2.on.cc
-0.0.0.0 adserver.adtechjp.com
 0.0.0.0 analytics.santander.co.uk
 0.0.0.0 cloudo.pro
 0.0.0.0 www.pigwiavval.pro
@@ -61613,7 +61613,6 @@
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 ads.yankscash.com
 0.0.0.0 www.jemafya3.pro
-0.0.0.0 ads2.servebom.com
 0.0.0.0 evapovendi.pro
 0.0.0.0 www.brabablood.pro
 0.0.0.0 www.punkigaste.pro
@@ -62646,7 +62645,6 @@
 0.0.0.0 www.dreamchimerser.pro
 0.0.0.0 www.uppishmanatee.pro
 0.0.0.0 analytics.services.kirra.nl
-0.0.0.0 adst.djaxadserver.com
 0.0.0.0 stomaaccom.pro
 0.0.0.0 kneecclism.pro
 0.0.0.0 banner.5giay.vn
@@ -70745,6 +70743,7 @@
 0.0.0.0 cybernexo.pro
 0.0.0.0 disregesti.pro
 0.0.0.0 dermalitte.pro
+0.0.0.0 cdn.cityads.com
 0.0.0.0 gasiesteno.pro
 0.0.0.0 quirkycormorant.pro
 0.0.0.0 prosochatt.pro
@@ -87915,6 +87914,7 @@
 0.0.0.0 tenolia1.pro
 0.0.0.0 antipinfar.pro
 0.0.0.0 shadowwildcloud.pro
+0.0.0.0 cdn5.proadscdn.com
 0.0.0.0 www.optiosvegl.pro
 0.0.0.0 unfitstecc.pro
 0.0.0.0 epicdiscovery.pro
