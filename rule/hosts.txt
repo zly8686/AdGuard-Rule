@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2026-01-06 22:29:58（北京时间）
+# 更新时间于: 2026-01-07 11:43:03（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 127.0.0.1 c.sayhi.360.cn
@@ -1990,6 +1990,7 @@
 0.0.0.0 ads.boursorama.com
 0.0.0.0 api.placed.com
 0.0.0.0 ad3.apx.appier.net
+0.0.0.0 api.ad.smaato.net
 0.0.0.0 slckg-kqe2e.ads.tremorhub.com
 0.0.0.0 ads.appsgeyser.com
 0.0.0.0 ads.clickability.com
@@ -2156,6 +2157,7 @@
 0.0.0.0 euniverseads.com
 0.0.0.0 ottimalbeg.pro
 0.0.0.0 hexusads.fluent.ltd.uk
+0.0.0.0 adlog.flurry.com
 0.0.0.0 adsnative.com
 0.0.0.0 mcdp-sadc1.outbrain.com
 0.0.0.0 vs8.bj2cu.u3.ucweb.com
@@ -2453,6 +2455,7 @@
 0.0.0.0 adtgs.adk2.co
 0.0.0.0 openads.nightlifemagazine.ca
 0.0.0.0 tynavogrows-pro.com
+0.0.0.0 adservex.media.net
 0.0.0.0 ad9.checkm8.com
 0.0.0.0 ad.yieldmanager.com
 0.0.0.0 t-flow.flyme.cn
@@ -2649,6 +2652,7 @@
 0.0.0.0 advertisingbox.com
 0.0.0.0 webads.nl
 0.0.0.0 www10.indiads.com
+0.0.0.0 videoads.hotstar.com
 0.0.0.0 newsfeed-drcn.cloud.dbankcloud.com
 0.0.0.0 v29-ad.ixigua.com
 0.0.0.0 loadsabingo.com
@@ -2809,6 +2813,7 @@
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
 0.0.0.0 p9.tribution.mobi
 0.0.0.0 stream.snssdk.com
+0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 x.jd.com
 0.0.0.0 ads2-normal-lf.zijieapi.com
 0.0.0.0 p8-ad-sign.byteimg.com
@@ -2853,6 +2858,7 @@
 0.0.0.0 syndication-adblock.exoclick.com
 0.0.0.0 25gtest.bj2cu.u3.ucweb.com
 0.0.0.0 sax4.sina.com.cn
+0.0.0.0 stsdk.vivoglobal.com
 0.0.0.0 mobi.oleviet777.com
 0.0.0.0 adx.vn
 0.0.0.0 click.tianyaui.com
@@ -2900,6 +2906,7 @@
 0.0.0.0 tt4.agrantsem.com
 0.0.0.0 gw-rv.iads.unity3d.com
 0.0.0.0 www.bitumkeesh.pro
+0.0.0.0 rabbit.tg.meitu.com
 0.0.0.0 ads.program3.com
 0.0.0.0 infiomisna.pro
 0.0.0.0 ads.api.fakeloc.cc
@@ -4042,6 +4049,7 @@
 0.0.0.0 ads.rootzoo.com
 0.0.0.0 yepads.com
 0.0.0.0 gw.365you.com
+0.0.0.0 api.optmnstr.com
 0.0.0.0 w25.gskwai.com
 0.0.0.0 adservice.google.com.au
 0.0.0.0 logicfreumond.pro
@@ -4362,6 +4370,7 @@
 0.0.0.0 analytics-lgs.corebridgefinancial.com
 0.0.0.0 xn--pan-ei31e.xn--baidu-jm6h.com
 0.0.0.0 api.monedata.io
+0.0.0.0 get.optad360.io
 0.0.0.0 ad28.checkm8.com
 0.0.0.0 tel3adv.112.2o7.net
 0.0.0.0 ad.insightexpressai.com
@@ -4908,6 +4917,7 @@
 0.0.0.0 wxsnsdy.video.qq.com
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 www.invest-pro-ai.net
+0.0.0.0 users.api.jeeng.com
 0.0.0.0 rtb2.adscience.nl
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 adapi.gunosy.com
@@ -5454,6 +5464,7 @@
 0.0.0.0 api.aiclk.com
 0.0.0.0 ebiads.ebiuniverse.com
 0.0.0.0 www.mydelivery-update.com
+0.0.0.0 xacthuc.autoads.asia
 0.0.0.0 adimages.sina.com.hk
 0.0.0.0 j.exit-ad.com
 0.0.0.0 adsmartgetbes.datads.cn
@@ -5530,6 +5541,7 @@
 0.0.0.0 tr-eu.adsmoloco.com
 0.0.0.0 viqiyi.admaster.com.cn
 0.0.0.0 islamnostr.pro
+0.0.0.0 ads.api.vungle.com
 0.0.0.0 p21-ad.adkwai.com
 0.0.0.0 aphookkensidah.pro
 0.0.0.0 www.imbrudiphe.pro
@@ -5626,8 +5638,10 @@
 0.0.0.0 customads.co
 0.0.0.0 vs19.bj2ct.u3.ucweb.com
 0.0.0.0 adsapp.gotrackier.com
+0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 cdn77.cityads.com
 0.0.0.0 traffic.getmyads.com
+0.0.0.0 mainadv.com
 0.0.0.0 st-ads-jssdk.vivo.com.cn
 0.0.0.0 api.usbet.win
 0.0.0.0 c2.l.qq.com
@@ -5752,6 +5766,7 @@
 0.0.0.0 click.buzzcity.net
 0.0.0.0 www.apexstoneadvisors.com
 0.0.0.0 unstat.baidu.com
+0.0.0.0 www.yoads.net
 0.0.0.0 ad.ipadview.com
 0.0.0.0 api.triver.jp
 0.0.0.0 ads-by.yieldselect.com
@@ -5815,6 +5830,7 @@
 0.0.0.0 www.fhatfee.ero-advertising.com
 0.0.0.0 ads.ccgateway.net
 0.0.0.0 realmedia.advance.net
+0.0.0.0 www.novaonads.com
 0.0.0.0 www.riperrampo.pro
 0.0.0.0 tnc3-alisc2.zijieapi.com
 0.0.0.0 ironbrookadvisors.mom
@@ -6084,6 +6100,7 @@
 0.0.0.0 api.atas.io
 0.0.0.0 p3.adkwai.com
 0.0.0.0 www.ads234.com
+0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 sportplus.pro
 0.0.0.0 analytics.tiki.vn
 0.0.0.0 kylvarix-pro.com
@@ -6245,6 +6262,7 @@
 0.0.0.0 ads.uxs.at
 0.0.0.0 adx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 api-access.pangolin-sdk-toutiao15-b.com
+0.0.0.0 api.bttrack.com
 0.0.0.0 accidentadvicehelpline.co.uk
 0.0.0.0 adx.dable.io
 0.0.0.0 omgmta.play.ott.video.qq.com
@@ -6673,6 +6691,7 @@
 0.0.0.0 www.slawbdisap.pro
 0.0.0.0 adproxy.autohome.com.cn
 0.0.0.0 ads7-normal-lf.zijieapi.com
+0.0.0.0 fadskis.com
 0.0.0.0 ad.dangkygo88.in
 0.0.0.0 i0-vcdn.anthill.vn
 0.0.0.0 analytics.global.sky.com
@@ -6868,6 +6887,7 @@
 0.0.0.0 101.201.29.182
 0.0.0.0 adss.yahoo.com
 0.0.0.0 analytics.data.lloydsbankinggroup.com
+0.0.0.0 yoads.net
 0.0.0.0 ads.sladur.com
 0.0.0.0 sdk.adsongo.com
 0.0.0.0 v1-ad.ixigua.com
@@ -7502,6 +7522,7 @@
 0.0.0.0 ads23-normal-lf.zijieapi.com
 0.0.0.0 vs22.gzcm.u3.ucweb.com
 0.0.0.0 ad-locus.com
+0.0.0.0 bc.ad.daum.net
 0.0.0.0 ads.fuckingmachines.com
 0.0.0.0 ads.auctioncity.co.nz
 0.0.0.0 adsponse.de
@@ -7675,6 +7696,7 @@
 0.0.0.0 www.glucorepro.pro
 0.0.0.0 ads.crisppremium.com
 0.0.0.0 bank20.ads.dt.mydas.mobi
+0.0.0.0 ads.pubmatic.com
 0.0.0.0 bongacams.com
 0.0.0.0 counter.sina.com.cn
 0.0.0.0 jrj.adsame.com
@@ -7866,6 +7888,7 @@
 0.0.0.0 click.dangdang.com
 0.0.0.0 yt1.mmstat.com
 0.0.0.0 cdn.alleliteads.com
+0.0.0.0 api.sociaplus.com
 0.0.0.0 sgsnssdk.com.edgekey.net
 0.0.0.0 decerscult.pro
 0.0.0.0 httpdns.ocloud.oppomobile.com
@@ -8236,6 +8259,7 @@
 0.0.0.0 youku-dtv.m.cn.miaozhen.com
 0.0.0.0 ad.dev.360.cn
 0.0.0.0 check-activity.com.ru
+0.0.0.0 adimpression.startappservice.com
 0.0.0.0 b.appjiagu.com
 0.0.0.0 related-ads.com
 0.0.0.0 www.whalecashads.com
@@ -8788,6 +8812,7 @@
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 pensaanopi.pro
 0.0.0.0 rtb-csync-itx4.smartadserver.com
+0.0.0.0 tracking.v.tf.360.cn
 0.0.0.0 atlasforgeanalytics.mobi
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 kpstaticbj.wx.ckjr001.com
@@ -9474,6 +9499,7 @@
 0.0.0.0 www.data-ero-advertising.com
 0.0.0.0 www.lp.trade360.com
 0.0.0.0 ad2.nend.net
+0.0.0.0 www.vads.net.vn
 0.0.0.0 onsiterecs.api.boomtrain.com
 0.0.0.0 ads.aol.co.uk
 0.0.0.0 static.jupin.mediav.com
@@ -9832,6 +9858,7 @@
 0.0.0.0 www.lorviatex-pro.com
 0.0.0.0 ad17digital.checkm8.com
 0.0.0.0 ads.carocean.co.uk
+0.0.0.0 api.parsely.com
 0.0.0.0 vid-io-iad.springserve.com
 0.0.0.0 tcads.net
 0.0.0.0 rtb20.adscience.nl
@@ -10088,6 +10115,7 @@
 0.0.0.0 httpdns.qq.com
 0.0.0.0 api.itv.letv.com
 0.0.0.0 goldenbridgeadvisors.mom
+0.0.0.0 adsrvr.org
 0.0.0.0 track.mediav.com
 0.0.0.0 www.quantumincome-pro.net
 127.0.1.1 hostname
@@ -11868,6 +11896,7 @@
 0.0.0.0 ads.champs-elysees.com
 0.0.0.0 adx-open-service.youku.com
 0.0.0.0 spinfo.wps.cn
+0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 ads.usercash.com
 0.0.0.0 ads1.virtual-nights.com
 0.0.0.0 rtb25.adscience.nl
@@ -12011,6 +12040,7 @@
 0.0.0.0 deta.ero-advertising.com
 0.0.0.0 www.cheroenhal.pro
 0.0.0.0 www.wks.ero-advertising.com
+0.0.0.0 sstats.adobe.com
 0.0.0.0 ap.read.mediation.pns.ap.orangeads.fr
 0.0.0.0 adserver.lanacion.com.ar
 0.0.0.0 ads.nerve.com
@@ -12398,6 +12428,7 @@
 0.0.0.0 ads.inviziads.com
 0.0.0.0 ww2026.smartadserver.com
 0.0.0.0 cdn5.proadscdn.com
+0.0.0.0 pbid.pro-market.net
 0.0.0.0 www.adscampaign.com
 0.0.0.0 smart4ads.com
 0.0.0.0 ww370.smartadserver.com
@@ -12790,6 +12821,7 @@
 0.0.0.0 pw.analytics.console.aws.a2z.com
 0.0.0.0 advert.travlang.com
 0.0.0.0 analytics.talkingdata.net
+0.0.0.0 www.vads.vn
 0.0.0.0 adp.s8bbs.com
 0.0.0.0 pre3-ad.alimama.com
 0.0.0.0 adventurousamount.com
@@ -13027,6 +13059,7 @@
 0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 one88.pro
 0.0.0.0 ace-tag.advertising.com
+0.0.0.0 ads.trafficjunky.net
 0.0.0.0 analytics.pokki.com
 0.0.0.0 ptads.sv.publicus.com
 0.0.0.0 api.avocet.io
@@ -13255,6 +13288,7 @@
 0.0.0.0 impservice.dict.youdao.com
 0.0.0.0 adver.24h.com.vn
 0.0.0.0 w15.gskwai.com
+0.0.0.0 ads.rubiconproject.com
 0.0.0.0 customer-system-update-eepro.vercel.app
 0.0.0.0 cdn1.adspace.4tube.com
 0.0.0.0 ads.independent.com.mt
@@ -13476,6 +13510,7 @@
 0.0.0.0 www.highlandadvisors.mom
 0.0.0.0 d6.sinaimg.cn
 0.0.0.0 advariant.com
+0.0.0.0 adserver-as.adtech.advertising.com
 0.0.0.0 api.decibelinsight.net
 0.0.0.0 yingxiao.baidu.com
 0.0.0.0 wow.ero-advertising.com
@@ -13546,6 +13581,7 @@
 0.0.0.0 startup.oupeng.com
 0.0.0.0 www.bitcoin-lexi-pro.net
 0.0.0.0 c03.adsummos.net
+0.0.0.0 adsdk.yandex.ru
 0.0.0.0 www.vermievinc.pro
 0.0.0.0 speednetwork6.adk2x.com
 0.0.0.0 js.ero-advertising.com
@@ -13650,6 +13686,7 @@
 0.0.0.0 xn--pan-ei29e.xn--baidu-jm6h.com
 0.0.0.0 ads.bauerpublishing.com
 0.0.0.0 mb.adres.wpscdn.cn
+0.0.0.0 apac-tw-ad-track.aralego.com
 0.0.0.0 ads.amgdgt.com
 0.0.0.0 slimads.vn
 0.0.0.0 e-ad-monitor.huya.com
@@ -13665,6 +13702,7 @@
 0.0.0.0 nine-a.p.adnxs.com
 0.0.0.0 ads.suckhoegiadinh.com.vn
 0.0.0.0 adserver.airmiles.ca
+0.0.0.0 miaozhen.com
 0.0.0.0 www.imlines-update.appwrite.network
 0.0.0.0 ad.abctv.com
 0.0.0.0 click.alibaba.com
@@ -14120,7 +14158,6 @@
 0.0.0.0 node-06.adsrv.net
 0.0.0.0 atdnetwork.com
 0.0.0.0 waufooke.com
-0.0.0.0 api.ad.smaato.net
 0.0.0.0 xmlppc.xml.ak-is2.net
 0.0.0.0 needyneedle.com
 0.0.0.0 apps.pubmatic.com
@@ -14234,7 +14271,6 @@
 0.0.0.0 engine.adlogists.com
 0.0.0.0 vebadu.com
 0.0.0.0 highcpmcreativeformat.com
-0.0.0.0 adlog.flurry.com
 0.0.0.0 active.iperceptions.com
 0.0.0.0 trademob.com
 0.0.0.0 rta2.metro.co.uk
@@ -14382,6 +14418,7 @@
 0.0.0.0 winneradsmedia.com
 0.0.0.0 dowerlesssightseehow.com
 0.0.0.0 unseenreport.com
+0.0.0.0 freckledoutsiderundaunted.com
 0.0.0.0 dc.bizographics.com
 0.0.0.0 runative.com
 0.0.0.0 loadm.exelator.com
@@ -14422,7 +14459,6 @@
 0.0.0.0 oinkedbowls.com
 0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 www.impactradius-event.com
-0.0.0.0 adservex.media.net
 0.0.0.0 theestauptooks.net
 0.0.0.0 amobee-partners.tremorhub.com
 0.0.0.0 breathelicense.com
@@ -14677,7 +14713,6 @@
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 tracker-mw-zlivestream.zapps.vn
 0.0.0.0 gjtrack.ucweb.com
-0.0.0.0 stsdk.vivoglobal.com
 0.0.0.0 content.exoticads.com
 0.0.0.0 advertising-cdn.com
 0.0.0.0 rnd.novanet.vn
@@ -14706,7 +14741,6 @@
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 ads.ioam.de
 0.0.0.0 static.clicktripz.com
-0.0.0.0 rabbit.tg.meitu.com
 0.0.0.0 4dsply.com
 0.0.0.0 r.turn.com
 0.0.0.0 lib.pgmcdn.com
@@ -15514,7 +15548,6 @@
 0.0.0.0 eu.smrtb.com
 0.0.0.0 bs.showheroes.com
 0.0.0.0 revrtb.com
-0.0.0.0 api.optmnstr.com
 0.0.0.0 b.adnxs.com
 0.0.0.0 metric.picodi.com
 0.0.0.0 www.sharethis.com
@@ -16166,7 +16199,6 @@
 0.0.0.0 creative.xlviirdr.com
 0.0.0.0 zmalalxt.com
 0.0.0.0 www3.smartadserver.com
-0.0.0.0 users.api.jeeng.com
 0.0.0.0 premierpartners.marketo.com
 0.0.0.0 affiliates.digitalriver.com
 0.0.0.0 enterprisertb.djaxadserver.com
@@ -16606,7 +16638,6 @@
 0.0.0.0 www.brand.ad
 0.0.0.0 playview.stage.showheroes.com
 0.0.0.0 adbot.com
-0.0.0.0 ads.api.vungle.com
 0.0.0.0 hbntxrwmvf.com
 0.0.0.0 api.bam-x.com
 0.0.0.0 pocpoc.io
@@ -16754,7 +16785,6 @@
 0.0.0.0 api.aimtell.com
 0.0.0.0 www.aqua-adserver.com
 0.0.0.0 privacy.yieldlove-ad-serving.net
-0.0.0.0 www.yoads.net
 0.0.0.0 yahoo.bannertrack.net
 0.0.0.0 www.ad.plus
 0.0.0.0 mobilevideo.djaxadserver.com
@@ -16797,7 +16827,6 @@
 0.0.0.0 ftte.xyz
 0.0.0.0 ru4.com
 0.0.0.0 int.vlancaa.fun
-0.0.0.0 www.novaonads.com
 0.0.0.0 dnsbak.mediaz.vn
 0.0.0.0 lsosad.com
 0.0.0.0 baithoph.net
@@ -17026,7 +17055,6 @@
 0.0.0.0 wwwstatic.inspectlet.com
 0.0.0.0 reports-k8s.leanplum.com
 0.0.0.0 us2.siteimprove.com
-0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 adnection.com
 0.0.0.0 alpha-events.aerserv.com
 0.0.0.0 iv.doubleclick.net
@@ -18117,6 +18145,7 @@
 0.0.0.0 zarpop.com
 0.0.0.0 ats.everesttech.net
 0.0.0.0 sozwkk.com
+0.0.0.0 bpacihfabm.com
 0.0.0.0 a.pub.network
 0.0.0.0 kirteexe.tv
 0.0.0.0 greenedenlarge.uno
@@ -18153,7 +18182,6 @@
 0.0.0.0 co.dewrain.world
 0.0.0.0 goldspotmedia.com
 0.0.0.0 linkadvdirect.com
-0.0.0.0 ads.pubmatic.com
 0.0.0.0 metricreceiver.cellrebel.com
 0.0.0.0 mgyccfrshz.com
 0.0.0.0 ilbanner.com
@@ -18290,7 +18318,6 @@
 0.0.0.0 serving.datawrkz.com
 0.0.0.0 tapdb.net
 0.0.0.0 answers.chartboost.com
-0.0.0.0 api.sociaplus.com
 0.0.0.0 ivstracker.net
 0.0.0.0 codedexchange.com
 0.0.0.0 local-media.m.ambient-platform.com
@@ -18907,7 +18934,6 @@
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 count.appadhoc.com
 0.0.0.0 collector-16238.us.tvsquared.com
-0.0.0.0 tracking.v.tf.360.cn
 0.0.0.0 ads.videy.co
 0.0.0.0 stm-cdn.cn.miaozhen.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
@@ -19163,6 +19189,7 @@
 0.0.0.0 analytics-staging.ahrefs.dev
 0.0.0.0 xgdnjxlmi.com
 0.0.0.0 px.sharethis.com
+0.0.0.0 metatrckpixel.com
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 static.scanscout.com
 0.0.0.0 0i0i0i0.com
@@ -19672,7 +19699,6 @@
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 downloads.a-mo.net
 0.0.0.0 banner.fyber.com
-0.0.0.0 api.parsely.com
 0.0.0.0 alkalizemarineprude.com
 0.0.0.0 twa-pvmax.tenmax.io
 0.0.0.0 clicmanager.fr
@@ -20772,6 +20798,7 @@
 0.0.0.0 suddenvampire.com
 0.0.0.0 tracker.personizely.net
 0.0.0.0 adx.opera.com
+0.0.0.0 datemefast.com
 0.0.0.0 capi.connatix.com
 0.0.0.0 track.anchorfree.com
 0.0.0.0 s.iaudienc.com
@@ -21086,7 +21113,6 @@
 0.0.0.0 hydraulzonure.com
 0.0.0.0 popsgg.xml-eu-v4.ak-is2.net
 0.0.0.0 stats.showcasethat.com
-0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 shareasale.com
 0.0.0.0 rtbr.bebi.com
 0.0.0.0 static.admidainsight.com
@@ -21435,7 +21461,6 @@
 0.0.0.0 mcs-sg.tiktok.com
 0.0.0.0 gmossp-sp.jp
 0.0.0.0 balancebreath.com
-0.0.0.0 pbid.pro-market.net
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 ulmoyc.com
 0.0.0.0 cdn.trackjs.com
@@ -21932,7 +21957,6 @@
 0.0.0.0 velismedia.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 pasta.durecorder.duapps.com
-0.0.0.0 ads.trafficjunky.net
 0.0.0.0 trk.twofeeds.com
 0.0.0.0 mc.webvisor.com
 0.0.0.0 prod.ugdturner.com
@@ -22238,7 +22262,6 @@
 0.0.0.0 l.aaxads.com
 0.0.0.0 storage.mcwnow.co
 0.0.0.0 direct-events-collector.spot.im
-0.0.0.0 adserver-as.adtech.advertising.com
 0.0.0.0 innity.com
 0.0.0.0 go1.for3e.com
 0.0.0.0 superstats.com
@@ -22261,6 +22284,7 @@
 0.0.0.0 sicksmash.com
 0.0.0.0 trace.qq.com
 0.0.0.0 www.adxplay.com
+0.0.0.0 oyfuhknvk.com
 0.0.0.0 ssl-cdn.media.innity.net
 0.0.0.0 odgomfabcas.com
 0.0.0.0 knxabzznddtc.com
@@ -22348,7 +22372,6 @@
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adschoom.com
 0.0.0.0 service.pca.admarketplace.net
-0.0.0.0 apac-tw-ad-track.aralego.com
 0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 creepingbrings.com
 0.0.0.0 ntvpwpush.com
@@ -22365,7 +22388,6 @@
 0.0.0.0 showads-sgc.pubmatic.com
 0.0.0.0 speakol.com
 0.0.0.0 oarouwousti.com
-0.0.0.0 miaozhen.com
 0.0.0.0 tacticwane.com
 0.0.0.0 query-us-east1.petametrics.com
 0.0.0.0 assets.rubiconproject.com
@@ -22435,6 +22457,7 @@
 0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 c.steelhousemedia.com
 0.0.0.0 nangalupeose.com
+0.0.0.0 pumaqmqix.com
 0.0.0.0 api-staging.wootric.com
 0.0.0.0 go.aniview.com
 0.0.0.0 admantx.com
@@ -22951,6 +22974,7 @@
 0.0.0.0 metrics.govexec.com
 0.0.0.0 fvalid.appsflyer.com
 0.0.0.0 api.newsmaxfeednetwork.com
+0.0.0.0 rebtpzkgtas.com
 0.0.0.0 instantmadness.com
 0.0.0.0 pixel.prod2.invitemedia.com
 0.0.0.0 b.siftscience.com
@@ -23187,7 +23211,6 @@
 0.0.0.0 s.grvmedia.com
 0.0.0.0 hcilralhi.com
 0.0.0.0 cdnp.ad-stir.com
-0.0.0.0 videoads.hotstar.com
 0.0.0.0 socketio-staging.taplytics.com
 0.0.0.0 bjtrjviiovl.com
 0.0.0.0 as.sexad.net
@@ -23326,7 +23349,6 @@
 0.0.0.0 acp-demo.adblade.com
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 news-muheji.com
-0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 www.getpublica.com
 0.0.0.0 2qj7mq3w4uxe.com
 0.0.0.0 jcount.com
@@ -24019,6 +24041,7 @@
 0.0.0.0 info.startappservice.com
 0.0.0.0 pge.unityads.unity3d.com
 0.0.0.0 dozubatan.com
+0.0.0.0 lflaocoebfflttt.com
 0.0.0.0 go-mpulse.net
 0.0.0.0 adfs.qadynamics.marketo.com
 0.0.0.0 pe1.intentiq.com
@@ -24519,7 +24542,6 @@
 0.0.0.0 cdn.qc24h.com
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 sales.leanplum.com
-0.0.0.0 get.optad360.io
 0.0.0.0 tracking.adflex.vn
 0.0.0.0 lpuodgmca.com
 0.0.0.0 acp-sh.adblade.com
@@ -25265,7 +25287,6 @@
 0.0.0.0 click-euro.acuityplatform.com
 0.0.0.0 ads.livetv664.me
 0.0.0.0 broadensilkslush.com
-0.0.0.0 xacthuc.autoads.asia
 0.0.0.0 brandreachsys.com
 0.0.0.0 admex.com
 0.0.0.0 cetrk.com
@@ -25406,13 +25427,12 @@
 0.0.0.0 wlpinnacle.adsrv.eacdn.com
 0.0.0.0 adtima-video.zadn.vn
 0.0.0.0 u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
+0.0.0.0 ceksevairs.com
 0.0.0.0 svc-analytics.adkernel.com
 0.0.0.0 cdn-cn.brand-display.com
 0.0.0.0 i-sdk.mediation.unity3d.com
-0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 native.triplelift.com
 0.0.0.0 bidder-sand.appnexus.com
-0.0.0.0 mainadv.com
 0.0.0.0 speedomizer.com
 0.0.0.0 metric.picodi.net
 0.0.0.0 mbe-cdn.fyber.com
@@ -25926,7 +25946,6 @@
 0.0.0.0 servebom.com
 0.0.0.0 d4n.platformd.com
 0.0.0.0 ws.amazon-adsystems.com
-0.0.0.0 api.bttrack.com
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 admix.in
 0.0.0.0 twinrdsrv.com
@@ -26240,7 +26259,6 @@
 0.0.0.0 cdn.pocpoc.io
 0.0.0.0 globalwebindex.net
 0.0.0.0 ads.opus-static.net
-0.0.0.0 fadskis.com
 0.0.0.0 pixel.mediamathrdrt.com
 0.0.0.0 snowplow-pixel.tradingview.com
 0.0.0.0 dsp.aralego.com
@@ -26385,7 +26403,6 @@
 0.0.0.0 boustahe.com
 0.0.0.0 fuwalrnce.com
 0.0.0.0 s2517.com
-0.0.0.0 yoads.net
 0.0.0.0 upset-project.com
 0.0.0.0 aj3018.bid
 0.0.0.0 static.eu.criteo.net
@@ -26844,7 +26861,6 @@
 0.0.0.0 budvawshes.ru
 0.0.0.0 pclk.name
 0.0.0.0 api.appnext.com
-0.0.0.0 bc.ad.daum.net
 0.0.0.0 quangcao.tuoitre.vn
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 quzwteqzaabm.com
@@ -27240,6 +27256,7 @@
 0.0.0.0 cdn.pbbl.co
 0.0.0.0 prod-collecticon.outlookmobile.com
 0.0.0.0 cint.com
+0.0.0.0 alexatracker.com
 0.0.0.0 ay.delivery
 0.0.0.0 nauzaphoay.net
 0.0.0.0 tygsqtkyiwxb.com
@@ -27346,7 +27363,6 @@
 0.0.0.0 js.xzjhome.cc
 0.0.0.0 prepositioncamouflage.com
 0.0.0.0 service.maxymiser.net
-0.0.0.0 adimpression.startappservice.com
 0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 aj1913.online
 0.0.0.0 oxwlhazto.com
@@ -28202,7 +28218,6 @@
 0.0.0.0 hetartwg.com
 0.0.0.0 ch-sync.taboola.com
 0.0.0.0 www.trustx.org
-0.0.0.0 www.vads.net.vn
 0.0.0.0 sync.ads.152media.com
 0.0.0.0 kiynew.com
 0.0.0.0 l.sharethis.com
@@ -28670,7 +28685,6 @@
 0.0.0.0 api.kochava.com
 0.0.0.0 adsupplyads.com
 0.0.0.0 cdn.ayads.co
-0.0.0.0 adsrvr.org
 0.0.0.0 kamak-mab.com
 0.0.0.0 staging-insights-collector-origin.nr-data.net
 0.0.0.0 widget.chat.zalo.me
@@ -30075,7 +30089,6 @@
 0.0.0.0 bemobtrcks.com
 0.0.0.0 ducksintroduce.com
 0.0.0.0 tk.anythinktech.com
-0.0.0.0 sstats.adobe.com
 0.0.0.0 proranktracker.com
 0.0.0.0 calculatingtoothbrush.com
 0.0.0.0 curlyhomes.com
@@ -30623,7 +30636,6 @@
 0.0.0.0 pyxiscablese.com
 0.0.0.0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0.0.0.0 livetracker.rfe.pangea-cms.com
-0.0.0.0 www.vads.vn
 0.0.0.0 rivalbuffetdifferently.com
 0.0.0.0 ants.vn
 0.0.0.0 atwola.com
@@ -30956,7 +30968,6 @@
 0.0.0.0 welcome.openx.com
 0.0.0.0 popads.com
 0.0.0.0 tnc-sg.capcutapi.com
-0.0.0.0 ads.rubiconproject.com
 0.0.0.0 b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 0.0.0.0 praddpro.de
 0.0.0.0 outloud.outbrain.com
@@ -31186,7 +31197,6 @@
 0.0.0.0 indexww.com
 0.0.0.0 antillephone.com
 0.0.0.0 e.kde.cz
-0.0.0.0 adsdk.yandex.ru
 0.0.0.0 phywi.org
 0.0.0.0 media-sapiens.com
 0.0.0.0 rewarded-video.fyber.com
