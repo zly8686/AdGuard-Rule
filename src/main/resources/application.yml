@@ -15,6 +15,7 @@ application:
       - 'https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts'
       - 'https://raw.githubusercontent.com/4fuu/AdGuard-Home-PCDN/main/ban.txt'
       - 'https://raw.githubusercontent.com/zly8686/sh/refs/heads/main/ad202601.txt'
+      - 'https://raw.githubusercontent.com/zly8686/AdGuard-Rule/main/rule/hosts.txt'
    #   - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
     #  - 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt' #Scam Blocklist
     #  - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
@@ -86,7 +87,7 @@ application:
       adgh.txt:
         - DOMAIN
         - REGEX
-#        - HOSTS
+        - HOSTS
       hosts.txt:
         - HOSTS
       regex.txt:
