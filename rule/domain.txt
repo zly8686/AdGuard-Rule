@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2026-01-26 20:28:50（北京时间）
+# 更新时间于: 2026-01-26 20:30:56（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 ||as2.ikuai8.com^
@@ -54,6 +54,7 @@
 ||audit.ikuai8.com^
 ||yun-1251915786.cos.ap-beijing.myqcloud.com^
 ||ctrl1.ikuai8.com^
+@@||portal.ikuai8-wifi.com^
 ||video-dsp.pddpic.com^
 ||update.mistat.xiaomi.com^
 @@||meijuresources.oss-cn-hangzhou.aliyuncs.com^
@@ -77,7 +78,6 @@
 ||stun.douyucdn.cn^
 ||saxysec.com^
 ||bsccdn.net^
-||dyp2p-ali.douyucdn.cn^
 ||p2pchunk-ws.douyucdn.cn^
 ||p2perrorlog.douyucdn.cn^
 ||p2pchunk-table.douyucdn.cn^
@@ -85,7 +85,6 @@
 ||stun1.douyucdn.cn^
 ||p2pvod-ws.douyucdn.cn^
 ||ksyungslb.com^
-||dyp2p-hw.douyucdn.cn^
 ||uhabo.com^
 ||p2pupdate.gamedl.qq.com^
 ||xycdn.com^
@@ -113,10 +112,8 @@
 ||dorangesource.alicdn.com^
 ||adv.madserving.com^
 ||cgicol.amap.com^
-||googletagservices-cn.com^
 ||dns.jd.com.gslb.qianxun.com^
 ||musicstun.p2p.qq.com^
-||gemini.yahoo.com^
 ||ag.qq.com^
 ||up-hl.3g.qq.com^
 ||auth.be.sec.miui.com^
@@ -133,7 +130,6 @@
 ||api-env.dropbox-dns.com^
 ||api.sec.miui.com^
 ||tracker.didistatic.com^
-||httpdns.ocloud.oppomobile.com^
 ||api.yuedu.dns.iqiyi.com^
 ||plbslog.umeng.com^
 ||dnsin.in.zapto.xyz^
@@ -149,7 +145,6 @@
 ||adsame.com^
 ||api.bugly.qq.com^
 ||track.uc.cn^
-||alog.umeng.com^
 ||ads.static.madserving.com^
 ||ulogs.umeng.com^
 ||adx.xiaodutv.com^
@@ -229,7 +224,6 @@
 ||cc-api-data.adobe.io^
 ||adsmind.tc.qq.com^
 ||fw.qq.com^
-||google-analytics.com^
 ||tm.sigmob.cn^
 ||ad-channel.diwodiwo.xyz^
 ||adstextview.qq.com^
@@ -242,19 +236,15 @@
 ||e.qq.com^
 ||adsyndication.msn.com^
 ||api.miui.security.xiaomi.com^
-||beacon-api.aliyuncs.com^
 ||analytics.snssdk.com^
 ||mws.adsage.com^
-||browser.events.data.msn.com^
 ||gz-data.com^
 ||dns.loveimgmoe.com^
 ||errnewlog.umeng.com^
 ||log.mmstat.com^
 ||tracker.ai.xiaomi.com^
 ||track.sigmob.cn^
-||dig.bdurl.net^
 ||dnss-blocklist.flinteger.com^
-||alogus.umeng.com^
 ||at.umeng.com^
 ||uop.umeng.com^
 ||trc.adsage.com^
@@ -263,7 +253,6 @@
 ||adslvseed.qq.com^
 ||httpdns.platform.dbankcloud.cn^
 ||dc.letv.com^
-||httpdns.bcelive.com^
 ||dns.cyida.com^
 ||httpdns-api.aliyuncs.com^
 ||adsview2.qq.com^
@@ -287,6 +276,7 @@
 ||3gsoftfile.tc.qq.com^
 ||mdt.qq.com^
 ||config.mobisage.cn^
+||httpdns.bilivideo.com^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 ||dns.supfree.net^
 ||lofter.httpdns.c.163.com^
@@ -307,14 +297,13 @@
 ||adsmind.apdcdn.tc.qq.com^
 ||googleads-cn.com^
 ||dns1.dimassa.net^
+||ad.youku.com^
 ||alog-default.umeng.com^
 ||n.sigmob.cn^
-||browser.events.data.msn.cn^
 ||googletagmanager-cn.com^
 ||httpdns-sdk.n.netease.com^
 ||punch.p2p.qq.com^
 ||tpstelemetry.tencent.com^
-||beizi.biz^
 ||amdc.m.taobao.com^
 ||httpdns-sc.aliyuncs.com^
 ||httpdns.gslb.yy.com^
@@ -373,6 +362,7 @@
 ||heads-fa.spotify.com^
 ||app-measurement.com^
 ||recommend-drcn.hms.dbankcloud.cn^
+||hw-ot-ad.a.yximgs.com^
 ||log.aispeech.com^
 ||ulogjs.gifshow.com^
 ||ads.pubmatic.com^
@@ -468,6 +458,7 @@
 ||sdkconfig.video.qq.com^
 ||h5.hpplay.com.cn^
 ||sdkreport.e.qq.com^
+||offerwall.yandex.net^
 ||adsfile.bssdlbig.kugou.com^
 ||images.outbrainimg.com^
 ||logupdate.avlyun.sec.miui.com^
@@ -486,8 +477,10 @@
 ||ads-api.twitter.com^
 ||grs.dbankcloud.com^
 ||log-upload-os.hoyoverse.com^
+||dig.bdurl.net^
 ||cnlogs.umeng.com^
 ||rps.hpplay.cn^
+||alogus.umeng.com^
 ||analytics.query.yahoo.com^
 ||monsetting.toutiao.com^
 ||ad.shenshiads.com^
@@ -545,6 +538,7 @@
 ||googleads.g.doubleclick-cn.net^
 ||ixav-cse.avlyun.com^
 ||1500022744.vodplayer.wxamedia.com^
+||browser.events.data.msn.cn^
 ||hexagon-analytics.com^
 ||mini-prog-drm.vodplayvideo.net^
 ||yfanads.com^
@@ -582,6 +576,7 @@
 ||h.trace.qq.com^
 ||hyt.comp.360os.com^
 ||wn.x.jd.com^
+||dyp2p-ali.douyucdn.cn^
 ||ad.doubleclick.net^
 ||googleadservices.com^
 ||notify.sec.miui.com^
@@ -600,9 +595,11 @@
 ||union.baidu.cn^
 ||api-ad-data.kajicam.com^
 ||bdapi-ads.realmemobile.com^
+||googletagservices-cn.com^
 ||ads3-normal-hl.zijieapi.com^
 ||omgmta.play.aiseet.atianqi.com^
 ||t7z.cupid.ptqy.gitv.tv^
+||gemini.yahoo.com^
 ||tnc3-aliec2.toutiaoapi.com^
 ||adashxgc.ut.taobao.com^
 ||p66-ad.adkwai.com^
@@ -630,6 +627,7 @@
 ||metrics.icloud.com^
 ||tnc0-aliec2.zijieapi.com^
 ||xiaomi-dtv.m.cn.miaozhen.com^
+||alog.umeng.com^
 ||adse.ximalaya.com^
 ||analytics.tiktok.com^
 ||sdk.beizi.biz^
@@ -642,6 +640,7 @@
 ||log.kuwo.cn^
 ||event.tradplusad.com^
 ||aiseet.aa.atianqi.com^
+||ykad-data.youku.com^
 ||api.htp.hubcloud.com.cn^
 ||log-verify.dutils.com^
 ||v3-ad.video.yximgs.com^
@@ -705,8 +704,10 @@
 ||ads5-normal-lf.zijieapi.com^
 ||ifs.tanx.com^
 ||ad.life.360.cn^
+||beacon-api.aliyuncs.com^
 ||sdk.cferw.com^
 ||test.e.ad.xiaomi.com^
+||browser.events.data.msn.com^
 ||analytics.pointdrive.linkedin.com^
 ||liveats-vod.video.ptqy.gitv.tv^
 ||msdk.voiceads.cn^
@@ -768,6 +769,7 @@
 ||s1.cdn-sg.advlion.com^
 ||ad.winrar.com.cn^
 ||ads.tiktok.com^
+||open.e.kuaishou.com^
 ||pms.mb.qq.com^
 ||telecome.cn^
 ||livewebbs2pcdn.msstatic.com^
@@ -811,10 +813,12 @@
 ||open-set-api.shenshiads.com^
 ||nadvideo2.baidu.com^
 ||ads.raidrive.com^
+||httpdns.ocloud.oppomobile.com^
 ||ad.12306.cn^
 ||mobile.da.mgtv.com^
 ||tnc3-alisc1.snssdk.com^
 ||tj.video.qq.com^
+||tx-kmpaudio.pull.yximgs.com^
 ||static-s.iqiyi.com^
 ||advertising-api-eu.amazon.com^
 ||doubleclick-cn.net^
@@ -860,6 +864,7 @@
 ||tnc3-alisc1.zijieapi.com^
 ||wwads.cn^
 ||wildcard.moatads.com.edgekey.net^
+||pgdt.gtimg.cn^
 ||imdns.hpplay.cn^
 ||logbak.hicloud.com^
 ||stat.dongqiudi.com^
@@ -903,11 +908,13 @@
 ||iad.g.163.com^
 ||sdk.markmedia.com.cn^
 ||wximg.wxs.qq.com^
+||open.kuaishouzt.com^
 ||clog.miguvideo.com^
 ||tvuser-ch.cedock.com^
 ||1500020991.vodplayer.wxamedia.com^
 ||jswebcollects.kugou.com^
 ||oss.cdn.aiclk.com^
+||httpdns.bcelive.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||tx-p2p-v2.pull.yximgs.com^
 ||widgets.outbrain.com^
@@ -978,6 +985,7 @@
 ||huichuan.sm.cn^
 ||mobads-pre-config.cdn.bcebos.com^
 ||g.fancyapi.com^
+||open.e.kuaishou.cn^
 ||apiyd.my91app.com^
 ||mi.gdt.qq.com^
 ||t2.fancyapi.com^
@@ -1001,6 +1009,7 @@
 ||nex.163.com^
 ||applog-perf.uc.cn^
 ||vlive.qqvideo.tc.qq.com^
+||adx-open-service.youku.com^
 ||ads.youtube.com^
 ||ggx01.miguvideo.com^
 ||lftxali.fancyapi.com^
@@ -1030,6 +1039,7 @@
 ||business-api.tiktok.com^
 ||notes-analytics-events.apple.com^
 ||in.treasuredata.com^
+||ogads-pa.clients6.google.com^
 ||csjplatform.com^
 ||sdk.1rtb.net^
 ||image-ad.sm.cn^
@@ -1057,6 +1067,7 @@
 ||adtrack.quark.cn^
 ||file.daihuo.qq.com^
 ||v2mi.gdt.qq.com^
+||tx-ad.a.yximgs.com^
 ||game.loveota.com^
 ||ad.v3mh.com^
 ||report.tv.kohesport.qq.com^
@@ -1071,6 +1082,7 @@
 ||beacons.gvt2.com^
 ||union-mlog.bigda.com^
 ||iyfbodn.com^
+||open.kwaizt.com^
 ||applog.zijieapi.com^
 ||cbjs.baidu.com^
 ||adtracker.medproad.com^
@@ -1094,6 +1106,7 @@
 ||sdktmp.hubcloud.com.cn^
 ||pig.pupuapi.com^
 ||ck.ads.oppomobile.com^
+||google-analytics.com^
 ||pl.cp31.ott.cibntv.net^
 ||1500026601.vodplayer.wxamedia.com^
 ||sdkoptedge.chinanetcenter.com^
@@ -1133,6 +1146,7 @@
 ||logservice1.hicloud.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||ads3-normal-lf.zijieapi.com^
+||gdfp.gifshow.com^
 ||ad.cctv.com^
 ||cdn.ynuf.aliapp.org^
 ||click4.chinaliftoff.io^
@@ -1163,6 +1177,7 @@
 ||mobilelog.upqzfile.com^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||addata.jd.com^
+||beizi.biz^
 ||xcx.dcad01.com^
 ||xlog.jd.com^
 ||cpc-service-square.aiclk.com^
@@ -1184,6 +1199,7 @@
 ||heads-ak.spotify.com.edgesuite.net^
 ||ads5-normal-lq.zijieapi.com^
 ||andrqd.play.aiseet.atianqi.com^
+||dyp2p-hw.douyucdn.cn^
 ||tnc0-bjlgy.zijieapi.com^
 ||w.l.qq.com^
 ||t-dsp.pinduoduo.com^
@@ -1209,7 +1225,6 @@
 ||tnc16-alisg.isnssdk.com^
 ||banners.etermax.com^
 ||mobotoolpush.moboapps.io^
-||hw-ot-ad.a.yximgs.com^
 ||oconner.biz^
 ||ads-sdk.nianticlabs.com^
 ||tw-api.vpon.com^
@@ -1283,7 +1298,6 @@
 ||stream.spongead.com^
 ||comscore.com^
 ||ad.daum.net^
-||offerwall.yandex.net^
 ||scorecardresearch.com^
 ||zoly.tech^
 ||adgrx.com^
@@ -1338,7 +1352,6 @@
 ||appnext-a.akamaihd.net^
 ||matrix.dailyinnovation.biz^
 ||huntmad.com^
-||httpdns.bilivideo.com^
 ||redtram.com^
 ||tapone.jp^
 ||banners-slb.mobile.yandex.net^
@@ -1449,7 +1462,6 @@
 ||adxcorp.kr^
 ||api.appnxt.net^
 ||fingerhi.net^
-||ykad-data.youku.com^
 ||exelbid.com^
 ||cdp.cloud.unity3d.com^
 ||ads-cdn.hopper.com^
@@ -1578,7 +1590,6 @@
 ||athena.api.kwalee.com^
 ||adsgard.aprod.scopely.io^
 ||d32z5ni8t5127x.cloudfront.net^
-||open.e.kuaishou.com^
 ||appbaqend.com^
 ||bjads.bejbej.ca^
 ||sharethrough.com^
@@ -1645,7 +1656,6 @@
 ||advertising.com^
 ||pubnative.info^
 ||adhood.com^
-||tx-kmpaudio.pull.yximgs.com^
 ||ads-bidder-api.twitter.com^
 ||stat.kika-backend.com^
 ||i.isnssdk.com^
@@ -1684,7 +1694,6 @@
 ||reqde.sooplive.co.kr^
 ||adserver.goforandroid.com^
 ||tizerclik.com^
-||pgdt.gtimg.cn^
 ||preitem.wshareit.com^
 ||criteo.com^
 ||advombat.ru^
@@ -1742,7 +1751,6 @@
 ||moba8.net^
 ||api-ad-callback.falconnet.app^
 ||applifier.com^
-||open.kuaishouzt.com^
 ||activity.browser.intl.miui.com^
 ||impbid.com^
 ||etl.tindersparks.com^
@@ -1818,7 +1826,6 @@
 ||staticcc.com^
 ||sdk.starbolt.io^
 ||adx-tk.rayjump.com^
-||open.e.kuaishou.cn^
 ||lb.usemaxserver.de^
 ||p16-ad.byteoversea.com^
 ||thetrafficstat.net^
@@ -1845,7 +1852,6 @@
 ||rtblab.net^
 ||adsmrapi.imbc.com^
 ||admin.appnext.com^
-||adx-open-service.youku.com^
 ||ad-files.classting.com^
 ||projecta-common-1258344701.file.myqcloud.com^
 ||data-optout-service.uca.cloud.unity3d.com^
@@ -1875,7 +1881,6 @@
 ||i.skimresources.com^
 ||adsrvr.io^
 ||promo-images.ttpsdk.info^
-||ogads-pa.clients6.google.com^
 ||e-planning.net^
 ||geede.info^
 ||openglass.tv^
@@ -1907,7 +1912,6 @@
 ||newsnet.in.ua^
 ||playwire.com^
 ||nanigans.com^
-||tx-ad.a.yximgs.com^
 ||fiksu.com^
 ||adverticum.net^
 ||xdrig.com^
@@ -1915,7 +1919,6 @@
 ||switchadhub.com^
 ||ad.cauly.co.kr^
 ||adstrategy.biz.weibo.com^
-||open.kwaizt.com^
 ||mobilecore.com^
 ||black6adv.com^
 ||deliveryengine.adswizz.com
@@ -1979,7 +1982,6 @@
 ||promotion-quicker.jftechsoft.com^
 ||hellay.net^
 ||adinfo.tango.me^
-||gdfp.gifshow.com^
 ||san.myadssupport.com^
 ||api-ad-adapter.wps.com^
 ||appwall.tv2phone.cn^
@@ -2009,7 +2011,6 @@
 ||intowow.com^
 ||tr.acobt.tech^
 ||cdns.lodeo.io^
-||ad.youku.com^
 ||ads.pinger.com^
 ||adshost2.com^
 ||splicky.com^
