@@ -89,7 +89,7 @@ application:
       adgh.txt:
         - DOMAIN
         - REGEX
-        - MODIFY
+      #  - MODIFY
         - HOSTS
       hosts.txt:
         - HOSTS
