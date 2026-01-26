@@ -1,6 +1,6 @@
 # Title: ShuYiDNS
 # Homepage: https://github.com/zly8686/AdGuard-Rule
-# 更新时间于: 2026-01-26 20:24:29（北京时间）
+# 更新时间于: 2026-01-26 20:28:50（北京时间）
 # 每12小时同步一次、如有误杀、请手动解除加入白名单
 
 ||as2.ikuai8.com^
@@ -242,6 +242,7 @@
 ||e.qq.com^
 ||adsyndication.msn.com^
 ||api.miui.security.xiaomi.com^
+||beacon-api.aliyuncs.com^
 ||analytics.snssdk.com^
 ||mws.adsage.com^
 ||browser.events.data.msn.com^
@@ -372,7 +373,6 @@
 ||heads-fa.spotify.com^
 ||app-measurement.com^
 ||recommend-drcn.hms.dbankcloud.cn^
-||hw-ot-ad.a.yximgs.com^
 ||log.aispeech.com^
 ||ulogjs.gifshow.com^
 ||ads.pubmatic.com^
@@ -705,7 +705,6 @@
 ||ads5-normal-lf.zijieapi.com^
 ||ifs.tanx.com^
 ||ad.life.360.cn^
-||beacon-api.aliyuncs.com^
 ||sdk.cferw.com^
 ||test.e.ad.xiaomi.com^
 ||analytics.pointdrive.linkedin.com^
@@ -1134,7 +1133,6 @@
 ||logservice1.hicloud.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||ads3-normal-lf.zijieapi.com^
-||gdfp.gifshow.com^
 ||ad.cctv.com^
 ||cdn.ynuf.aliapp.org^
 ||click4.chinaliftoff.io^
@@ -1211,6 +1209,7 @@
 ||tnc16-alisg.isnssdk.com^
 ||banners.etermax.com^
 ||mobotoolpush.moboapps.io^
+||hw-ot-ad.a.yximgs.com^
 ||oconner.biz^
 ||ads-sdk.nianticlabs.com^
 ||tw-api.vpon.com^
@@ -1980,6 +1979,7 @@
 ||promotion-quicker.jftechsoft.com^
 ||hellay.net^
 ||adinfo.tango.me^
+||gdfp.gifshow.com^
 ||san.myadssupport.com^
 ||api-ad-adapter.wps.com^
 ||appwall.tv2phone.cn^
